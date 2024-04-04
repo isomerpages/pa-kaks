@@ -7,7 +7,7 @@ links:
         url: /permalink
       - title: Newsletter
         url: /permalink
-  - title: "OUR ACTIVITIES "
+  - title: OUR ACTIVITIES
     url: /permalink
     sublinks:
       - title: Monthly Activities
@@ -21,3 +21,5 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
+  - title: "OUR COMMUNITY "
+    collection: our-community
