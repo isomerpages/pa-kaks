@@ -25,10 +25,8 @@ sections:
       title: KRETA AYER-KIM SENG TAMIL NEW YEAR 2024
       subtitle: OUR ACTIVITIES
       id: infopic
-      description: >+
-        21st April 2024 | 3pm - 8pm; Immerse yourself in the rich culture and
-        festivities alongside our vibrant community residents. 
-
+      description: 21st April 2024 | 3pm - 8pm; Immerse yourself in the rich culture
+        and festivities alongside our vibrant community residents.
       button: Find Out More
       url: /our-activities/upcoming-activities
       image: /images/11003.jpg
@@ -64,9 +62,9 @@ sections:
             Email: PA_KRETAAYERCC@pa.gov.sg
             Phone: +65 6222 3597
         - title: "Opening Hours:"
-          description: |
+          description: |-
             Counter Services: 10am - 6pm
-            Facilities: 10am - 10pm 
+            Facilities: 10am - 10pm
         - title: Closed on Public Holidays
           description: ""
   - infocols:
@@ -75,24 +73,22 @@ sections:
       id: infocols
       infoboxes:
         - title: "Contact Details:"
-          description: |+
+          description: |-
             Email: PA_KIMSENGCC@pa.gov.sg
             Phone: +65 6272 3878
-
         - title: "Opening Hours:"
           description: |-
             Counter Services: 10am - 6pm
-            Facilities: 10am - 10pm 
+            Facilities: 10am - 10pm
         - title: Closed on public holidays
           description: ""
   - infopic:
       title: Facebook
       subtitle: "Stay connected:"
       id: infopic
-      description: >
-        Follow our FB page for latest updates, events, and heartwarming stories
-        - keeping the community spirit alive online! Scan our QR code with
-        go.gov link here: 
+      description: "Follow our FB page for latest updates, events, and heartwarming
+        stories - keeping the community spirit alive online! Scan our QR code
+        with go.gov link here:"
       image: /images/FB.png
       alt: Image alt text
   - infopic:
@@ -101,7 +97,7 @@ sections:
       id: infopic
       description: "Follow our Instagram for latest updates, events, and heartwarming
         stories - keeping the community spirit alive online! Scan our QR code
-        with go.gov link here: "
+        with go.gov link here:"
       image: /images/IG.png
       alt: Image alt text
 ---
