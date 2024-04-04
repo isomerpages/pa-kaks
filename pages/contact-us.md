@@ -16,7 +16,7 @@ locations:
         time: 10am - 10pm
         description: Closed on Public Holidays
     maps_link: https://www.google.com/maps/place/Kreta+Ayer+Community+Club/@1.2809149,103.8402114,17z/data=!3m1!4b1!4m6!3m5!1s0x31da1972eb840acb:0xfd4a4679684dd0e0!8m2!3d1.2809149!4d103.8427863!16s%2Fg%2F1tkskws1?entry=ttu
-    title: "Kreta Ayer Community Club "
+    title: Kreta Ayer Community Club
   - address:
       - 570 Havelock Road
       - Kim Seng CC
@@ -32,14 +32,14 @@ locations:
     title: Kim Seng Community Center
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6222 3597
+      - email: PA_KRETAAYERCC@pa.gov.sg
       - other: ""
-    title: Careers
+    title: Kreta Ayer Community Club
+  - content:
+      - phone: +65 6272 3878
+      - email: PA_KIMSENGCC@pa.gov.sg
+      - other: ""
+    title: Kim Seng Community Center
 feedback: ""
 ---
