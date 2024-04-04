@@ -1,5 +1,7 @@
 logo: /images/Colour_KAKS_logo__Horizontal_.png
 links:
+  - title: OUR COMMUNITY folder
+    collection: our-community
   - title: OUR COMMUNITY
     url: /permalink
     sublinks:
@@ -21,5 +23,3 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: OUR COMMUNITY folder
-    collection: our-community
