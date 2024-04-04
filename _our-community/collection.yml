@@ -2,4 +2,5 @@ collections:
   our-community:
     output: true
     order:
+      - Newsletter.md
       - Volunteer Stories.md
