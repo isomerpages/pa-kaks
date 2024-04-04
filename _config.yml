@@ -3,7 +3,7 @@ url: https://www.kaks.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#d8246a"
-  secondary-color: "#ec709f"
+  secondary-color: "#d8246a"
   media-colors:
     - title: media-color-one
       color: "#d8246a"
