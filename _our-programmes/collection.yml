@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Chinatown  AAC/.keep
       - SparkleCare/.keep
       - SparkleCare/CatchPlus.md
       - SparkleCare/MealsPlus.md
