@@ -28,7 +28,7 @@ sections:
       description: 21st April 2024 | 3pm - 8pm; Immerse yourself in the rich culture
         and festivities alongside our vibrant community residents.
       button: Find Out More
-      url: /our-activities/upcoming-activities
+      url: /upcoming-activities
       image: /images/11003.jpg
   - infopic:
       title: SPARKLECARE
