@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Come Join Our Compassionate Community
-      background: /images/G0002036_5_April.jpg
+      background: /images/G0002036.jpg
       variant: center
       dropdown:
         title: How Can We Assist You?
