@@ -1,25 +1,8 @@
 logo: /images/Colour_KAKS_logo__Horizontal_.png
 links:
-  - title: OUR COMMUNITY folder
+  - title: Our Community
     collection: our-community
-  - title: OUR COMMUNITY
-    url: /permalink
-    sublinks:
-      - title: Volunteer Stories
-        url: /permalink
-      - title: Newsletter
-        url: /permalink
-  - title: OUR ACTIVITIES
-    url: /permalink
-    sublinks:
-      - title: Monthly Activities
-        url: /permalink
-  - title: OUR PROGRAMMES
-    url: /permalink
-    sublinks:
-      - title: SparkleCare
-        url: /permalink
-      - title: Chinatown AAC
-        url: /permalink
+  - title: Our Activities
+    collection: our-activities
   - title: Contact Us
     url: /contact-us/
