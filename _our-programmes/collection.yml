@@ -1,5 +1,5 @@
 collections:
-  sparklecare:
+  our-programmes:
     output: true
     order:
       - SparkleCare/.keep
