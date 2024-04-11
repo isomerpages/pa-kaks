@@ -51,37 +51,6 @@ sections:
       url: /our-programme/chinatown- active-ageing-centres
       image: /images/kush_dwivedi_T5fnjVj0AW8_unsplash__1_.jpg
       alt: Image alt text
-  - infocols:
-      title: Kreta Ayer Community Club
-      subtitle: 28A Kreta Ayer Road S088995
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: "Contact Details:"
-          description: |-
-            Email: PA_KRETAAYERCC@pa.gov.sg
-            Phone: +65 6222 3597
-        - title: "Opening Hours:"
-          description: |-
-            Counter Services: 10am - 6pm
-            Facilities: 10am - 10pm
-        - title: Closed on Public Holidays
-          description: ""
-  - infocols:
-      title: Kim Seng Community Center
-      subtitle: 570 Havelock Road S169640
-      id: infocols
-      infoboxes:
-        - title: "Contact Details:"
-          description: |-
-            Email: PA_KIMSENGCC@pa.gov.sg
-            Phone: +65 6272 3878
-        - title: "Opening Hours:"
-          description: |-
-            Counter Services: 10am - 6pm
-            Facilities: 10am - 10pm
-        - title: Closed on public holidays
-          description: ""
   - infopic:
       title: Facebook
       subtitle: "Stay connected:"
