@@ -47,7 +47,7 @@ third_nav_title: Chinatown  AAC
 </div>
 </div>
 <p></p>
-<h3><strong>Volunteering and Donation Opportunities </strong></h3>
+<h3><strong>Volunteering and Donation Opportunities</strong></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
