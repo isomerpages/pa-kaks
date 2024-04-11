@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
-      - Chinatown  AAC/Our Activities.md
-      - Chinatown  AAC/About Us & Locations.md
       - Chinatown  AAC/.keep
+      - Chinatown  AAC/About Us & Locations.md
+      - Chinatown  AAC/Our Activities.md
       - SparkleCare/.keep
       - SparkleCare/CatchPlus.md
       - SparkleCare/MealsPlus.md
