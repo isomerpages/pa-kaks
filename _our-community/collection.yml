@@ -1,0 +1,6 @@
+collections:
+  our-community:
+    output: true
+    order:
+      - Volunteer Stories.md
+      - Newsletter.md
