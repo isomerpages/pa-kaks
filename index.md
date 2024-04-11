@@ -37,7 +37,7 @@ sections:
       description: SparkleCare's tailored well-being programmes cater to our
         residents' needs. Join us - volunteer, donate, or spread awareness - to
         foster a supportive community.
-      button: Button Text
+      button: Find Out More
       url: /our-programmes/sparkle-care
       image: /images/ESR63831__1_.jpg
       alt: Image alt text
