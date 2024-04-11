@@ -3,8 +3,9 @@ title: Our Activities
 permalink: /our-activities/
 variant: tiptap
 description: Find out what volunteer opportunities we have in-store for you.
-third_nav_title: Chinatown  AAC
+third_nav_title: Chinatown AAC
 ---
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Watercolours" src="/images/Screenshot_2024_04_04_at_9_29_34_AM.png">

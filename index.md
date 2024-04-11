@@ -25,7 +25,8 @@ sections:
       title: KRETA AYER-KIM SENG TAMIL NEW YEAR 2024
       subtitle: OUR ACTIVITIES
       id: infopic
-      description: 21st April 2024 | 3pm - 8pm; Immerse yourself in the rich culture
+      description:
+        21st April 2024 | 3pm - 8pm; Immerse yourself in the rich culture
         and festivities alongside our vibrant community residents.
       button: Find Out More
       url: /upcoming-activities
@@ -45,17 +46,19 @@ sections:
       title: CHINATOWN ACTIVE AGEING CENTRES
       subtitle: OUR PROGRAMMES
       id: infopic
-      description: Empowering residents aged 50 and above with vibrant programmes and
+      description:
+        Empowering residents aged 50 and above with vibrant programmes and
         services to foster wellness, social engagement, and lifelong learning.
       button: Find Out More
-      url: /our-programme/chinatown- active-ageing-centres
+      url: /our-programme/chinatown-active-ageing-centres
       image: /images/kush_dwivedi_T5fnjVj0AW8_unsplash__1_.jpg
       alt: Image alt text
   - infopic:
       title: Facebook
       subtitle: "Stay connected:"
       id: infopic
-      description: "Follow our FB page for latest updates, events, and heartwarming
+      description:
+        "Follow our FB page for latest updates, events, and heartwarming
         stories - keeping the community spirit alive online! Scan our QR code
         with go.gov link here:"
       image: /images/FB.png
@@ -64,7 +67,8 @@ sections:
       title: Instagram
       subtitle: "Stay connected:"
       id: infopic
-      description: "Follow our Instagram for latest updates, events, and heartwarming
+      description:
+        "Follow our Instagram for latest updates, events, and heartwarming
         stories - keeping the community spirit alive online! Scan our QR code
         with go.gov link here:"
       image: /images/IG.png
@@ -72,7 +76,8 @@ sections:
   - infobar:
       title: Contact Us
       id: infobar
-      description: "Get in touch with Kreta Ayer-Kim Seng (KAKS): A combination of
+      description:
+        "Get in touch with Kreta Ayer-Kim Seng (KAKS): A combination of
         Kreta Ayer Community Club and Kim Seng Community Centre"
       button: Get in Touch
       url: /contact-us
