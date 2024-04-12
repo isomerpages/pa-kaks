@@ -51,6 +51,13 @@ sections:
       url: /about-us-locations
       image: /images/kush_dwivedi_T5fnjVj0AW8_unsplash__1_.jpg
       alt: Image alt text
+  - infobar:
+      title: Contact Us
+      id: infobar
+      description: "Get in touch with Kreta Ayer-Kim Seng (KAKS): A combination of
+        Kreta Ayer Community Club and Kim Seng Community Centre"
+      button: Get in Touch
+      url: /contact-us
   - infopic:
       title: Facebook
       subtitle: "Stay connected:"
@@ -69,11 +76,4 @@ sections:
         with go.gov link here:"
       image: /images/IG.png
       alt: Image alt text
-  - infobar:
-      title: Contact Us
-      id: infobar
-      description: "Get in touch with Kreta Ayer-Kim Seng (KAKS): A combination of
-        Kreta Ayer Community Club and Kim Seng Community Centre"
-      button: Get in Touch
-      url: /contact-us
 ---
