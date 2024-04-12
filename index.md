@@ -48,7 +48,7 @@ sections:
       description: Empowering residents aged 50 and above with vibrant programmes and
         services to foster wellness, social engagement, and lifelong learning.
       button: Find Out More
-      url: /our-programme/chinatown-active-ageing-centres
+      url: /about-us-locations
       image: /images/kush_dwivedi_T5fnjVj0AW8_unsplash__1_.jpg
       alt: Image alt text
   - infopic:
