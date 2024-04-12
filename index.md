@@ -14,13 +14,13 @@ sections:
         title: How Can We Assist You?
         options:
           - title: CatchPlus
-            url: /our-programmes/sparkle-care/catch-plus
+            url: /catchplus
           - title: MealsPlus
-            url: /our-programmes/sparkle-care/meals-plus
+            url: /mealsplus
           - title: JoyPlus
-            url: /our-programmes/sparkle-care/joy-plus
+            url: /joyplus
           - title: LovePlus
-            url: /our-programmes/sparkle-care/love-plus
+            url: /loveplus
   - infopic:
       title: KRETA AYER-KIM SENG TAMIL NEW YEAR 2024
       subtitle: OUR ACTIVITIES
