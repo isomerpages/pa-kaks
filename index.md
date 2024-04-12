@@ -30,6 +30,7 @@ sections:
       button: Find Out More
       url: /upcoming-activities
       image: /images/11003.jpg
+      alt: kolam, looks like a sunflower
   - infopic:
       title: SPARKLECARE
       subtitle: OUR PROGRAMMES
