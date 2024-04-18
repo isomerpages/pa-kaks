@@ -53,33 +53,9 @@ and understanding. 20 April 2024 | 10am - 12.30pm</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Tamil New Year 2024 Celebration (Kim Seng CC)</div>
-<div class="isomer-card-description">Immerse yourself in the rich culture and festivities alongside our vibrant
-community residents. 21 April 2024 | 3pm - 8pm</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Watercolours" src="/images/Screenshot_2024_04_04_at_9_29_34_AM.png">
-</div>
-</div>
-<div class="isomer-card-body">
 <div class="isomer-card-title">Bukit Ho Swee Farm Tour (4 Jalan Bukit Ho Swee)</div>
 <div class="isomer-card-description">Embark on an enriching excursion to explore a veggie and fish farm! 28
 April 2024 | 9am - 1pm</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Watercolours" src="/images/Screenshot_2024_04_04_at_9_29_34_AM.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Kreta Ayer-Kim Seng Hari Raya Aidilfitri 2024 (Kim Seng CC)</div>
-<div class="isomer-card-description">Experience the joy of Hari Raya with our vibrant community. 28 April 2024
-| 6pm - 9.30pm</div>
 </div>
 </div>
 <div class="isomer-card">
