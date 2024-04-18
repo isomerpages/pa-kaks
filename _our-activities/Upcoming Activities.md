@@ -6,6 +6,21 @@ description: Find out what is going on at the Kreta Ayer-Kim Seng Community
   Centre. We have many events and activities in store for you!
 ---
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/660915f7d8192a5064914f91" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Yoga Singapore" src="/images/Your_paragraph_text_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Yoga for unity &amp; wellbeing (Kreta Ayer CC)</div><div class="isomer-card-description">Join us in our attempt to bring together and connect our hearts, mind and body. 21 April 2024 | 9am - 1.30pm</div><div class="isomer-card-link">Sign Up!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/kim-seng-cc-iaec-tamil-new-year-celebration-2024-68131831" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2024_04_16_at_16_12_39.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Tamil New Year 2024 Celebration (Kim Seng CC)</div>
+<div class="isomer-card-description">Immerse yourself in the rich culture and festivities alongside our vibrant
+community residents. 21 April 2024 | 3pm - 8pm</div>
+<div class="isomer-card-link">Sign Up!</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/kreta-ayer-kim-seng-hari-raya-celebration-2024-77006119" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Riang_Ria_Hari_Raya_poster_page_0001.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kreta Ayer-Kim Seng Hari Raya Aidilfitri 2024 (Kim Seng CC)</div><div class="isomer-card-description">Experience the joy of Hari Raya with our vibrant community. 28 April 2024 | 6pm - 9.30pm</div><div class="isomer-card-link">Sign Up!</div></div></a>
+</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -152,4 +167,5 @@ mural art at our vibrant festival. July 2024 | pm - pm</div>
 </div>
 </div>
 </div>
+<p></p>
 <p></p>
