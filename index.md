@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Come Join Our Compassionate Community
+      title: Kreta Ayer - Kim Seng
       background: /images/G0002036.jpg
       variant: center
       dropdown:
