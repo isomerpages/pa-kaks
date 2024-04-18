@@ -4,9 +4,11 @@ permalink: /newsletter/
 variant: tiptap
 description: Interested to receive news about Kreta Ayer-Kim Seng Community Centre?
 ---
-<p></p>
+<h3><strong>Kreta Ayer-Kim Seng Newsletter</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="leaves of different colours ranging from green, yellow and red strung together." src="/images/Screenshot_2024_04_04_at_9_28_29_AM.png">
+<img style="width: 100%" height="auto" width="100%" alt="newsletter cover" src="/images/Kreta_Ayer_Kim_Seng_Newsletter_Compiled_Final_images_1.jpg">
 </div>
-<h2><strong>COMING SOON</strong></h2>
+<h4><strong>KAKS Newsletter (Hari Raya Edition)</strong></h4>
+<p><strong>Click <a href="/files/Kreta_Ayer_Kim_Seng_Newsletter_Compiled_Final_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view our newsletter</strong>
+</p>
 <p></p>
