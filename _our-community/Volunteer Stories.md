@@ -27,4 +27,8 @@ description: Learn more about the Kreta Ayer-Kim Seng Community - from our
 <p>The heart of our community beats with the dedication of volunteers. Your
 time and skills can make a profound impact on the lives of our residents.
 Scan the QR code to sign up as a volunteer and become a part of the Kreta
-Ayer-Kim Seng family.</p>
+Ayer-Kim Seng family. Scan our QR Code below to sign up or <a href="https://www.onepa.gov.sg/events/calling-for-volunteers-community-volunteering-kreta-ayer-kim-seng-20440726" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CV_Registration_.png">
+</div>
+<p></p>
