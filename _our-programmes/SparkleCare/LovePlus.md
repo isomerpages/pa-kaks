@@ -5,28 +5,12 @@ variant: tiptap
 description: We bring residents together for a sit-down meal experience.
 third_nav_title: SparkleCare
 ---
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="combination of KAKS logo and SparkleCare logo" src="/images/SparkleCare.png">
+<img style="width: 100%" height="auto" width="100%" alt="loveplus logo" src="/images/4.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LovePlus logo" src="/images/KAKS_LOVE.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Watercolours" src="/images/Screenshot_2024_04_04_at_9_29_34_AM.png">
-</div>
-<h3><strong>Connecting Hearts</strong></h3>
-<p>We organise events that help to bring residents together for a sit-down
-meal experience.</p>
+<p>LovePlus program brings residents together for a year-round sit-down meal
+experience. It fosters a sense of community and offers home assistance
+while also providing an environment for residents to share stories and
+build lasting connections. It aims to diminish feelings of isolation by
+cultivating a warm and inclusive atmosphere during these shared meals.</p>
