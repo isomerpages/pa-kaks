@@ -25,11 +25,11 @@ sections:
       title: KRETA AYER-KIM SENG TAMIL NEW YEAR 2024
       subtitle: OUR ACTIVITIES
       id: infopic
-      description: 21st April 2024 | 3pm - 8pm; Immerse yourself in the rich culture
-        and festivities alongside our vibrant community residents.
+      description: Immerse yourself in the rich culture and festivities alongside our
+        vibrant community residents. 21 April 2024 | 3pm - 8pm;
       button: Find Out More
       url: /upcoming-activities
-      image: /images/11003.jpg
+      image: /images/WhatsApp_Image_2024_04_16_at_16_12_39.jpg
       alt: Image alt text
   - infopic:
       title: SPARKLECARE
