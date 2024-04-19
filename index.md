@@ -59,22 +59,4 @@ sections:
         Kreta Ayer Community Club and Kim Seng Community Centre"
       button: Get in Touch
       url: /contact-us
-  - infopic:
-      title: Facebook
-      subtitle: "Stay connected:"
-      id: infopic
-      description: "Follow our FB page for latest updates, events, and heartwarming
-        stories - keeping the community spirit alive online! Scan our QR code
-        with go.gov link here:"
-      image: /images/FB.png
-      alt: Image alt text
-  - infopic:
-      title: Instagram
-      subtitle: "Stay connected:"
-      id: infopic
-      description: "Follow our Instagram for latest updates, events, and heartwarming
-        stories - keeping the community spirit alive online! Scan our QR code
-        with go.gov link here:"
-      image: /images/IG.png
-      alt: Image alt text
 ---
