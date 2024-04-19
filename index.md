@@ -39,7 +39,7 @@ sections:
         residents' needs. Join us - volunteer, donate, or spread awareness - to
         foster a supportive community.
       button: Find Out More
-      url: /catchplus
+      url: /sparklecare
       image: /images/ESR63831__1_.jpg
       alt: Image alt text
   - infopic:
