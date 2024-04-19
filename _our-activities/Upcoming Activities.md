@@ -117,11 +117,4 @@ art at our vibrant festival. Coming to you in July.</div>
 </div>
 </div>
 </div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-link"></div>
-</div>
-</div>
-</div>
 <p></p>
