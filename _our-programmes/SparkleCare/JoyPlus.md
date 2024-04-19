@@ -11,7 +11,7 @@ third_nav_title: SparkleCare
 </div>
 <p>JoyPlus is a quarterly programme specially designed to lighten the cost
 of living for our less privileged residents. Instead of distributing common
-groceries and food items through door-to-door visits, Joyplus provides
+groceries and food items through door-to-door visits, JoyPlus provides
 the residents with an opportunity to "shop" for essential items they need,
 ranging from food, household necessities, toys to electrical appliances.</p>
 <table>
