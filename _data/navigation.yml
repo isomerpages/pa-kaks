@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Colour_KAKS_logo__Horizontal_.png
 links:
+  - title: Our Community
+    collection: our-community
+  - title: Our Activities
+    collection: our-activities
+  - title: Our Programmes
+    collection: our-programmes
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
