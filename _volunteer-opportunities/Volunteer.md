@@ -65,6 +65,26 @@ lie.</p>
 </tbody>
 </table>
 <h4><strong>As a Grassroots Leader</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__1_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/image__4_.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Bring together people from all walks of life and encourage community involvement,
 raise awareness about community issues, understand government policies,
 gather feedback and support the needy.</p>
