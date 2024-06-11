@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: Need help
           description: Click here if you need help
-          url: /volunteer-stories
+          url: /need-help
         - title: Can Help
           description: Click here if you want to help
-          url: ""
+          url: /can-help
       size: md
       alignment: left
       backgroundColor: gray
