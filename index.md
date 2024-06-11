@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Welcome to Kreta Ayer-Kim Seng
-      background: /images/G0002036.jpg
+      background: /images/KAKS_pink_background.png
       variant: center
       subtitle: This site is designed for residents and partners who
       key_highlights:
@@ -21,16 +21,15 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-  - infopic:
-      title: KRETA AYER-KIM SENG TAMIL NEW YEAR 2024
-      subtitle: OUR ACTIVITIES
-      id: infopic
-      description: Immerse yourself in the rich culture and festivities alongside our
-        vibrant community residents. 21 April 2024 | 3pm - 8pm;
-      button: Find Out More
-      url: /upcoming-activities
-      image: /images/WhatsApp_Image_2024_04_16_at_16_12_39.jpg
-      alt: Image alt text
+  - infobar:
+      title: Community Programmes
+      subtitle: "Find out more about our "
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/Itg6fKlNz7M?si=yXXe3Yq5WrPVUFFP&start=7"
+        height="315" width="100%"></iframe>
   - infopic:
       title: SPARKLECARE
       subtitle: OUR PROGRAMMES
@@ -41,16 +40,6 @@ sections:
       button: Find Out More
       url: /sparklecare
       image: /images/ESR63831__1_.jpg
-      alt: Image alt text
-  - infopic:
-      title: CHINATOWN ACTIVE AGEING CENTRES
-      subtitle: OUR PROGRAMMES
-      id: infopic
-      description: Empowering residents aged 50 and above with vibrant programmes and
-        services to foster wellness, social engagement, and lifelong learning.
-      button: Find Out More
-      url: /about-us-locations
-      image: /images/kush_dwivedi_T5fnjVj0AW8_unsplash__1_.jpg
       alt: Image alt text
   - infobar:
       title: Contact Us
