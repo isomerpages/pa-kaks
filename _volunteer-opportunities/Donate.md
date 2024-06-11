@@ -57,8 +57,28 @@ Give &amp; Take Market. Find out more.</p>
 </tr>
 </tbody>
 </table>
-<p>(2) SparkleCare - LovePlus
-<br>On festive occasions, there is nothing like a sit-down meal with neighbours
+<p>(2) SparkleCare - LovePlus</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST_07028__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST_07224.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>On festive occasions, there is nothing like a sit-down meal with neighbours
 to foster a sense of community.&nbsp; Supported by donors, our residents
 are treated to a lovingly prepared meal and joyful performances. Donor
 may also wish to personally present each invited resident with gifts of
