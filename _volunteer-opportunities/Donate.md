@@ -5,6 +5,26 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>To existing funds</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG008.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/msg6515082326_168090.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>(1) Kreta Ayer-Kim Seng CCC Community Development Welfare Fund (CDWF)
 <br>An Institution of Public Character under our Citizens’ Consultative Committee
 (CCC), the CDWF provides welfare assistance to needy residents.&nbsp; For
