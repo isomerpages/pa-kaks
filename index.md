@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Come Down & Explore Kreta Ayer-Kim Seng
+      title: Welcome to Kreta Ayer-Kim Seng
       background: /images/G0002036.jpg
       variant: center
       dropdown:
