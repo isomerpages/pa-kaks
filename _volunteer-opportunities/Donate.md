@@ -110,6 +110,26 @@ cash and/or goody bags.</p>
 </tbody>
 </table>
 <h4><strong>In-Kind Contributions</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__5_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20231015___KAKS_Joy_Plus__430_of_522___1_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Instead of receiving common groceries and food items through door-to-door
 distributions, Joyplus and the Give &amp; Take Market provides our residents
 with opportunities to "shop for free".&nbsp; Residents get to choose from
