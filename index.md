@@ -10,17 +10,17 @@ sections:
       title: Welcome to Kreta Ayer-Kim Seng
       background: /images/G0002036.jpg
       variant: center
-      dropdown:
-        title: How Can We Assist You?
-        options:
-          - title: CatchPlus
-            url: /catchplus
-          - title: MealsPlus
-            url: /mealsplus
-          - title: JoyPlus
-            url: /joyplus
-          - title: LovePlus
-            url: /loveplus
+      subtitle: This site is designed for residents and partners who
+      key_highlights:
+        - title: Need help
+          description: Click here if you need help
+          url: /volunteer-stories
+        - title: Can Help
+          description: Click here if you want to help
+          url: ""
+      size: md
+      alignment: left
+      backgroundColor: gray
   - infopic:
       title: KRETA AYER-KIM SENG TAMIL NEW YEAR 2024
       subtitle: OUR ACTIVITIES
