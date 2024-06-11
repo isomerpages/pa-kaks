@@ -15,10 +15,7 @@ third_nav_title: Can Help
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/Volunteer"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_A_VOLUNTEER.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_A_DONOR.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/Donate"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_A_DONOR.png"></a>
 </td>
 </tr>
 </tbody>
