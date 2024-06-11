@@ -114,6 +114,26 @@ gather feedback and support the needy.</p>
 <p>You may e-mail the form to <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a> or submit
 it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
 <h4><strong>As Our Corporate Partner</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5M4_2350e.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5M4_2529e.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Contribute time and resources to support worthy causes, such as befriending
 our seniors, mentoring our youths, organising festive celebrations for
 the less privileged or keeping our estates clean and green. We would love
