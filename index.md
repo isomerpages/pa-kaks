@@ -7,10 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome to Kreta Ayer-Kim Seng
+      title: Welcome!
       background: /images/KAKS_pink_background.png
       variant: center
-      subtitle: This site is designed for residents and partners who
+      subtitle: This site is designed for residents and partners  of Kreta Ayer-Kim
+        Seng who
       key_highlights:
         - title: Need help
           description: Click here if you need help
@@ -23,7 +24,7 @@ sections:
       backgroundColor: gray
   - infobar:
       title: Community Programmes
-      subtitle: "Find out more about our "
+      subtitle: Find out more about our
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
