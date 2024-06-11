@@ -2,6 +2,6 @@ collections:
   volunteer-opportunities:
     output: true
     order:
-      - Donate.md
       - Can Help.md
       - Volunteer.md
+      - Donate.md
