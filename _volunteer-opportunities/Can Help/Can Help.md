@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Can Help
 ---
-<h4>Support our community by stepping forward</h4>
+<h4><strong>Support our community by stepping forward</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -20,4 +20,8 @@ third_nav_title: Can Help
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESR63686.jpg">
+</div>
 <p></p>
