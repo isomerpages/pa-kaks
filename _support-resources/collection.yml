@@ -1,4 +1,5 @@
 collections:
   support-resources:
     output: true
-    order: []
+    order:
+      - Need Help.md
