@@ -1,0 +1,4 @@
+collections:
+  volunteer-opportunities:
+    output: true
+    order: []
