@@ -70,7 +70,7 @@ cash and/or goody bags.</p>
 </tr>
 </tbody>
 </table>
-<h4>In-Kind Contributions</h4>
+<h4><strong>In-Kind Contributions</strong></h4>
 <p>Instead of receiving common groceries and food items through door-to-door
 distributions, Joyplus and the Give &amp; Take Market provides our residents
 with opportunities to "shop for free".&nbsp; Residents get to choose from
