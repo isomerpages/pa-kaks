@@ -5,6 +5,26 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>For Specific Cause</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__2_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__3_.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Meet like-minded individuals and join hands to volunteer as a group towards
 a common community goal. The Community Volunteer Scheme allows you to take
 part in cause-based events and programmes that may also benefit from your
@@ -35,26 +55,9 @@ organising festive celebrations for the less privileged.</p>
 </tbody>
 </table>
 <h4><strong>Ad-Hoc Volunteering</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5M4_2350e.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__3_.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Not ready to commit as a Grassroots Leader or don’t have a specific-cause?
 Try ad-hoc volunteering! This is a great gateway to becoming more involved
 in the community. You can participate in one-time events or short-term
