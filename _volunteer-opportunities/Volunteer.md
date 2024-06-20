@@ -97,12 +97,12 @@ lie.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x600_grassroots_leader.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/image__4_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x600_grassroots_leaderpng.png">
 </div>
 </td>
 </tr>
