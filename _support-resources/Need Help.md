@@ -63,7 +63,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Social Service Office @ Kreta Ayer
-<br><em>(For residents living in Kreta Ayer, Chin Swee-Hong Lim and Jalan Kukoh)</em>
+<br><em>(For residents living in Kreta Ayer, Chin Swee-Hong Lim </em>
+<br><em>and Jalan Kukoh)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +74,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Social Service Office @ Bukit Merah
-<br><em>(For residents living in Bukit Ho Swee, Beo Crescent, Havelock View, Delta-Indus)</em>
+<br><em>(For residents living in Bukit Ho Swee, Beo Crescent, </em>
+<br><em>Havelock View, Delta-Indus)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
