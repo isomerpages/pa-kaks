@@ -16,7 +16,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Support our community by stepping forward</strong></h4>
+<h4><strong>Support our community by stepping forward:</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
