@@ -14,12 +14,12 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/IMG008.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x450_existing_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/msg6515082326_168090.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x450_existing_2.png">
 </div>
 </td>
 </tr>
@@ -67,12 +67,12 @@ Give &amp; Take Market. Find out more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST_07028__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x450_existing_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST_07224.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x450_existing_4.png">
 </div>
 </td>
 </tr>
@@ -119,12 +119,12 @@ cash and/or goody bags.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__5_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x450_in_kind_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20231015___KAKS_Joy_Plus__430_of_522___1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x450_in_kind_2.png">
 </div>
 </td>
 </tr>
