@@ -156,7 +156,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singpass Helpdesk</p>
+<p>The Singpass Helpdesk - General Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6335 3533</p>
