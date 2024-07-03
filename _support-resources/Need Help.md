@@ -161,7 +161,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SingPass HelpDesk Assistance</p>
+<p>SingPass HelpDesk / Assistance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6335 3533</p>
