@@ -30,5 +30,5 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/Itg6fKlNz7M?si=yXXe3Yq5WrPVUFFP&start=7"
-        height="400" width="100%"></iframe>
+        height="480" width="854"></iframe>
 ---
