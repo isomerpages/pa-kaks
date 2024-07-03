@@ -178,7 +178,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Meet the Adviser @ 5 Banda Street</p>
+<p>Meet the Adviser @ 5 Banda St</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6909 2933</p>
@@ -186,8 +186,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Meet the Adviser @ 52A Havelock
-<br>Road</p>
+<p>Meet the Adviser @ 52A
+<br>Havelock Road</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6909 2988</p>
