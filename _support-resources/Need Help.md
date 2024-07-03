@@ -161,7 +161,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SingPass Help Desk Enquiries</p>
+<p>SingPass HelpDesk Assistance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6335 3533</p>
@@ -186,7 +186,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Meet the Adviser @ 52A Havelock Road</p>
+<p>Meet the Adviser @ 52A Havelock
+<br>Road</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6909 2988</p>
