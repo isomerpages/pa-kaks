@@ -119,12 +119,12 @@ cash and/or goody bags.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x450_in_kind_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Donate___In_Kind_Contributions.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x450_in_kind_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Donate___In_Kind_Contributions__2_.png">
 </div>
 </td>
 </tr>
