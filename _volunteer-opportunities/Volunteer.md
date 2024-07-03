@@ -14,12 +14,12 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Specific_Cause.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Specific_Cause__2_.png">
 </div>
 </td>
 </tr>
