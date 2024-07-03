@@ -163,12 +163,12 @@ it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x450_corporate_partner_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Corporate_Partners.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/600x450_corporate_partner_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Corporate_Partners__2_.png">
 </div>
 </td>
 </tr>
