@@ -63,8 +63,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Social Service Office @ Kreta Ayer
-<br><em>(For residents living in Kreta Ayer, Chin Swee-Hong Lim </em>
-<br><em>and Jalan Kukoh)</em>
+<br><em>(For residents living in Kreta Ayer, </em>
+<br><em>Chin Swee-Hong Lim and Jalan Kukoh)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,8 +74,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Social Service Office @ Bukit Merah
-<br><em>(For residents living in Bukit Ho Swee, Beo Crescent, </em>
-<br><em>Havelock View, Delta-Indus)</em>
+<br><em>(For residents living in Bukit Ho Swee, </em>
+<br><em>Beo Crescent, Havelock View, Delta-Indus)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +125,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinatown Active Ageing Centre @ Banda</p>
+<p>Chinatown Active Ageing Centre
+<br>@ Banda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6225 1490</p>
@@ -133,7 +134,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinatown Active Ageing Centre @ Chin Swee</p>
+<p>Chinatown Active Ageing Centre
+<br>@ Chin Swee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6533 3202</p>
@@ -141,7 +143,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinatown Active Ageing Centre @ Jalan Kukoh</p>
+<p>Chinatown Active Ageing Centre
+<br>@ Jalan Kukoh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6732 1286</p>
@@ -158,7 +161,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Singpass Helpdesk - General Enquiries</p>
+<p>SingPass Help Desk Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6335 3533</p>
