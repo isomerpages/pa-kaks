@@ -187,31 +187,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>For xxx</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Meet the Adviser @ 5 Banda St</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6909 2933</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Meet the Adviser @ 52A
-<br>Havelock Road</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6909 2988</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><em>For general enquiries and feedback, email <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a> or <a href="mailto:PA_KIMSENGCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KIMSENGCC@pa.gov.sg</a></em>
 </p>
