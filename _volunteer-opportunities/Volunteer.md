@@ -5,6 +5,19 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>For Specific Cause</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Specific_Cause_combo.png">
+</div>
+<p>Meet like-minded individuals and join hands to volunteer as a group towards
+a common community goal. The Community Volunteer Scheme allows you to take
+part in cause-based events and programmes that may also benefit from your
+professional skills. For example, you could assist in befriending a senior,
+mentoring underprivileged youth, environmental clean-up initiatives or
+organising festive celebrations for the less privileged.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get_Started.png">
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
