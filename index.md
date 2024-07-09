@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/KAKS_pink_background.png
+      background: /images/Check_this_out.png
       variant: center
       subtitle: Welcome! This site is designed for residents and partners  of Kreta
         Ayer-Kim Seng who
