@@ -19,6 +19,18 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
+  - infopic:
+      title: NEED HELP?
+      id: infopic
+      button: Click here
+      url: /need-help/
+      image: /images/600x450_existing_2.png
+      alt: Image alt text
+  - infobar:
+      title: CAN HELP?
+      id: infobar
+      button: Click here
+      url: /can-help/
   - infobar:
       title: Community Programmes
       subtitle: Find out more about our
