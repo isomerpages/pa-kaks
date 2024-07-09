@@ -25,6 +25,11 @@ organising festive celebrations for the less privileged.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<h4><strong>For Specific Cause</strong></h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Specific_Cause.png">
@@ -36,14 +41,26 @@ organising festive celebrations for the less privileged.</p>
 </div>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Meet like-minded individuals and join hands to volunteer as a group towards
 a common community goal. The Community Volunteer Scheme allows you to take
 part in cause-based events and programmes that may also benefit from your
 professional skills. For example, you could assist in befriending a senior,
 mentoring underprivileged youth, environmental clean-up initiatives or
 organising festive celebrations for the less privileged.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
