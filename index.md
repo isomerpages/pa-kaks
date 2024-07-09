@@ -7,11 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome!
       background: /images/KAKS_pink_background.png
       variant: center
-      subtitle: This site is designed for residents and partners  of Kreta Ayer-Kim
-        Seng who
+      subtitle: Welcome! This site is designed for residents and partners  of Kreta
+        Ayer-Kim Seng who
       key_highlights:
         - title: Need help
           description: Click here if you need help
