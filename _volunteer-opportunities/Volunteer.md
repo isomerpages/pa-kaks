@@ -147,7 +147,8 @@ lie.</p>
 <td rowspan="1" colspan="4">
 <p>Bring together people from all walks of life and encourage community involvement,
 raise awareness about community issues, understand government policies,
-gather feedback and support the needy.</p>
+gather feedback and support the needy. Check out our social media page
+to find more about our current events.</p>
 </td>
 </tr>
 <tr>
