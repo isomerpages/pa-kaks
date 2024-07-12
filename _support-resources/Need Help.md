@@ -203,7 +203,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>SingPass HelpDesk
-<br><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Make a Police Report</a>
+<br>Click to <strong><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Make a Police Report</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
