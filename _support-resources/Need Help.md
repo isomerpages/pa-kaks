@@ -84,6 +84,16 @@ description: ""
 <p>1800 222 0000</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Social Service Office @ Sims Drive
+<br><em>(For residents living in Upper Boon Keng)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xxx</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>For Community Support</strong></h4>
@@ -183,7 +193,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>For SingPass Queries</strong></h4>
+<h4><strong>For General Queries</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -192,7 +202,9 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SingPass HelpDesk / Assistance</p>
+<p>SingPass HelpDesk
+<br><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Make a Police Report</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6335 3533</p>
