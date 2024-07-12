@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>For Estate Matters</strong></h4>
+<p><strong>Problem in your ‘hood? Visit <a href="https://www.oneservice.gov.sg/oneservice-channels" rel="noopener noreferrer nofollow" target="_blank"><u>OneService Channel&nbsp;</u></a><br>Alternatively, you may also call the following number:&nbsp;</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -85,6 +87,8 @@ description: ""
 </tbody>
 </table>
 <h4><strong>For Community Support</strong></h4>
+<p><strong>Find support schemes and services all in one place : <a href="https://supportgowhere.life.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SupportGoWhere</u></a><br>These are common numbers to call for our constituency:</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -163,6 +167,15 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Meet the Adviser
 <br>@ 52A Havelock Road</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6909 2988</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Meet the Adviser
+<br>@ Upper Boon Keng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6909 2988</p>
