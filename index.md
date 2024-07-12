@@ -7,18 +7,18 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/KAKS_homepage_banner_1.png
+      background: /images/KAKS_pink_background.png
       variant: center
-      key_highlights:
-        - title: Need help
-          description: Click here if you need help
-          url: /need-help
-        - title: Can Help
-          description: Click here if you want to help
-          url: /can-help
       size: md
       alignment: left
       backgroundColor: gray
+      dropdown:
+        title: Hero Dropdown Title
+        options:
+          - title: NEED HELP
+            url: /need-help/
+          - title: CAN HELP
+            url: /can-help/
   - infobar:
       title: NEED HELP?
       id: infobar
