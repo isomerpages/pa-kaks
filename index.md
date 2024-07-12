@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/KAKS_pink_background.png
+      background: /images/KAKS_homepage_banner_1.png
       variant: center
       key_highlights:
         - title: Need help
