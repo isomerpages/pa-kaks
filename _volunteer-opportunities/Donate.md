@@ -19,7 +19,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Kreta Ayer-Kim Seng CCC Community Development Welfare Fund (CDWF) </strong>
+<p><strong>Kreta Ayer-Kim Seng CCC Community Development Welfare Fund (CDWF)</strong>
 </p>
 </td>
 </tr>
