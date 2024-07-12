@@ -212,5 +212,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><em>For general enquiries and feedback, email <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a> or <a href="mailto:PA_KIMSENGCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KIMSENGCC@pa.gov.sg</a></em>
-</p>
+<p></p>
