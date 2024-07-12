@@ -13,7 +13,7 @@ sections:
       alignment: left
       backgroundColor: gray
       dropdown:
-        title: Hero Dropdown Title
+        title: "This site's for residents who:"
         options:
           - title: NEED HELP
             url: /need-help/
