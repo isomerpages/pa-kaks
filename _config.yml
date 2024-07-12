@@ -2,17 +2,17 @@ title: Title
 url: https://kretaayer-kimseng.pa.gov.sg
 favicon: /images/Coloured_KAKS_logo.png
 colors:
-  primary-color: "#d9266b"
+  primary-color: "#d8246a"
   secondary-color: "#d8246a"
   media-colors:
     - title: media-color-one
-      color: "#d9266b"
+      color: "#d8246a"
     - title: media-color-two
-      color: "#d8246a"
-    - title: media-color-three
       color: "#d9266b"
-    - title: media-color-four
+    - title: media-color-three
       color: "#d8246a"
+    - title: media-color-four
+      color: "#d9266b"
     - title: media-color-five
       color: "#d9266b"
 description: An Isomer site of the Singapore Government
