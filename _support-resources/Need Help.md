@@ -15,7 +15,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Essential Maintenance Service Unit</p>
+<p><a href="https://www.jbtc.org.sg/info-for-our-residents/our-services/essential-maintenance-services-unit-emsu/" rel="noopener noreferrer nofollow" target="_blank">Essential Maintenance Service Unit</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1800 241 7711</p>
@@ -23,7 +24,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Housing Development Board Branch Office</p>
+<p><a href="https://www.hdb.gov.sg/cs/infoweb/contact-us" rel="noopener noreferrer nofollow" target="_blank">Housing Development Board Branch Office</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1800 225 5432</p>
@@ -31,7 +33,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jalan Besar Town Council</p>
+<p><a href="https://www.jbtc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Jalan Besar Town Council</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1800 298 9888</p>
@@ -39,7 +42,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Land Transport Authority</p>
+<p><a href="https://www.lta.gov.sg/content/ltagov/en.html" rel="noopener noreferrer nofollow" target="_blank">Land Transport Authority</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1800 225 5582</p>
@@ -47,7 +51,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Environment Agency</p>
+<p><a href="https://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Environment Agency</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1800 225 5632</p>
