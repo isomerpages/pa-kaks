@@ -170,10 +170,14 @@ to find more about our current events.</p>
 </div>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="4">
 <p>You may e-mail the form to <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a> or submit
 it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
