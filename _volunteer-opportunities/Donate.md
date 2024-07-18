@@ -101,10 +101,7 @@ cash and/or goody bags.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/300x60_Donate_to_LovePlus.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/kaks-sparklecare"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/300x60_Donate_to_LovePlus.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -164,10 +161,7 @@ help to reduce wastage and duplication of efforts from multiple donors.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/300x60_Donate_Items.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/url?q=https://go.gov.sg/kaks-sparklecare&amp;sa=D&amp;source=docs&amp;ust=1721270851896971&amp;usg=AOvVaw1vIpJLZIBx4lYUHCYOm2fp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/300x60_Donate_Items.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -187,4 +181,6 @@ help to reduce wastage and duplication of efforts from multiple donors.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
