@@ -45,10 +45,7 @@ Give &amp; Take Market. Find out more.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/300x60_Donate_to_CDWF.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.giving.sg/organisation/profile/4ecb72a3-2333-485c-8afb-8376e0495ea1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/300x60_Donate_to_CDWF.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
