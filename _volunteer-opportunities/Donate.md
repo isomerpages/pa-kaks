@@ -41,7 +41,7 @@ description: ""
 (CCC), the CDWF provides welfare assistance to needy residents.&nbsp; For
 example, students from eligible households receive annual education bursaries.&nbsp;
 Donors can also support programmes like MealsPlus, CatchPlus, JoyPlus,
-Give &amp; Take Market. Find out more.</p>
+Give &amp; Take Market. Find out more.0</p>
 </td>
 </tr>
 <tr>
@@ -61,6 +61,7 @@ Give &amp; Take Market. Find out more.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -75,7 +76,7 @@ Give &amp; Take Market. Find out more.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>(ii)  SparkleCare - LovePlus</strong>
+<p><strong>(ii) SparkleCare - LovePlus</strong>
 </p>
 </td>
 </tr>
