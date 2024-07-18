@@ -19,7 +19,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Kreta Ayer-Kim Seng CCC Community Development Welfare Fund (CDWF)</strong>
+<p><strong>(i) Kreta Ayer-Kim Seng CCC Community Development Welfare Fund (CDWF)</strong>
 </p>
 </td>
 </tr>
@@ -75,7 +75,7 @@ Give &amp; Take Market. Find out more.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>SparkleCare - LovePlus</strong>
+<p><strong>(ii)  SparkleCare - LovePlus</strong>
 </p>
 </td>
 </tr>
