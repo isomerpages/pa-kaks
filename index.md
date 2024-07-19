@@ -12,6 +12,13 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
+      key_highlights:
+        - title: Need Help
+          description: Click here if you need help
+          url: /need-help/
+        - title: Can Help
+          description: Click here if you need help
+          url: /can-help/
   - infobar:
       title: NEED HELP?
       id: infobar
