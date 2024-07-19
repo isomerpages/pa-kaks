@@ -12,13 +12,6 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      dropdown:
-        title: "This site's for residents who:"
-        options:
-          - title: NEED HELP
-            url: /need-help/
-          - title: CAN HELP
-            url: /can-help/
   - infobar:
       title: NEED HELP?
       id: infobar
