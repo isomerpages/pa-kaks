@@ -20,16 +20,6 @@ sections:
           description: Click here if you need help
           url: /can-help/
   - infobar:
-      title: NEED HELP?
-      id: infobar
-      button: Click here
-      url: /need-help/
-  - infobar:
-      title: CAN HELP?
-      id: infobar
-      button: Click here
-      url: /can-help/
-  - infobar:
       title: Community Programmes
       subtitle: Find out more about our
       id: infobar
