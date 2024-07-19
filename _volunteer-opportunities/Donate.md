@@ -41,7 +41,7 @@ description: ""
 (CCC), the CDWF provides welfare assistance to needy residents.&nbsp; For
 example, students from eligible households receive annual education bursaries.&nbsp;
 Donors can also support programmes like MealsPlus, CatchPlus, JoyPlus,
-Give &amp; Take Market. Find out more.0</p>
+Give &amp; Take Market.</p>
 </td>
 </tr>
 <tr>
