@@ -69,7 +69,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Social Service Office @ Bukit Merah
+<p><a href="https://www.msf.gov.sg/what-we-do/comcare" rel="noopener noreferrer nofollow" target="_blank">Social Service Office @ Bukit Merah</a> 
 <br><em>(For residents living in Bukit Ho Swee, </em>
 <br><em>Beo Crescent, Havelock View, Delta-Indus)</em>
 </p>
@@ -80,23 +80,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Social Service Office @ Kreta Ayer
+<p><a href="https://www.msf.gov.sg/what-we-do/comcare" rel="noopener noreferrer nofollow" target="_blank">Social Service Office @ Kreta Ayer </a>
 <br><em>(For residents living in Kreta Ayer, </em>
 <br><em>Chin Swee-Hong Lim and Jalan Kukoh)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1800 222 0000</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Social Service Office @ Sims Drive
-<br><em>(For residents living in Upper Boon Keng)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xxx</p>
 </td>
 </tr>
 </tbody>
@@ -139,7 +129,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Family Service Centre @ Banda</p>
+<p><a href="https://supportgowhere.life.gov.sg/services/SVC-FSCF/family-service-centre-fsc" rel="noopener noreferrer nofollow" target="_blank">Family Service Centre @ Banda</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6325 4753</p>
@@ -147,7 +138,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Family Service Centre @ Delta</p>
+<p><a href="https://supportgowhere.life.gov.sg/services/SVC-FSCF/family-service-centre-fsc" rel="noopener noreferrer nofollow" target="_blank">Family Service Centre @ Delta</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6461 9200</p>
@@ -171,8 +163,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Meet the Adviser
-<br>@ 5 Banda Street</p>
+<p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser  @ 5 Banda Street</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6909 2933</p>
@@ -180,8 +172,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Meet the Adviser
-<br>@ 52A Havelock Road</p>
+<p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser  @ 52A Havelock Road</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6909 2988</p>
@@ -189,8 +181,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Meet the Adviser
-<br>@ Upper Boon Keng</p>
+<p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser  @ Upper Boon Keng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6909 2988</p>
@@ -207,8 +199,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SingPass HelpDesk
-<br>Click to <strong><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Make a Police Report</a></strong>
+<p><a href="https://www.singpass.gov.sg/home/ui/contact-us" rel="noopener noreferrer nofollow" target="_blank">SingPass HelpDesk</a> 
+<br><strong><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Make a Police Report</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
