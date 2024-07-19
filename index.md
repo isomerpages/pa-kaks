@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/KAKS_pink_background.png
+      background: /images/Welcome_.png
       variant: center
       size: md
       alignment: left
