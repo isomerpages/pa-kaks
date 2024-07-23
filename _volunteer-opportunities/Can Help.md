@@ -38,7 +38,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESR64390.jpg">
+<div class="iframe-wrapper">
+<iframe height="299" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQC-UPNFym6rPz144zoQILREOSXSzvT6V8kgKCyytiiOgvkEVuIi_1mEFTIwZpojxp8GsB8x-EgKfl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
