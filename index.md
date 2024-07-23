@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/dnew_esign_2.png
+      background: /images/new_design_3.png
       variant: center
       size: md
       alignment: left
