@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/8.png
+      background: /images/9.png
       variant: center
       size: md
       alignment: left
