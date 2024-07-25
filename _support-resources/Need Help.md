@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>For Estate Matters</strong></h4>
-<p><strong>Problem in your ‘hood? Visit <a href="https://www.oneservice.gov.sg/oneservice-channels" rel="noopener noreferrer nofollow" target="_blank"><u>OneService Channel&nbsp;</u></a><br>Alternatively, you may also call the following number:&nbsp;</strong>
-</p>
+<p>Problem in your ‘hood? Visit <a href="https://www.oneservice.gov.sg/oneservice-channels" rel="noopener noreferrer nofollow" target="_blank"><u>OneService Channel&nbsp;</u></a>
+<br>Alternatively, you may also call the following number:&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
