@@ -147,12 +147,12 @@ lie.</p>
 <td rowspan="1" colspan="4">
 <p>Bring together people from all walks of life and encourage community involvement,
 raise awareness about community issues, understand government policies,
-gather feedback and support the needy. Check out our social media page
-to find more about our current events.</p>
+gather feedback and support the needy. Check out our <a href="https://www.facebook.com/KAKSCommunity/" rel="noopener noreferrer nofollow" target="_blank">social media page</a> to
+find more about our current events.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.facebook.com/KAKSCommunity/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1Gw_TtK7ihi6f0co3HXeiqzUpP3-iSJrw/view?usp=drive_link"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
