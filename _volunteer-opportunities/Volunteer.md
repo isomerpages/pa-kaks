@@ -215,7 +215,10 @@ at <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" 
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/kakscvregistration"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
