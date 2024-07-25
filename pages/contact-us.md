@@ -33,7 +33,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6222 3597
-      - email: PA_KRETAAYERCC@pa.gov.sg
+      - email: PA_Kretaayercc@pa.gov.sg
       - other: ""
     title: Kreta Ayer Community Club
   - content:
