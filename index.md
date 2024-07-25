@@ -14,10 +14,10 @@ sections:
       backgroundColor: gray
       key_highlights:
         - title: Need Help
-          description: Click here if you need help
+          description: ""
           url: /need-help/
         - title: Can Help
-          description: Click here if you need help
+          description: ""
           url: /can-help/
   - infobar:
       title: Community Programmes
