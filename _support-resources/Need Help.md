@@ -92,8 +92,8 @@ description: ""
 </tbody>
 </table>
 <h4><strong>For Community Support</strong></h4>
-<p><strong>Find support schemes and services all in one place : <a href="https://supportgowhere.life.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SupportGoWhere</u></a><br>These are common numbers to call for our constituency:</strong>
-</p>
+<p>Find support schemes and services all in one place : <a href="https://supportgowhere.life.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SupportGoWhere</u></a>
+<br>These are common numbers to call for our constituency:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
