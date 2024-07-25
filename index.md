@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Kreta Ayer-Kim Seng CC
 description: An Isomer site of the Singapore Government
 image: /images/Colour_KAKS_logo__Horizontal_.png
 permalink: /
