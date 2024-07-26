@@ -1,5 +1,5 @@
 collections:
-  our-community:
+  old-page:
     output: true
     order:
       - Volunteer Stories.md
