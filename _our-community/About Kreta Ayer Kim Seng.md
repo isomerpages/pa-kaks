@@ -53,7 +53,12 @@ Line)</p>
 <summary><strong>Kim Seng CC</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Bus: 5, 14, 16, 51, 64, 75, 121, 123, 123M, 175, 186, 195</p>
+<p><strong>Bus:</strong> 5, 14, 16, 51, 64, 75, 121, 123, 123M, 175, 186,
+195</p>
+<p><strong>Train:</strong> Somerset Station (North-South Line), Tiong Bahru
+Station (East-West Line), Outram Park Station (East-West Line/North-East
+Line)</p>
+<p><strong>Car or Taxi: </strong>570 Havelock Rd, Singapore 169640</p>
 </div>
 </details>
 </div>
