@@ -17,7 +17,10 @@ while being able to integrate seamlessly together with modernisation.</p>
 <summary><strong>Kreta Ayer CC</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Bus: 80, 143, 145, 147, 166, 655</p>
+<p><strong>Bus:</strong> 80, 143, 145, 147, 166, 655
+<br><strong>Train:</strong> Maxwell Station (Thomson-East Coast Line), Outram
+Park Station (East-West Line/North-East Line), Telok Ayer Station (Downtown
+Line)</p>
 </div>
 </details>
 </div>
