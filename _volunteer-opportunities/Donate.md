@@ -83,12 +83,12 @@ Give &amp; Take Market.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Donate___LovePlus__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Update_Donate___LovePlus__2_.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Update_Donate___LovePlus__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Donate___LovePlus.png">
 </div>
 </td>
 </tr>
