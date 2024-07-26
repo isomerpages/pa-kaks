@@ -87,9 +87,7 @@ Give &amp; Take Market.</p>
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Donate___LovePlus.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
