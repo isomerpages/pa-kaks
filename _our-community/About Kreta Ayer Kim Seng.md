@@ -21,6 +21,7 @@ while being able to integrate seamlessly together with modernisation.</p>
 <br><strong>Train:</strong> Maxwell Station (Thomson-East Coast Line), Outram
 Park Station (East-West Line/North-East Line), Telok Ayer Station (Downtown
 Line)</p>
+<p><strong>Car or Taxi:</strong> 28 Kreta Ayer Rd, Singapore 088995</p>
 </div>
 </details>
 </div>
@@ -56,6 +57,7 @@ Line)</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
