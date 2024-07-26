@@ -35,11 +35,11 @@ contacts:
       - phone: +65 6222 3597
       - email: PA_Kretaayercc@pa.gov.sg
       - other: ""
-    title: Kreta Ayer Community Club
+    title: Kreta Ayer CC
   - content:
       - phone: +65 6272 3878
       - email: PA_KIMSENGCC@pa.gov.sg
       - other: ""
-    title: Kim Seng Community Centre
+    title: Kim Seng CC
 feedback: ""
 ---
