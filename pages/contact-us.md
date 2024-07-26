@@ -40,6 +40,6 @@ contacts:
       - phone: +65 6272 3878
       - email: PA_KIMSENGCC@pa.gov.sg
       - other: ""
-    title: Kim Seng Community Center
+    title: Kim Seng Community Centre
 feedback: ""
 ---
