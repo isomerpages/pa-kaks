@@ -29,7 +29,7 @@ locations:
         time: 10am - 10pm
         description: Closed on public holidays
     maps_link: https://www.google.com/maps/place/Kim+Seng+Community+Centre/@1.2894666,103.8310287,17z/data=!3m2!4b1!5s0x31da19828c0bc385:0x3b9cf44623b05357!4m6!3m5!1s0x31da1982838beec7:0xfbcd62cdd9a157c!8m2!3d1.2894666!4d103.8310287!16s%2Fg%2F1tfvdqlk?entry=ttu
-    title: Kim Seng Community Centre
+    title: Kim Seng CC
 contacts:
   - content:
       - phone: +65 6222 3597
