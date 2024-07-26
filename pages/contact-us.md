@@ -8,13 +8,7 @@ locations:
       - 28A Kreta Ayer Road
       - Kreta Ayer CC
       - Singapore 088995
-    operating_hours:
-      - days: Counter Services
-        time: 10am - 6pm
-        description: Closed on Public Holidays
-      - days: Facilities
-        time: 10am - 10pm
-        description: Closed on Public Holidays
+    operating_hours: []
     maps_link: https://www.google.com/maps/place/Kreta+Ayer+Community+Club/@1.2809149,103.8402114,17z/data=!3m1!4b1!4m6!3m5!1s0x31da1972eb840acb:0xfd4a4679684dd0e0!8m2!3d1.2809149!4d103.8427863!16s%2Fg%2F1tkskws1?entry=ttu
     title: Kreta Ayer Community Club
   - address:
