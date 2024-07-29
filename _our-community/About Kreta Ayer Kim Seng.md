@@ -8,7 +8,7 @@ description: ""
 <p>Kreta Ayer-Kim Seng is an estate steeped in history, culture, and heritage,
 while being able to integrate seamlessly together with modernisation.</p>
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15955.309398095447!2d103.8485691452823!3d1.2770282145711225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ssg!4v1722244842490!5m2!1sen!2ssg"></iframe>
+<iframe style="border:0;" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15955.309398095447!2d103.8485691452823!3d1.2770282145711225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ssg!4v1722244842490!5m2!1sen!2ssg"></iframe>
 </div>
 <h2>Getting There</h2>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -25,7 +25,7 @@ Line)</p>
 </details>
 </div>
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8213084809368!2d103.84020601100502!3d1.2809148987015282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1972eb840acb%3A0xfd4a4679684dd0e0!2sKreta%20Ayer%20Community%20Club!5e0!3m2!1sen!2ssg!4v1721979250844!5m2!1sen!2ssg"></iframe>
+<iframe style="border:0;" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8213084809368!2d103.84020601100502!3d1.2809148987015282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1972eb840acb%3A0xfd4a4679684dd0e0!2sKreta%20Ayer%20Community%20Club!5e0!3m2!1sen!2ssg!4v1721979250844!5m2!1sen!2ssg"></iframe>
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -62,7 +62,7 @@ Line)</p>
 </details>
 </div>
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15955.231808191385!2d103.82075041303041!3d1.289466579259014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1982838beec7%3A0xfbcd62cdd9a157c!2sKim%20Seng%20Community%20Centre!5e0!3m2!1sen!2ssg!4v1721979745279!5m2!1sen!2ssg"></iframe>
+<iframe style="border:0;" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15955.231808191385!2d103.82075041303041!3d1.289466579259014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1982838beec7%3A0xfbcd62cdd9a157c!2sKim%20Seng%20Community%20Centre!5e0!3m2!1sen!2ssg!4v1721979745279!5m2!1sen!2ssg"></iframe>
 </div>
 <p></p>
 <p></p>
