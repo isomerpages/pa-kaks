@@ -52,8 +52,8 @@ Line)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Bus:</strong> 5, 14, 16, 51, 64, 75, 121, 123, 123M, 175, 186,
 195</p>
-<p><strong>Train:</strong> Somerset Station (North-South Line), Tiong Bahru
-Station (East-West Line), Outram Park Station (East-West Line/North-East
+<p><strong>Train:</strong> Tiong Bahru Station (East-West Line), Havelock
+Station (Thomson-East Coast Line), Great World Station (Thomson-East Coast
 Line)</p>
 <p><strong>Car or Taxi: </strong>570 Havelock Rd, Singapore 169640</p>
 </div>
