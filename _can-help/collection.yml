@@ -1,5 +1,5 @@
 collections:
-  volunteer-opportunities:
+  can-help:
     output: true
     order:
       - Can Help.md
