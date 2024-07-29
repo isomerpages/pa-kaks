@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d1lgjzl6fofbr8.amplifyapp.com
 prod: https://master.d2zp3svlc9zt7q.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/big_PA_logo_SG_Cares_Movement___Volunteer__Its_Heart_work.png
+shareicon: /images/PA_logo_KAKS_vertical_logo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
