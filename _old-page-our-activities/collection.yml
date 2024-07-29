@@ -1,5 +1,5 @@
 collections:
-  our-activities:
+  old-page-our-activities:
     output: true
     order:
       - Upcoming Activities.md
