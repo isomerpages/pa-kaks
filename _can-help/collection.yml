@@ -2,6 +2,7 @@ collections:
   can-help:
     output: true
     order:
+      - Community Opportunities.md
       - Can Help.md
       - Volunteer.md
       - Donate.md
