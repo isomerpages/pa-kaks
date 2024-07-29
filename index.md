@@ -18,7 +18,7 @@ sections:
           url: /support-resources/
         - title: Can Help
           description: ""
-          url: /can-help/
+          url: /community-opportunities/
   - infobar:
       title: Community Programmes
       subtitle: Find out more about our
