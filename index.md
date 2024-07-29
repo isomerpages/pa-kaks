@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Need Help
           description: ""
-          url: /need-help/
+          url: /support-resources/
         - title: Can Help
           description: ""
           url: /can-help/
