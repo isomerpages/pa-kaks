@@ -1,5 +1,5 @@
 collections:
-  support-resources:
+  need-help:
     output: true
     order:
       - Need Help.md
