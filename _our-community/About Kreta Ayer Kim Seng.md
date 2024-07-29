@@ -7,7 +7,9 @@ description: ""
 <h2><strong>Welcome to Kreta Ayer-Kim Seng&nbsp;</strong></h2>
 <p>Kreta Ayer-Kim Seng is an estate steeped in history, culture, and heritage,
 while being able to integrate seamlessly together with modernisation.</p>
-<p>[Map]</p>
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15955.292600902068!2d103.84758209236477!3d1.2797312083124535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ssg!4v1722244786712!5m2!1sen!2ssg"></iframe>
+</div>
 <h2>Getting There</h2>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
