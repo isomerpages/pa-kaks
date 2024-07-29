@@ -1,5 +1,5 @@
 collections:
-  our-programmes:
+  old-page-our-programmes:
     output: true
     order:
       - Chinatown AAC/.keep
