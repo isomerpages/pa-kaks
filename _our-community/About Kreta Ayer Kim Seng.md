@@ -7,9 +7,8 @@ description: ""
 <h2><strong>Welcome to Kreta Ayer-Kim Seng&nbsp;</strong></h2>
 <p>Kreta Ayer-Kim Seng is an estate steeped in history, culture, and heritage,
 while being able to integrate seamlessly together with modernisation.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAKS_Google_Maps_White_Background.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/No_Landmark___Transit_lines.jpg">
 </div>
 <h2>Getting There</h2>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
