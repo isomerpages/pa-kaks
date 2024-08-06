@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Welcome to Kreta Ayer-Kim Seng&nbsp;</strong></h2>
-<p>Kreta Ayer-Kim Seng is an estate steeped in history, culture, and heritage,
-while being able to integrate seamlessly together with modernisation.</p>
+<p>Kreta Ayer-Kim Seng is a vibrant community in Singapore known for its
+rich history and cultural heritage. This area seamlessly integrates traditional
+charm with modern urban developments, reflecting Singapore’s commitment
+to preserving its cultural legacy while embracing progress and innovation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/No_Landmark___Transit_lines.jpg">
 </div>
