@@ -1,5 +1,5 @@
 collections:
-  sparklecare:
+  kaks-programmes:
     output: true
     order:
       - SparkleCare.md
