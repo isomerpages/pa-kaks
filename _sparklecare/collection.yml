@@ -2,4 +2,5 @@ collections:
   sparklecare:
     output: true
     order:
+      - JoyPlus.md
       - SparkleCare.md
