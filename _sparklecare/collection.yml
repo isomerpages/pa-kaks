@@ -2,6 +2,7 @@ collections:
   sparklecare:
     output: true
     order:
+      - CatchPlus.md
       - LovePlus.md
       - MealsPlus.md
       - JoyPlus.md
