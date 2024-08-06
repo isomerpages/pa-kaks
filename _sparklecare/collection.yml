@@ -1,4 +1,5 @@
 collections:
   sparklecare:
     output: true
-    order: []
+    order:
+      - SparkleCare.md
