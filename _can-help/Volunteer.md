@@ -31,12 +31,26 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Meet like-minded individuals and join hands to volunteer as a group towards
-a common community goal. The Community Volunteer Scheme allows you to take
-part in cause-based events and programmes that may also benefit from your
-professional skills. For example, you could assist in befriending a senior,
-mentoring underprivileged youth, environmental clean-up initiatives or
-organising festive celebrations for the less privileged.</p>
+<p>Meet like-minded individuals and volunteer as a group towards a common
+community goal. The Community Volunteer Scheme allows you to participate
+in cause-based events and programmes that can also benefit from your professional
+skills.
+<br>
+</p>
+<p>KAKS and Muda SG: In partnership with our Kim Seng Malay Activity Executive
+Committee (MAEC), we engage and uplift the Malay Muslim community by organising
+festive events and mentoring youth, fostering unity and empowerment.</p>
+<p></p>
+<p>Our Golden Memories : In collaboration with the Chinatown Active Ageing
+Centre (AAC), we organise ‘Our Golden Memories’ to befriend seniors, offering
+them a makeover experience and capturing cherished photographs to honour
+their legacy. These skill sets are provided by dedicated volunteers.
+<br>
+</p>
+<p>You can make a difference! Join us in befriending a senior, mentoring
+underprivileged youth, participating in environmental clean-up initiatives,
+or organising festive celebrations for the less privileged. Your involvement
+can change lives and build a stronger community.</p>
 </td>
 </tr>
 <tr>
