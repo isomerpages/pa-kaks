@@ -6,5 +6,7 @@ links:
     collection: need-help
   - title: Can Help
     collection: can-help
+  - title: SparkleCare
+    collection: can-help
   - title: Contact Us
-    url: /contact-us/
+    url: /sparklecare/
