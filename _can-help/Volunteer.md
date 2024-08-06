@@ -171,7 +171,10 @@ with the shopping journey, each playing an important role.</p>
 <p>Bring together people from all walks of life and encourage community involvement,
 raise awareness about community issues, understand government policies,
 gather feedback and support the needy. Check out our <a href="https://www.facebook.com/KAKSCommunity/" rel="noopener noreferrer nofollow" target="_blank">social media page</a> to
-find more about our current events.</p>
+find more about our current events.
+<br>
+<br>You may e-mail the form to <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a> or submit
+it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
 </td>
 </tr>
 <tr>
@@ -191,12 +194,6 @@ find more about our current events.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p>You may e-mail the form to <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a> or submit
-it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
 </td>
 </tr>
 </tbody>
