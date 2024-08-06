@@ -85,7 +85,7 @@ can change lives and build a stronger community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<h4><strong>Ad-Hoc Volunteering</strong></h4>
+<h4><strong>Event Volunteering</strong></h4>
 </td>
 </tr>
 <tr>
@@ -102,12 +102,21 @@ can change lives and build a stronger community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Not ready to commit as a Grassroots Leader or don’t have a specific-cause?
-Try ad-hoc volunteering! This is a great gateway to becoming more involved
-in the community. You can participate in one-time events or short-term
-projects that fit your schedule. This flexible approach allows you to explore
-different areas of interest, meet diverse people, and see where your passions
+<p>Not ready to commit as a Grassroots Leader or don’t have a specific cause?
+Try event volunteering! This is a great way to become more involved in
+the community. You can participate in one-time events or short-term projects
+that fit your schedule. This flexible approach allows you to explore different
+areas of interest, meet diverse people, and discover where your passions
 lie.</p>
+<p></p>
+<p>Chinatown Festivals: Organise and support key festive events in Chinatown,
+such as Chinese New Year and Mid-Autumn Festival. Welcome residents and
+tourists to enjoy the vibrant atmosphere with us.</p>
+<p></p>
+<p>Give &amp; Take Market: This event occurs once every four months and helps
+less privileged families with children under 19 to stock up on everyday
+essentials. Volunteers help to maintain stock in our free market or assist
+with the shopping journey, each playing an important role.</p>
 </td>
 </tr>
 <tr>
