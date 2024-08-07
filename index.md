@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Kreta_Ayer_banner_updated_wording.jpg
+      background: /images/Kreta_Ayer_banner_new_isomer_dimensions.jpg
       variant: center
       size: md
       alignment: left
