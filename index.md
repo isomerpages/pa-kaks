@@ -13,11 +13,11 @@ sections:
       alignment: left
       backgroundColor: gray
       key_highlights:
-        - title: Need Help
-          description: ""
+        - title: I Need Help
+          description: from our community
           url: /support-resources/
-        - title: Can Help
-          description: ""
+        - title: I Can Help
+          description: support the community
           url: /community-opportunities/
   - infobar:
       title: Community Programmes
