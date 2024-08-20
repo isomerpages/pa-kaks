@@ -35,4 +35,14 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /kaks-programmes
+      image: /images/WhatsApp_Image_2024_04_18_at_15_25_34.jpg
+  - infopic:
+      title: Active Ageing
+      id: infopic
+      description: Learn about our Active Ageing Centres located at 3 different
+        locations in Chinatown!
+      button: Find out more
+      url: /our-golden-memories
+      image: /images/WhatsApp_Image_2024_04_18_at_15_25_34.jpg
+      alt: Image alt text
 ---
