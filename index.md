@@ -32,6 +32,7 @@ sections:
       title: Learn About SparkleCare
       id: infopic
       description: Take a look at our Sub Programmes of SparkleCare!
-      button: Button Text
+      button: Find Out More
       alt: Image alt text
+      url: /kaks-programmes
 ---
