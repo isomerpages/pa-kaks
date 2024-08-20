@@ -2,6 +2,7 @@ collections:
   kaks-programmes:
     output: true
     order:
+      - Active Ageing/Our Golden Memories.md
       - Active Ageing/.keep
       - SparkleCare/MealsPlus.md
       - SparkleCare/LovePlus.md
