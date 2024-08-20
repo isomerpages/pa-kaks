@@ -2,10 +2,10 @@ collections:
   kaks-programmes:
     output: true
     order:
-      - Active Ageing/Health Screening.md
-      - Active Ageing/Senior Sports Day.md
-      - Active Ageing/Our Golden Memories.md
       - Active Ageing/.keep
+      - Active Ageing/Our Golden Memories.md
+      - Active Ageing/Senior Sports Day.md
+      - Active Ageing/Health Screening.md
       - SparkleCare/MealsPlus.md
       - SparkleCare/LovePlus.md
       - SparkleCare/JoyPlus.md
