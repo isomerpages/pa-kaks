@@ -67,7 +67,7 @@ Line)</p>
 <iframe style="border:0;" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15955.231808191385!2d103.82075041303041!3d1.289466579259014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1982838beec7%3A0xfbcd62cdd9a157c!2sKim%20Seng%20Community%20Centre!5e0!3m2!1sen!2ssg!4v1721979745279!5m2!1sen!2ssg"></iframe>
 </div>
 <p></p>
-<h3>3 CAAC</h3>
+<h3>3 Chinatown Active Ageing Centres &amp; CatchPlus Centre</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
