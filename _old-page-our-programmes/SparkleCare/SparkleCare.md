@@ -6,8 +6,8 @@ description: ""
 third_nav_title: SparkleCare
 ---
 <h3>SparkleCare Programmes</h3>
-<p>SparkleCare offers tailored well-being programs—JoyPlus, MealsPlus, LovePlus,
-and CatchPlus—catering to residents' needs.&nbsp;</p>
+<p>SparkleCare offers tailored well-being programmes—JoyPlus, MealsPlus,
+LovePlus, and CatchPlus—catering to residents' needs.&nbsp;</p>
 <p>Join us in fostering a supportive community by volunteering, donating,
 or spreading awareness. Your involvement is vital to SparkleCare's success
 in nurturing our community's health and happiness.</p>
