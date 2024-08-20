@@ -1,5 +1,5 @@
 collections:
-  kaks-programmes:
+  our-programmes:
     output: true
     order:
       - Active Ageing/.keep
