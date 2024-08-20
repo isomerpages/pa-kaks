@@ -68,8 +68,9 @@ Line)</p>
 </div>
 <p></p>
 <h3>3 CAAC</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -79,17 +80,32 @@ Line)</p>
 <td rowspan="1" colspan="1">
 <p><strong>Chinatown Active Ageing Centre (Banda)</strong>
 <br>[Centre-based]</p>
-<p>5 Banda Street, #03-68, S050005</p>
+<p>5 Banda Street, #03-68, S050005
+<br><a href="https://maps.app.goo.gl/zb8jszCkqW6D944b6" rel="noopener noreferrer nofollow" target="_blank">View in Map</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Chinatown Active Ageing Centre (Chin Swee)</strong>
+<p><strong>Chinatown Active Ageing Centre (Banda)</strong>
 <br>[Centre-based]</p>
-<p>51 Chin Swee Rd, #04-83, S160051</p>
+<p>5 Banda Street, #03-68, S050005
+<br><a href="https://maps.app.goo.gl/6Y1Mdi82zQHjvnr5A" rel="noopener noreferrer nofollow" target="_blank">View in Map</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Chinatown Active Ageing Centre (Jalan Kukoh)</strong>
 <br>[Centre-based]</p>
-<p>8 Jalan Kukoh, #04-35, S162008</p>
+<p>8 Jalan Kukoh, #04-35, S162008
+<br><a href="https://maps.app.goo.gl/vHg6deGLfVPMisSg9" rel="noopener noreferrer nofollow" target="_blank">View in Map</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CatchPlus Centre</strong>
+<br>
+<br>[Centre-based]</p>
+<p>10 Jalan Kukoh, level 4-55
+<br><a href="https://maps.app.goo.gl/tmA6hSnjQDCAXm1w9" rel="noopener noreferrer nofollow" target="_blank">View in Map</a>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
