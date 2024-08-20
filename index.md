@@ -35,7 +35,7 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /kaks-programmes
-      image: /images/WhatsApp_Image_2024_04_18_at_15_25_34.jpg
+      image: /images/SparkleCare.png
   - infopic:
       title: Active Ageing
       id: infopic
