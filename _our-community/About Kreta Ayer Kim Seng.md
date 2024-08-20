@@ -102,7 +102,7 @@ Line)</p>
 <p><strong>CatchPlus Centre</strong>
 <br>
 <br>[Centre-based]</p>
-<p>10 Jalan Kukoh, level 4-55
+<p>10 Jalan Kukoh, Levels 4-55
 <br><a href="https://maps.app.goo.gl/tmA6hSnjQDCAXm1w9" rel="noopener noreferrer nofollow" target="_blank">View in Map</a>
 </p>
 <p></p>
