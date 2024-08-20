@@ -28,4 +28,10 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/XehsBbihawg?si=Fg6hVpnCHVOo6C7c"
         height="315" width="100%"></iframe>
+  - infopic:
+      title: Learn About SparkleCare
+      id: infopic
+      description: Take a look at our Sub Programmes of SparkleCare!
+      button: Button Text
+      alt: Image alt text
 ---
