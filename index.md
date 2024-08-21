@@ -53,4 +53,10 @@ sections:
       url: /chinese-new-year
       image: /images/hero-banner.png
       alt: Image alt text
+  - infopic:
+      title: Partners
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
