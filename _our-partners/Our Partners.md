@@ -4,7 +4,7 @@ permalink: /our-partners/
 variant: tiptap
 description: ""
 ---
-<h3>Thank you to all Our Partners!</h3>
+<h3>Thank You to All Our Partners!</h3>
 <p>We are sincerely thankful to our following Partners for their support
 so we can host charity events and provide volunteer work opportunities
 for our community's constituents.</p>
