@@ -3,7 +3,7 @@ url: https://kretaayer-kimseng.pa.gov.sg
 favicon: /images/Coloured_KAKS_logo.png
 colors:
   primary-color: "#d8246a"
-  secondary-color: "#d8246a"
+  secondary-color: "#f31568"
   media-colors:
     - title: media-color-one
       color: "#d8246a"
