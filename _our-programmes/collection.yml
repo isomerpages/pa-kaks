@@ -2,10 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Celebrations/Chinese New Year.md
-      - Celebrations/Buka Puasa.md
-      - Celebrations/National Day Dinner.md
-      - Celebrations/.keep
       - SparkleCare/.keep
       - SparkleCare/SparkleCare.md
       - SparkleCare/MealsPlus.md
@@ -16,3 +12,7 @@ collections:
       - Active Ageing/Our Golden Memories.md
       - Active Ageing/Senior Sports Day.md
       - Active Ageing/Health Screening.md
+      - Celebrations/.keep
+      - Celebrations/Chinese New Year.md
+      - Celebrations/Buka Puasa.md
+      - Celebrations/National Day Dinner.md
