@@ -56,7 +56,10 @@ sections:
   - infopic:
       title: Partners
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Are you interested in learning more about the partners who support
+        our programs and events?
+      button: Find Out More
       alt: Image alt text
+      url: /our-partners
+      image: /images/hero-banner.png
 ---
