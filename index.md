@@ -45,4 +45,12 @@ sections:
       url: /our-golden-memories
       image: /images/WhatsApp_Image_2024_04_18_at_15_25_34.jpg
       alt: Image alt text
+  - infopic:
+      title: Celebrations
+      id: infopic
+      description: Explore all our past and upcoming events and happenings!
+      button: Find Out More
+      url: /chinese-new-year
+      image: /images/hero-banner.png
+      alt: Image alt text
 ---
