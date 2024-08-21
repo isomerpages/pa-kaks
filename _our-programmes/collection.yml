@@ -2,13 +2,13 @@ collections:
   our-programmes:
     output: true
     order:
-      - Active Ageing/.keep
-      - Active Ageing/Our Golden Memories.md
-      - Active Ageing/Senior Sports Day.md
-      - Active Ageing/Health Screening.md
+      - SparkleCare/.keep
       - SparkleCare/SparkleCare.md
       - SparkleCare/MealsPlus.md
       - SparkleCare/LovePlus.md
       - SparkleCare/JoyPlus.md
       - SparkleCare/CatchPlus.md
-      - SparkleCare/.keep
+      - Active Ageing/.keep
+      - Active Ageing/Our Golden Memories.md
+      - Active Ageing/Senior Sports Day.md
+      - Active Ageing/Health Screening.md
