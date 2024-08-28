@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Kreta Ayer-Kim Seng Newsletter</strong></h2>
 <h4><strong>Date of the Newsletter: Hari Raya Edition 2024</strong></h4>
-<p></p>
+<p>[TBA - Hari Raya Newsletter]</p>
 <h4><strong>Date of the Newsletter: May 2023</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
