@@ -51,7 +51,7 @@ sections:
       description: Explore all our past and upcoming events and happenings!
       button: Find Out More
       url: /chinese-new-year
-      image: /images/hero-banner.png
+      image: /images/20230910_091242_G0000089.jpg
       alt: Image alt text
   - infopic:
       title: Partners
@@ -61,5 +61,5 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /our-partners
-      image: /images/hero-banner.png
+      image: /images/20240119___Chinatown_2024_CNY_Light_Up__167_of_281__min.jpg
 ---
