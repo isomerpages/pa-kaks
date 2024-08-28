@@ -9,5 +9,8 @@ third_nav_title: SparkleCare
 <p>CatchPlus is a crucial initiative within SparkleCare, focusing on mentoring
 children aged 7-16 from low-income families. Supporting over 250 students,
 this programme provides a nurturing environment for both learning and play.</p>
-<p>[Video: Learn More About CatchPlus]</p>
+<h4>Learn More About CatchPlus</h4>
+<div class="iframe-wrapper">
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z_77SsL9w7w?si=PZRDdwXpunYiIJmL"></iframe>
+</div>
 <p></p>
