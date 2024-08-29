@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Celebrations
 ---
 <h3>Opening Ceremony</h3>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1SXOeymLVam5OxFeOSt1JsVXlB9cWqYzk9AThlwQp7MY/embed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
+</div>
 <h3>Countdown</h3>
 <div class="iframe-wrapper">
 <iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1HHi9E7Z-qdwraIpP92gLeaMNUEPej6NNUL_LTY6Ctu0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
