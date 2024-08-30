@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: SparkleCare
 ---
-<h4>Learn More About SparkleCare</h4>
+<h4></h4>
 <div class="iframe-wrapper">
 <iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/brckiaGGn2Q?si=MEuOCzMKLfUX2t6t"></iframe>
 </div>
