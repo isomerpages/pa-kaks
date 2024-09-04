@@ -86,6 +86,7 @@ Line)</p>
 </tr>
 </tbody>
 </table>
+<h3>3 Chinatown Active Ageing Centres &amp; The CatchPlus Centre</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Chinatown Active Ageing Centre (Banda)</strong>
@@ -194,45 +195,6 @@ Line)</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8119066493423!2d103.8390647!3d1.2869405000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1975d574e717%3A0x65b26e8c699fad6a!2s10%20Jln%20Kukoh%2C%20Singapore%20162010!5e0!3m2!1sen!2ssg!4v1725431683978!5m2!1sen!2ssg"></iframe>
 </div>
-<h3>3 Chinatown Active Ageing Centres &amp; CatchPlus Centre</h3>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>
-<br><a href="https://maps.app.goo.gl/zb8jszCkqW6D944b6" rel="noopener noreferrer nofollow" target="_blank">View in Map</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br><a href="https://maps.app.goo.gl/6Y1Mdi82zQHjvnr5A" rel="noopener noreferrer nofollow" target="_blank">View in Map</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br><a href="https://maps.app.goo.gl/vHg6deGLfVPMisSg9" rel="noopener noreferrer nofollow" target="_blank">View in Map</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br><a href="https://maps.app.goo.gl/tmA6hSnjQDCAXm1w9" rel="noopener noreferrer nofollow" target="_blank">View in Map</a>
-</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<h3></h3>
 <p></p>
 <p></p>
