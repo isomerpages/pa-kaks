@@ -36,7 +36,7 @@ sections:
       description: Take a look at our Sub Programmes of SparkleCare!
       button: Find Out More
       alt: Image alt text
-      url: /kaks-programmes
+      url: /sparklecare
       image: /images/SparkleCare.png
   - infopic:
       title: Active Ageing
