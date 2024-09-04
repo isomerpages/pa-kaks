@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: SparkleCare
 ---
+<p>SparkleCare is committed to enhancing the well-being of our residents
+through a range of tailored programmes: JoyPlus, MealsPlus, LovePlus, and
+CatchPlus. Each initiative is designed to address specific needs and create
+a meaningful impact within the community.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -25,7 +29,4 @@ third_nav_title: SparkleCare
 </tr>
 </tbody>
 </table>
-<p>SparkleCare is committed to enhancing the well-being of our residents
-through a range of tailored programmes: JoyPlus, MealsPlus, LovePlus, and
-CatchPlus. Each initiative is designed to address specific needs and create
-a meaningful impact within the community.</p>
+<p></p>
