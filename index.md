@@ -45,7 +45,7 @@ sections:
         locations in Chinatown!
       button: Find out more
       url: /our-golden-memories
-      image: /images/IMG_9371.jpg
+      image: /images/Active_Ageing_Homepage_banner.png
       alt: Image alt text
   - infopic:
       title: Celebrations
