@@ -66,7 +66,26 @@ Line)</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15955.231808191385!2d103.82075041303041!3d1.289466579259014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1982838beec7%3A0xfbcd62cdd9a157c!2sKim%20Seng%20Community%20Centre!5e0!3m2!1sen!2ssg!4v1721979745279!5m2!1sen!2ssg"></iframe>
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Chinatown Active Ageing Centre (Banda)</strong>
@@ -79,7 +98,26 @@ Line)</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8221784583857!2d103.8426812!3d1.2803559!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19f8634fad97%3A0x10723c2965ef63c3!2s5%20Banda%20St%2C%20Singapore%20050005!5e0!3m2!1sen!2ssg!4v1725431557884!5m2!1sen!2ssg"></iframe>
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Chinatown Active Ageing Centre (Chin Swee)</strong>
@@ -92,7 +130,26 @@ Line)</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.244459238109!2d103.8303883!3d1.2874467!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19de8e8a617f%3A0x53b5c3e192d88364!2sChin%20Swee%20AAC!5e0!3m2!1sen!2ssg!4v1725431591113!5m2!1sen!2ssg"></iframe>
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Chinatown Active Ageing Centre (Jalan Kukoh)</strong>
@@ -105,7 +162,26 @@ Line)</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.244459238109!2d103.8303883!3d1.2874467!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19fae9c5b24f%3A0x16a1775acf6f84d4!2sActive%20Ageing%20Centre%20(Chinatown)!5e0!3m2!1sen!2ssg!4v1725431652419!5m2!1sen!2ssg"></iframe>
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>CatchPlus Centre</strong>
