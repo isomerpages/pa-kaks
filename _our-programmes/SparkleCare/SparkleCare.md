@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: SparkleCare
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SparkleCare.png">
+</div>
 <p>SparkleCare is committed to enhancing the well-being of our residents
 through a range of tailored programmes: JoyPlus, MealsPlus, LovePlus, and
 CatchPlus. Each initiative is designed to address specific needs and create
