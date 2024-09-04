@@ -53,7 +53,7 @@ sections:
       description: Explore all our past and upcoming events and happenings!
       button: Find Out More
       url: /chinese-new-year
-      image: /images/20230910_091242_G0000089.jpg
+      image: /images/KAKS_celebrations_homepage.jpg
       alt: Image alt text
   - infopic:
       title: Partners
