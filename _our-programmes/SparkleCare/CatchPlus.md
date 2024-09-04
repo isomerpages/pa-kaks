@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: SparkleCare
 ---
-<h2>CatchPlus</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+</div>
 <p>CatchPlus is a crucial initiative within SparkleCare, focusing on mentoring
 children aged 7-16 from low-income families. Supporting over 250 students,
 this programme provides a nurturing environment for both learning and play.</p>
