@@ -85,9 +85,9 @@ Line)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Chinatown Active Ageing Centre (Banda)</strong>
+<p><strong>Chinatown Active Ageing Centre (Chin Swee)</strong>
 <br>[Centre-based]</p>
-<p>5 Banda Street, #03-68, S050005
+<p>51 Chin Swee Road, #04-83, S160051
 <br><a href="https://maps.app.goo.gl/6Y1Mdi82zQHjvnr5A" rel="noopener noreferrer nofollow" target="_blank">View in Map</a>
 </p>
 </td>
