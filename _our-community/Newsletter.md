@@ -16,12 +16,10 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="630" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpQ6yQW2fKXURQk7z0wcfuaKml622h_iNx8CGBsDNmPPCJ_xb8W4IeDwG0D3LCMx929zhbzdESRDLh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Date of the Newsletter: May 2023</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1CFuU9jLwT2I7gshWJVp2rHoWJluKJVW1GocQwNXgvmo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
