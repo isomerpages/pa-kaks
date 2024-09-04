@@ -103,7 +103,7 @@ Line)</p>
 </details>
 </div>
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8119066493423!2d103.8390647!3d1.2869405000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1975d574e717%3A0x65b26e8c699fad6a!2s10%20Jln%20Kukoh%2C%20Singapore%20162010!5e0!3m2!1sen!2ssg!4v1725431613386!5m2!1sen!2ssg"></iframe>
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.244459238109!2d103.8303883!3d1.2874467!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19fae9c5b24f%3A0x16a1775acf6f84d4!2sActive%20Ageing%20Centre%20(Chinatown)!5e0!3m2!1sen!2ssg!4v1725431652419!5m2!1sen!2ssg"></iframe>
 </div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
