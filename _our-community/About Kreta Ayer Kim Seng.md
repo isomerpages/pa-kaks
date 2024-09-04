@@ -115,6 +115,9 @@ Line)</p>
 </div>
 </details>
 </div>
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8119066493423!2d103.8390647!3d1.2869405000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1975d574e717%3A0x65b26e8c699fad6a!2s10%20Jln%20Kukoh%2C%20Singapore%20162010!5e0!3m2!1sen!2ssg!4v1725431683978!5m2!1sen!2ssg"></iframe>
+</div>
 <h3>3 Chinatown Active Ageing Centres &amp; CatchPlus Centre</h3>
 <table style="minWidth: 100px">
 <colgroup>
