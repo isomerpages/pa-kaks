@@ -37,7 +37,7 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /sparklecare
-      image: /images/Combination.png
+      image: /images/Celebrations/SparkleCare_subgroups_homepage.png
   - infopic:
       title: Active Ageing
       id: infopic
