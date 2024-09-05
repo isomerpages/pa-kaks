@@ -13,7 +13,7 @@ third_nav_title: Celebrations
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrations/MAF___chinatown_opening_ceremony.jpg">
 </div>
-<h2>Street Lightup</h2>
+<h2>Street Light-up</h2>
 <p></p>
 <h2>Mass Lantern Walk &amp; Stage Show</h2>
 <div class="isomer-image-wrapper">
