@@ -2,4 +2,5 @@ collections:
   our-partners:
     output: true
     order:
+      - Celebration Partners.md
       - Our Partners.md
