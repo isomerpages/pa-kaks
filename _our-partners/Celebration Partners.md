@@ -78,4 +78,31 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h3>Buka Puasa 2024</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners Buka Puasa 2024/kampong_melaka.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners Buka Puasa 2024/MudaSG.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners Buka Puasa 2024/NUS_muslim_society.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
