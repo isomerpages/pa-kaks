@@ -21,10 +21,7 @@ empowers residents by offering them choice and dignity in their food selection.<
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SparkleCare.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sparklecare"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SparkleCare.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/catchplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAKS_CATCH.png"></a>
 </td>
