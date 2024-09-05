@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Celebrations
 ---
-<div class="iframe-wrapper">
-<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1L0Waed5WqLjmTAJyOTUw8PQmhM1mQ4h0P87KSGlPcqk/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrations/family_day_carnival.jpg">
 </div>
 <p></p>
