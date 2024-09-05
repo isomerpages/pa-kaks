@@ -14,7 +14,6 @@ and food items door-to-door, JoyPlus enables residents to "shop" for essential
 items, including food, household necessities, toys, and electrical appliances.</p>
 <p></p>
 <p>[Video: Learn More About JoyPlus]</p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -25,15 +24,22 @@ items, including food, household necessities, toys, and electrical appliances.</
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SparkleCare.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Catch_Button_Icon.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/catchplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAKS_CATCH.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/love_button_ivon.jpg">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/loveplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAKS_LOVE.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mealsplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAKS_MEALS.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/meals_button_icon.jpg">
+</div>
 </td>
 </tr>
 </tbody>
