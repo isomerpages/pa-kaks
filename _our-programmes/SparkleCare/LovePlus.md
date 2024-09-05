@@ -17,7 +17,6 @@ these shared meals.</p>
 <div class="iframe-wrapper">
 <iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IJRrhFVVd2E?si=Na0OBr6-CaaQOomt"></iframe>
 </div>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -28,15 +27,22 @@ these shared meals.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SparkleCare.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Catch_Button_Icon.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/catchplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAKS_CATCH.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/joy_button_icon.jpg">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/joyplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAKS_JOY.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mealsplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAKS_MEALS.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/meals_button_icon.jpg">
+</div>
 </td>
 </tr>
 </tbody>
