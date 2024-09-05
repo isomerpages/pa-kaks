@@ -11,6 +11,6 @@ Ayer-Kim Seng area biannually. It gives them a chance to meet others in
 their community and experience fun activities like having a makeover and
 having a photoshoot!</p>
 <div class="iframe-wrapper">
-<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/16dJMTSh4z3jEnCQams83u54gSy-ByrfPIGtFoo_07WA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/16dJMTSh4z3jEnCQams83u54gSy-ByrfPIGtFoo_07WA/embed?start=true&amp;loop=true&amp;delayms=1000"></iframe>
 </div>
 <p></p>
