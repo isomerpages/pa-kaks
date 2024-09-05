@@ -9,8 +9,9 @@ description: ""
 rich history and cultural heritage. This area seamlessly integrates traditional
 charm with modern urban developments, reflecting Singapore’s commitment
 to preserving its cultural legacy while embracing progress and innovation.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAP.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAKS_map_w_MRT_CCs.jpg">
 </div>
 <h2>Getting There</h2>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
