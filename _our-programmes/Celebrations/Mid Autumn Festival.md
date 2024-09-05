@@ -5,18 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: Celebrations
 ---
-<h2>Lantern Painting</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrations/MAF__Lantern_painting.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrations/MAF___Lantern_Painting.jpg">
 </div>
-<h2>Opening ceremony</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrations/MAF___chinatown_opening_ceremony.jpg">
-</div>
-<h2>Street Light-up</h2>
 <p></p>
-<h2>Mass Lantern Walk &amp; Stage Show</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrations/MAF___mass_lantern_walk.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrations/MAF___Opening_Ceremony.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrations/MAF___Street_Light_Up.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrations/MAF___Mass_Lantern_Walk.jpg">
 </div>
 <p></p>
