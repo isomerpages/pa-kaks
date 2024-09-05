@@ -25,10 +25,7 @@ this programme provides a nurturing environment for both learning and play.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sparkle_care.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sparklecare"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sparkle_care.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/joyplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/joy_button_icon.jpg"></a>
 </td>
