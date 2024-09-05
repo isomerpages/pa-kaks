@@ -63,5 +63,5 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /our-partners
-      image: /images/20240119___Chinatown_2024_CNY_Light_Up__167_of_281__min.jpg
+      image: /images/For_Homepage_partners.jpg
 ---
