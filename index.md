@@ -62,6 +62,6 @@ sections:
         our programs and events?
       button: Find Out More
       alt: Image alt text
-      url: /our-partners
+      url: /partners-sponsors
       image: /images/For_Homepage_partners.jpg
 ---
