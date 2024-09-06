@@ -6,7 +6,7 @@ description: ""
 third_nav_title: SparkleCare
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_Catchplus.png">
 </div>
 <p>CatchPlus is a crucial initiative within SparkleCare, focusing on mentoring
 children aged 7-16 from low-income families. Supporting over 250 students,
