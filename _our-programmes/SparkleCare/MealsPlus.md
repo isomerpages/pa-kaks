@@ -11,7 +11,9 @@ third_nav_title: SparkleCare
 <p>MealsPlus is dedicated to providing warm meals to residents in need with
 the support of over 50 partner merchants. Our monthly food top-up card
 empowers residents by offering them choice and dignity in their food selection.</p>
-<p>[Video: Learn More About MealsPlus]</p>
+<div class="iframe-wrapper">
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yp1Mg29Z4Gk?si=hOJpGFgxfWT6guqW"></iframe>
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
