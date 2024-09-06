@@ -6,7 +6,7 @@ description: ""
 third_nav_title: SparkleCare
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_JoyPlus.png">
 </div>
 <p>JoyPlus is a quarterly programme aimed at alleviating the cost of living
 for less privileged residents. Rather than distributing common groceries
