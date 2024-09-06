@@ -87,13 +87,12 @@ Line)</p>
 </tr>
 </tbody>
 </table>
-<h3>3 Chinatown Active Ageing Centres &amp; The CatchPlus Centre</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Chinatown Active Ageing Centre (Banda)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>5 Banda Street, #03-68, S050005 [Centre-based]</p>
+<p>5 Banda Street, #03-68, S050005</p>
 </div>
 </details>
 </div>
