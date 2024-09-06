@@ -2,6 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Our Partners.md
+      - Partners & Sponsors.md
       - SparkleCare Partners.md
       - Celebration Partners.md
