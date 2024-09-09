@@ -178,7 +178,7 @@ it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://kretaayer-kimseng.pa.gov.sg/files/canhelp/pa_volunteer_registration_form__2023"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/canhelp/pa_volunteer_registration_form__2023"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
