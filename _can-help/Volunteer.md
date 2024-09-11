@@ -173,8 +173,9 @@ raise awareness about community issues, understand government policies,
 gather feedback and support the needy. Check out our <a href="https://www.facebook.com/KAKSCommunity/" rel="noopener noreferrer nofollow" target="_blank">social media page</a> to
 find more about our current events.
 <br>
-<br>You may e-mail the form to <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a> or submit
-it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
+<br>You may e-mail <a href="/files/Can Help/volunteer_registration_form_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">the form</a> to
+<a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a>or submit it at our CC service counter from
+10am - 6pm (Mon - Sun, excluding PH).</p>
 </td>
 </tr>
 <tr>
