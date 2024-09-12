@@ -179,10 +179,7 @@ find more about our current events.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/volunteer/volunteer_registration_form_2023"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
