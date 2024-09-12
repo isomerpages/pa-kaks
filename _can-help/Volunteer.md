@@ -173,13 +173,13 @@ raise awareness about community issues, understand government policies,
 gather feedback and support the needy. Check out our <a href="https://www.facebook.com/KAKSCommunity/" rel="noopener noreferrer nofollow" target="_blank">social media page</a> to
 find more about our current events.
 <br>
-<br>You may e-mail <a href="/files/Can Help/volunteer_registration_form_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">the form</a> to
+<br>You may e-mail <a href="/files/Volunteer_Registration_Form__2023_.pdf" rel="noopener nofollow" target="_blank">the form</a> to
 <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a>or submit it at our CC service counter from
 10am - 6pm (Mon - Sun, excluding PH).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/volunteer/volunteer_registration_form_2023"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/directory/volunteer_registration_form_2023"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
