@@ -13,6 +13,10 @@ third_nav_title: SparkleCare
 through a range of tailored programmes: JoyPlus, MealsPlus, LovePlus, and
 CatchPlus. Each initiative is designed to address specific needs and create
 a meaningful impact within the community.</p>
+<h4>Learn More About SparkleCare</h4>
+<div class="iframe-wrapper">
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Iq_TgfMxWl0?si=oFn94Chz4VLAkKcO"></iframe>
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
