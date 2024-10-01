@@ -12,8 +12,9 @@ third_nav_title: SparkleCare
 for less privileged residents. Rather than distributing common groceries
 and food items door-to-door, JoyPlus enables residents to "shop" for essential
 items, including food, household necessities, toys, and electrical appliances.</p>
-<p></p>
-<p>[Video: Learn More About JoyPlus]</p>
+<div class="iframe-wrapper">
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Iq_TgfMxWl0?si=WktHOvU8UVTvSYMK"></iframe>
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
