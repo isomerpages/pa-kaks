@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Kreta_Ayer_banner3_2.jpg
-      variant: center
+      variant: image
       size: md
       alignment: left
       backgroundColor: gray
