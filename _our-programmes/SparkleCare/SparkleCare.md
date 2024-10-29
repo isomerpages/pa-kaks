@@ -5,13 +5,37 @@ variant: tiptap
 description: ""
 third_nav_title: SparkleCare
 ---
-<h3>SparkleCare Programmes</h3>
-<p>SparkleCare offers tailored well-being programs—JoyPlus, MealsPlus, LovePlus,
-and CatchPlus—catering to residents' needs.&nbsp;</p>
-<p>Join us in fostering a supportive community by volunteering, donating,
-or spreading awareness. Your involvement is vital to SparkleCare's success
-in nurturing our community's health and happiness.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="group photo of volunteers" src="/images/ESR64390.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SparkleCare.png">
 </div>
+<p>SparkleCare is committed to enhancing the well-being of our residents
+through a range of tailored programmes: JoyPlus, MealsPlus, LovePlus, and
+CatchPlus. Each initiative is designed to address specific needs and create
+a meaningful impact within the community.</p>
+<h4>Learn More About SparkleCare</h4>
+<div class="iframe-wrapper">
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Iq_TgfMxWl0?si=oFn94Chz4VLAkKcO"></iframe>
+</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/catchplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Catch_Button_Icon.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/joyplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/joy_button_icon.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/loveplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/love_button_ivon.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mealsplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/meals_button_icon.jpg"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>

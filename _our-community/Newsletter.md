@@ -2,13 +2,25 @@
 title: Newsletter
 permalink: /newsletter/
 variant: tiptap
-description: Interested to receive news about Kreta Ayer-Kim Seng Community Centre?
+description: ""
 ---
-<h3><strong>Kreta Ayer-Kim Seng Newsletter</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="newsletter cover" src="/images/Kreta_Ayer_Kim_Seng_Newsletter_Compiled_Final_images_1.jpg">
+<h4><strong>Hari Raya Edition 2024</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="700" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpQ6yQW2fKXURQk7z0wcfuaKml622h_iNx8CGBsDNmPPCJ_xb8W4IeDwG0D3LCMx929zhbzdESRDLh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4><strong>KAKS Newsletter (Hari Raya Edition)</strong></h4>
-<p><strong>Click <a href="/files/Kreta_Ayer_Kim_Seng_Newsletter_Compiled_Final_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view our newsletter</strong>
-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>National Day Edition 2023</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="700" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1CFuU9jLwT2I7gshWJVp2rHoWJluKJVW1GocQwNXgvmo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>

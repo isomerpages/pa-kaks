@@ -1,0 +1,13 @@
+collections:
+  old-page-our-programmes:
+    output: true
+    order:
+      - Chinatown AAC/.keep
+      - Chinatown AAC/About Us & Locations.md
+      - Chinatown AAC/Our Activities.md
+      - SparkleCare/.keep
+      - SparkleCare/SparkleCare.md
+      - SparkleCare/CatchPlus.md
+      - SparkleCare/MealsPlus.md
+      - SparkleCare/JoyPlus.md
+      - SparkleCare/LovePlus.md

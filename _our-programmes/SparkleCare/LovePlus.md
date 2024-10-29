@@ -2,15 +2,39 @@
 title: LovePlus
 permalink: /loveplus/
 variant: tiptap
-description: We bring residents together for a sit-down meal experience.
+description: ""
 third_nav_title: SparkleCare
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="loveplus logo" src="/images/4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_LovePlus.png">
 </div>
-<p>LovePlus program brings residents together for a year-round sit-down meal
-experience. It fosters a sense of community and offers home assistance
-while also providing an environment for residents to share stories and
-build lasting connections. It aims to diminish feelings of isolation by
-cultivating a warm and inclusive atmosphere during these shared meals.</p>
+<p>The LovePlus programme brings residents together for year-round sit-down
+meals. It fosters a sense of community, offers home assistance, and provides
+a warm environment for sharing stories and forming lasting connections.
+LovePlus aims to reduce isolation by creating a welcoming atmosphere during
+these shared meals.</p>
+<h4>Learn More About LovePlus</h4>
+<div class="iframe-wrapper">
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IJRrhFVVd2E?si=Na0OBr6-CaaQOomt"></iframe>
+</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sparklecare"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sparkle_care.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/catchplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Catch_Button_Icon.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/joyplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/joy_button_icon.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mealsplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/meals_button_icon.jpg"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

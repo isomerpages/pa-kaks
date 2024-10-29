@@ -1,62 +1,67 @@
 ---
 layout: homepage
-title: Title
+title: Kreta Ayer-Kim Seng
 description: An Isomer site of the Singapore Government
-image: /images/Colour_KAKS_logo__Horizontal_.png
+image: /images/PA_logo_KAKS_vertical_logo.png
 permalink: /
 notification: ""
 sections:
   - hero:
-      title: Come Down & Explore Kreta Ayer-Kim Seng
-      background: /images/G0002036.jpg
-      variant: center
-      dropdown:
-        title: How Can We Assist You?
-        options:
-          - title: CatchPlus
-            url: /catchplus
-          - title: MealsPlus
-            url: /mealsplus
-          - title: JoyPlus
-            url: /joyplus
-          - title: LovePlus
-            url: /loveplus
-  - infopic:
-      title: KRETA AYER-KIM SENG TAMIL NEW YEAR 2024
-      subtitle: OUR ACTIVITIES
-      id: infopic
-      description: Immerse yourself in the rich culture and festivities alongside our
-        vibrant community residents. 21 April 2024 | 3pm - 8pm;
-      button: Find Out More
-      url: /upcoming-activities
-      image: /images/WhatsApp_Image_2024_04_16_at_16_12_39.jpg
-      alt: Image alt text
-  - infopic:
-      title: SPARKLECARE
-      subtitle: OUR PROGRAMMES
-      id: infopic
-      description: SparkleCare's tailored well-being programmes cater to our
-        residents' needs. Join us - volunteer, donate, or spread awareness - to
-        foster a supportive community.
-      button: Find Out More
-      url: /sparklecare
-      image: /images/ESR63831__1_.jpg
-      alt: Image alt text
-  - infopic:
-      title: CHINATOWN ACTIVE AGEING CENTRES
-      subtitle: OUR PROGRAMMES
-      id: infopic
-      description: Empowering residents aged 50 and above with vibrant programmes and
-        services to foster wellness, social engagement, and lifelong learning.
-      button: Find Out More
-      url: /about-us-locations
-      image: /images/kush_dwivedi_T5fnjVj0AW8_unsplash__1_.jpg
-      alt: Image alt text
+      background: /images/Kreta_Ayer_banner3_2.jpg
+      variant: image
+      size: md
+      alignment: left
+      backgroundColor: gray
+      key_highlights:
+        - title: I Need Help
+          description: from our community
+          url: /support-resources/
+        - title: I Can Help
+          description: support the community
+          url: /community-opportunities/
   - infobar:
-      title: Contact Us
+      title: Community Programmes
+      subtitle: Find out more about our
       id: infobar
-      description: "Get in touch with Kreta Ayer-Kim Seng (KAKS): A combination of
-        Kreta Ayer Community Club and Kim Seng Community Centre"
-      button: Get in Touch
-      url: /contact-us
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/brckiaGGn2Q?si=BxsHAz2OE_vWOplH"
+        height="415" width="100%"></iframe>
+      button: More about sparklecare
+      url: /sparklecare
+  - infopic:
+      title: Learn About SparkleCare
+      id: infopic
+      description: Take a look at our Sub Programmes of SparkleCare!
+      button: Find Out More
+      alt: Image alt text
+      url: /sparklecare
+      image: /images/SparkleCare_subgroups_homepage.png
+  - infopic:
+      title: Active Ageing
+      id: infopic
+      description: Learn about our Active Ageing Centres located at 3 different
+        locations in Chinatown!
+      button: Find out more
+      url: /our-golden-memories
+      image: /images/Active_Ageing_Homepage_banner.png
+      alt: Image alt text
+  - infopic:
+      title: Celebrations
+      id: infopic
+      description: Explore all our past and upcoming events and happenings!
+      button: Find Out More
+      url: /chinese-new-year
+      image: /images/Celebrations/KAKS_celebrations_homepage.jpg
+      alt: Image alt text
+  - infopic:
+      title: Partners
+      id: infopic
+      description: Are you interested in learning more about the partners who support
+        our programs and events?
+      button: Find Out More
+      alt: Image alt text
+      url: /partners-sponsors
+      image: /images/For_Homepage_partners.jpg
 ---

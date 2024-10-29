@@ -1,20 +1,20 @@
-title: Title
+title: Kreta Ayer-Kim Seng
 url: https://kretaayer-kimseng.pa.gov.sg
 favicon: /images/Coloured_KAKS_logo.png
 colors:
   primary-color: "#d8246a"
-  secondary-color: "#d8246a"
+  secondary-color: "#f31568"
   media-colors:
     - title: media-color-one
       color: "#d8246a"
     - title: media-color-two
-      color: "#d8246a"
+      color: "#d9266b"
     - title: media-color-three
       color: "#d8246a"
     - title: media-color-four
-      color: "#d8246a"
+      color: "#d9266b"
     - title: media-color-five
-      color: "#d8246a"
+      color: "#d9266b"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d1lgjzl6fofbr8.amplifyapp.com
 prod: https://master.d2zp3svlc9zt7q.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/Colour_KAKS_logo__Horizontal_.png
+shareicon: /images/PA_logo_KAKS_vertical_logo.png
 is_government: false
-google_analytics_ga4: ""
+google_analytics_ga4: W3QB4DXP7G
 linkedin-insights: ""

@@ -1,10 +1,14 @@
-logo: /images/Colour_KAKS_logo__Horizontal_.png
+logo: /images/AI_file_PA_KAKS_logos.png
 links:
   - title: Our Community
     collection: our-community
-  - title: Our Activities
-    collection: our-activities
+  - title: Need Help
+    collection: need-help
+  - title: Can Help
+    collection: can-help
   - title: Our Programmes
     collection: our-programmes
+  - title: Our Partners
+    collection: our-partners
   - title: Contact Us
     url: /contact-us/

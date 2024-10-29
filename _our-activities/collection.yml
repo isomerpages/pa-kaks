@@ -1,6 +1,0 @@
-collections:
-  our-activities:
-    output: true
-    order:
-      - Upcoming Activities.md
-      - Monthly Activities.md

@@ -2,5 +2,5 @@ collections:
   our-community:
     output: true
     order:
-      - Volunteer Stories.md
+      - About Kreta Ayer Kim Seng.md
       - Newsletter.md

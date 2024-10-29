@@ -1,0 +1,6 @@
+collections:
+  old-page-community:
+    output: true
+    order:
+      - Volunteer Stories.md
+      - Newsletter.md

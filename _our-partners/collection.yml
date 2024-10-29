@@ -1,0 +1,7 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - Partners & Sponsors.md
+      - SparkleCare Partners.md
+      - Celebration Partners.md

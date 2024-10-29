@@ -2,12 +2,19 @@ collections:
   our-programmes:
     output: true
     order:
-      - Chinatown AAC/.keep
-      - Chinatown AAC/About Us & Locations.md
-      - Chinatown AAC/Our Activities.md
       - SparkleCare/.keep
       - SparkleCare/SparkleCare.md
       - SparkleCare/CatchPlus.md
-      - SparkleCare/MealsPlus.md
       - SparkleCare/JoyPlus.md
       - SparkleCare/LovePlus.md
+      - SparkleCare/MealsPlus.md
+      - Active Ageing/.keep
+      - Active Ageing/Our Golden Memories.md
+      - Active Ageing/Senior Sports Day.md
+      - Active Ageing/Health Screening.md
+      - Celebrations/.keep
+      - Celebrations/Chinese New Year.md
+      - Celebrations/Buka Puasa.md
+      - Celebrations/Mid Autumn Festival.md
+      - Celebrations/Deepavali.md
+      - Celebrations/Family Day Carnival.md
