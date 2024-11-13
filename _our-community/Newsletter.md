@@ -13,7 +13,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="3000" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-LJ7YUr2aiEixAveWS7pP2oH_IUf_gxKMCxbOif4n0KhdxIeHhYWayox-vVE3iOkkN5kCfFBucUzF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="700" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-LJ7YUr2aiEixAveWS7pP2oH_IUf_gxKMCxbOif4n0KhdxIeHhYWayox-vVE3iOkkN5kCfFBucUzF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 </td>
 </tr>
