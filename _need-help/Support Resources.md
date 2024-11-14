@@ -87,13 +87,19 @@ description: ""
 </tbody>
 </table>
 <h4><strong>For Financial Assistance</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_11.png">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.msf.gov.sg/what-we-do/comcare" rel="noopener noreferrer nofollow" target="_blank">Social Service Office @ Bukit Merah</a> 
 <br><em>(For residents living in Bukit Ho Swee, </em>
@@ -105,6 +111,11 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_11.png">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.msf.gov.sg/what-we-do/comcare" rel="noopener noreferrer nofollow" target="_blank">Social Service Office @ Kreta Ayer </a>
 <br><em>(For residents living in Kreta Ayer, </em>
@@ -120,13 +131,19 @@ description: ""
 <h4><strong>For Community Support</strong></h4>
 <p>Find support schemes and services all in one place : <a href="https://supportgowhere.life.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SupportGoWhere</u></a>
 <br>These are common numbers to call for our constituency:</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_12.png">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p>Chinatown Active Ageing Centre
 <br>@ Banda</p>
@@ -137,6 +154,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_12.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p>Chinatown Active Ageing Centre
 <br>@ Chin Swee</p>
 </td>
@@ -145,6 +167,11 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_12.png">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p>Chinatown Active Ageing Centre
 <br>@ Jalan Kukoh</p>
@@ -155,6 +182,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_13.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://supportgowhere.life.gov.sg/services/SVC-FSCF/family-service-centre-fsc" rel="noopener noreferrer nofollow" target="_blank">Family Service Centre @ Banda</a>
 </p>
 </td>
@@ -163,6 +195,11 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_13.png">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://supportgowhere.life.gov.sg/services/SVC-FSCF/family-service-centre-fsc" rel="noopener noreferrer nofollow" target="_blank">Family Service Centre @ Delta</a>
 </p>
@@ -173,6 +210,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Kim Seng Community Centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,6 +221,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Kreta Ayer Community Club</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -188,6 +231,9 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ 5 Banda Street</a>
 </p>
@@ -198,6 +244,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ 52A Havelock Road</a>
 </p>
 </td>
@@ -206,6 +255,9 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ Upper Boon Keng</a>
 </p>
@@ -217,16 +269,36 @@ description: ""
 </tbody>
 </table>
 <h4><strong>For General Queries</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_17.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.singpass.gov.sg/home/ui/contact-us" rel="noopener noreferrer nofollow" target="_blank">SingPass HelpDesk</a> 
-<br><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Make a Police Report</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6335 3533</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_17.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Make a Police Report</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
