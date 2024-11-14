@@ -7,13 +7,19 @@ description: ""
 <h4><strong>For Estate Matters</strong></h4>
 <p>Problem in your ‘hood? Visit <a href="https://www.oneservice.gov.sg/oneservice-channels" rel="noopener noreferrer nofollow" target="_blank"><u>OneService Channel&nbsp;</u></a>
 <br>Alternatively, you may also call the following number:&nbsp;</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/300x300_Essential_Maintenance_Service_Unit.png">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.jbtc.org.sg/info-for-our-residents/our-services/essential-maintenance-services-unit-emsu/" rel="noopener noreferrer nofollow" target="_blank">Essential Maintenance Service Unit</a>
 </p>
@@ -24,6 +30,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_8.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.hdb.gov.sg/cs/infoweb/contact-us" rel="noopener noreferrer nofollow" target="_blank">Housing Development Board Branch Office</a>
 </p>
 </td>
@@ -32,6 +43,11 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_7.png">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.jbtc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Jalan Besar Town Council</a>
 </p>
@@ -42,6 +58,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_9.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.lta.gov.sg/content/ltagov/en.html" rel="noopener noreferrer nofollow" target="_blank">Land Transport Authority</a>
 </p>
 </td>
@@ -50,6 +71,11 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_10.png">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Environment Agency</a>
 </p>
