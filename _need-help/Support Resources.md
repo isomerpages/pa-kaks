@@ -84,6 +84,28 @@ description: ""
 <p>1800 225 5632</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Utilities Board</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 225 5782</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Power Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 222 2333</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>For Financial Assistance</strong></h4>
