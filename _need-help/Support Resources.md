@@ -341,6 +341,29 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6335 3533</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.sos.org.sg/" rel="noopener nofollow" target="_blank">Samaritans of Singapore</a>
 </p>
 </td>
@@ -367,7 +390,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.singpass.gov.sg/home/ui/contact-us" rel="noopener noreferrer nofollow" target="_blank">SingPass HelpDesk</a> 
+<p><a href="https://www.singpass.gov.sg/home/ui/contact-us" rel="noopener noreferrer nofollow" target="_blank">SingPass HelpDesk</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -388,16 +411,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_17.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6335 3533</p>
+<p></p>
 </td>
 </tr>
 </tbody>
