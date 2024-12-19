@@ -302,17 +302,62 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_17.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.singpass.gov.sg/home/ui/contact-us" rel="noopener noreferrer nofollow" target="_blank">SingPass HelpDesk</a> 
-<br>
+<p><a href="https://vouchers.cdc.gov.sg/" rel="noopener nofollow" target="_blank">Community Development Council</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6335 3533</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.cpf.gov.sg/member" rel="noopener nofollow" target="_blank">Central Provident Fund</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://connectcentregroup.com/1777-neas/" rel="noopener nofollow" target="_blank">Non-emergency Ambulance</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sos.org.sg/" rel="noopener nofollow" target="_blank">Samaritans of Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.scamshield.gov.sg/" rel="noopener nofollow" target="_blank">Scamshield</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -322,7 +367,33 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Make a Police Report</a>
+<p><a href="https://www.singpass.gov.sg/home/ui/contact-us" rel="noopener noreferrer nofollow" target="_blank">SingPass HelpDesk</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6335 3533</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://spca.org.sg/" rel="noopener nofollow" target="_blank">Society for the Prevention of Cruelty to Animals (SPCA)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_17.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
