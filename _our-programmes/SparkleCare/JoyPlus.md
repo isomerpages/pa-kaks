@@ -14,7 +14,7 @@ and food items door-to-door, JoyPlus enables residents to "shop" for essential
 items, including food, household necessities, toys, and electrical appliances.</p>
 <h4>Learn More About JoyPlus</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6XVfiHQtjn0?si=3tANa9OZIOW0tYVW"></iframe>
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6XVfiHQtjn0?si=3tANa9OZIOW0tYVW"></iframe>
 </div>
 <table style="minWidth: 100px">
 <colgroup>
