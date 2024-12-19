@@ -238,7 +238,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kim Seng Community Centre</p>
@@ -249,7 +251,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kreta Ayer Community Club</p>
@@ -260,7 +264,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ 5 Banda Street</a>
@@ -272,7 +278,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ 52A Havelock Road</a>
@@ -284,7 +292,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ Upper Boon Keng</a>
