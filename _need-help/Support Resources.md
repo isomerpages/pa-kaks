@@ -16,6 +16,30 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EMU_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.jbtc.org.sg/info-for-our-residents/our-services/essential-maintenance-services-unit-emsu/" rel="noopener noreferrer nofollow" target="_blank">Essential Maintenance Service Unit</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 241 7711</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/300x300_Essential_Maintenance_Service_Unit.png">
 </div>
