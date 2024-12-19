@@ -353,7 +353,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.police.gov.sg/" rel="noopener nofollow" target="_blank">Police (non-emergency)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -404,17 +405,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="https://spca.org.sg/" rel="noopener nofollow" target="_blank">Society for the Prevention of Cruelty to Animals (SPCA)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
