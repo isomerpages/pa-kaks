@@ -89,7 +89,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Public Utilities Board</p>
+<p><a href="https://www.pub.gov.sg/" rel="noopener nofollow" target="_blank">Public Utilities Board</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1800 225 5782</p>
@@ -100,7 +101,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Power Service</p>
+<p><a href="https://www.spgroup.com.sg/" rel="noopener nofollow" target="_blank">Singapore Power Service</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1800 222 2333</p>
