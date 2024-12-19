@@ -17,7 +17,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/300x300_Essential_Maintenance_Service_Unit.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/300x300_Essential_Maintenance_Service_Unit.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -31,75 +31,85 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_8.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_8.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.hdb.gov.sg/cs/infoweb/contact-us" rel="noopener noreferrer nofollow" target="_blank">Housing Development Board Branch Office</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1800 225 5432</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_7.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_7.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.jbtc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Jalan Besar Town Council</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1800 298 9888</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_9.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_9.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.lta.gov.sg/content/ltagov/en.html" rel="noopener noreferrer nofollow" target="_blank">Land Transport Authority</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1800 225 5582</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_10.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_10.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.nea.gov.sg/" rel="noopener nofollow" target="_blank">National Environment Agency</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>1800 225 5632</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/PUB_Logo_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.pub.gov.sg/" rel="noopener nofollow" target="_blank">Public Utilities Board</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1800 225 5782</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/SP_Group_300x300.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.spgroup.com.sg/" rel="noopener nofollow" target="_blank">Singapore Power Service</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 222 2333</p>
 </td>
 </tr>
 </tbody>
