@@ -16,30 +16,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EMU_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.jbtc.org.sg/info-for-our-residents/our-services/essential-maintenance-services-unit-emsu/" rel="noopener noreferrer nofollow" target="_blank">Essential Maintenance Service Unit</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1800 241 7711</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/300x300_Essential_Maintenance_Service_Unit.png">
 </div>
@@ -59,11 +35,10 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.hdb.gov.sg/cs/infoweb/contact-us" rel="noopener noreferrer nofollow" target="_blank">Housing Development Board Branch Office</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1800 225 5432</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -73,11 +48,10 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.jbtc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Jalan Besar Town Council</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1800 298 9888</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -87,11 +61,10 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.lta.gov.sg/content/ltagov/en.html" rel="noopener noreferrer nofollow" target="_blank">Land Transport Authority</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1800 225 5582</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -101,11 +74,10 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Environment Agency</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1800 225 5632</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -113,11 +85,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.pub.gov.sg/" rel="noopener nofollow" target="_blank">Public Utilities Board</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1800 225 5782</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -125,11 +96,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.spgroup.com.sg/" rel="noopener nofollow" target="_blank">Singapore Power Service</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1800 222 2333</p>
+<p></p>
 </td>
 </tr>
 </tbody>
