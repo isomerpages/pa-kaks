@@ -316,7 +316,9 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Need Help/cdc_vouchers_logo_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://vouchers.cdc.gov.sg/" rel="noopener nofollow" target="_blank">Community Development Council</a>
@@ -328,7 +330,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Need Help/Cpf_logo_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.cpf.gov.sg/member" rel="noopener nofollow" target="_blank">Central Provident Fund</a>
@@ -340,7 +344,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Need Help/connect_centre_logo_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://connectcentregroup.com/1777-neas/" rel="noopener nofollow" target="_blank">Non-emergency Ambulance</a>
@@ -352,7 +358,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Need Help/singapore_police_force_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report</a>
@@ -364,7 +372,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Need Help/singapore_police_force_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.police.gov.sg/" rel="noopener nofollow" target="_blank">Police (non-emergency)</a>
@@ -376,7 +386,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Need Help/SOS_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.sos.org.sg/" rel="noopener nofollow" target="_blank">Samaritans of Singapore</a>
@@ -388,7 +400,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Need Help/scamshield_singapore_logo_300x300.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.scamshield.gov.sg/" rel="noopener nofollow" target="_blank">Scamshield</a>
@@ -401,7 +415,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_17.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Need Help/Frame_17.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -426,4 +440,5 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
