@@ -300,38 +300,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>For General Queries</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -413,7 +381,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Need Help/SOS_300x300.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Need Help/SOS_300x300.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -455,7 +423,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Need Help/spca_300x300.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Need Help/spca_300x300.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
