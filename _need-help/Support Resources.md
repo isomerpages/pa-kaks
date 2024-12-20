@@ -17,7 +17,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/300x300_Essential_Maintenance_Service_Unit.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/emsu_no_number.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,7 +239,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -252,7 +252,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -264,9 +264,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ 5 Banda Street</a>
@@ -278,9 +276,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ 52A Havelock Road</a>
@@ -292,9 +288,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Need Help/PA_Logo_300x300.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ Upper Boon Keng</a>
@@ -302,6 +296,38 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>6909 2988</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
