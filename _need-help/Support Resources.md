@@ -21,7 +21,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.jbtc.org.sg/info-for-our-residents/our-services/essential-maintenance-services-unit-emsu/" rel="noopener noreferrer nofollow" target="_blank">Essential Maintenance Service Unit</a>
+<p><a href="https://kretaayer-kimseng.pa.gov.sg/support-resources" rel="noopener noreferrer nofollow" target="_blank">Essential Maintenance Service Unit</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -291,7 +291,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ Upper Boon Keng</a>
+<p><a href="https://kretaayer-kimseng.pa.gov.sg/support-resources" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ Upper Boon Keng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
