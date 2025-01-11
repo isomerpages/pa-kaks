@@ -21,8 +21,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://kretaayer-kimseng.pa.gov.sg/support-resources" rel="noopener noreferrer nofollow" target="_blank">Essential Maintenance Service Unit</a>
-</p>
+<p>Essential Maintenance Service Unit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1800 241 7711</p>
