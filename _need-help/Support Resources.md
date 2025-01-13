@@ -21,7 +21,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Essential Maintenance Service Unit</p>
+<p><a href="https://jbtc.org.sg/our-services/essential-maintenance-service-unit-emsu/" rel="noopener nofollow" target="_blank">Essential Maintenance Service Unit</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1800 241 7711</p>
