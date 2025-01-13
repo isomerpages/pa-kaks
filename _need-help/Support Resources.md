@@ -21,7 +21,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://kretaayer-kimseng.pa.gov.sg/support-resources" rel="noopener noreferrer nofollow" target="_blank">Essential Maintenance Service Unit</a>
+<p><a href="https://jbtc.org.sg/our-services/essential-maintenance-service-unit-emsu/" rel="noopener nofollow" target="_blank">Essential Maintenance Service Unit</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,8 +267,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ 5 Banda Street</a>
-</p>
+<p>Meet the Adviser @ 5 Banda Street</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6909 2933</p>
@@ -279,8 +278,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.jbtc.org.sg/our-mps/jalan-besar-grc/mrs-josephine-teo/" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ 52A Havelock Road</a>
-</p>
+<p>Meet the Adviser @ 52A Havelock Road</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6909 2988</p>
@@ -291,8 +289,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://kretaayer-kimseng.pa.gov.sg/support-resources" rel="noopener noreferrer nofollow" target="_blank">Meet the Adviser @ Upper Boon Keng</a>
-</p>
+<p>Meet the Adviser @ Upper Boon Keng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6909 2988</p>
