@@ -16,8 +16,9 @@ this programme provides a nurturing environment for both learning and play.</p>
 <iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z_77SsL9w7w?si=PZRDdwXpunYiIJmL"></iframe>
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -32,6 +33,8 @@ this programme provides a nurturing environment for both learning and play.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/loveplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/love_button_ivon.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mealsplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/meals_button_icon.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/valueplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.png"></a>
 </td>
 </tr>
 </tbody>
