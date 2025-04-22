@@ -4,8 +4,9 @@ collections:
     order:
       - SparkleCare/.keep
       - SparkleCare/SparkleCare.md
-      - SparkleCare/CatchPlus.md
       - SparkleCare/JoyPlus.md
+      - SparkleCare/CatchPlus.md
+      - SparkleCare/ValuePlus.md
       - SparkleCare/LovePlus.md
       - SparkleCare/MealsPlus.md
       - Active Ageing/.keep

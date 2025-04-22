@@ -16,8 +16,9 @@ items, including food, household necessities, toys, and electrical appliances.</
 <div class="iframe-wrapper">
 <iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6XVfiHQtjn0?si=3tANa9OZIOW0tYVW"></iframe>
 </div>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -32,6 +33,8 @@ items, including food, household necessities, toys, and electrical appliances.</
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/loveplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/love_button_ivon.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mealsplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/meals_button_icon.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/valueplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.png"></a>
 </td>
 </tr>
 </tbody>
