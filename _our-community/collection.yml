@@ -2,5 +2,6 @@ collections:
   our-community:
     output: true
     order:
+      - Community Photos.md
       - About Kreta Ayer Kim Seng.md
       - Newsletter.md
