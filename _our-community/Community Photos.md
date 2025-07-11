@@ -32,30 +32,6 @@ their availability.)</p>
 </tbody>
 </table>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/20250622outingtorainforestwildasia" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025.06.22 - Outing to Rainforest Wild Asia" src="/images/ESR65735.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025.06.22 - Outing to Rainforest Wild Asia</div><div class="isomer-card-description">(Photos are available till 15 August 2025)</div><div class="isomer-card-link">View photos here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/20250524valueplus" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025.05.24 - ValuePlus" src="/images/IMG_8902.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">2025.05.24 - ValuePlus</div>
-<div class="isomer-card-description">(Photos are available till 30 June 2025)</div>
-<div class="isomer-card-link">View photos here</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/20250424sg60npjk" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025.04.24 - SG60 Neighbourhood Party @ Jalan Kukoh" src="/images/ESR66669.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025.04.24 - SG60 Neighbourhood Party @ Jalan Kukoh</div><div class="isomer-card-description">(Photos are available till 30 June 2025)</div><div class="isomer-card-link">View photos here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/20250422sg60nphl" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025.04.22 - SG60 Neighbourhood Party @ Hong Lim" src="/images/BRR16531.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">2025.04.22 - SG60 Neighbourhood Party @ Hong Lim</div>
-<div class="isomer-card-description">(Photos are available till 30 June 2025)</div>
-<div class="isomer-card-link">View photos here</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/20250421sg60npcs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025.04.21 - SG60 Neighbourhood Party @ Chin Swee" src="/images/2X3A9583.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025.04.21 - SG60 Neighbourhood Party @ Chin Swee</div><div class="isomer-card-description">(Photos are available till 30 June 2025)</div><div class="isomer-card-link">View photos here</div></div></a>
 </div>
 <hr>
 <h1></h1>
