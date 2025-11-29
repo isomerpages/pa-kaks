@@ -188,7 +188,7 @@ Line)</p>
 <summary><strong>CatchPlus Centre</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>10 Jalan Kukoh, Levels 4-55</p>
+<p>10 Jalan Kukoh, #04-55, S162010</p>
 </div>
 </details>
 </div>
