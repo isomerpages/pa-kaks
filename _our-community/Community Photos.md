@@ -25,7 +25,7 @@ their availability.)</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><em><a href="go.gov.sg/kakschannel" rel="noopener nofollow" target="_blank">Our Whatsapp</a></em></strong>
+<p><strong><em><a href="go.gov.sg/kakschannel" rel="noopener nofollow" target="_blank">Our Whatsapp Channel</a></em></strong>
 </p>
 </th>
 </tr>
