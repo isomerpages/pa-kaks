@@ -43,7 +43,7 @@ their availability.)</p>
 <div class="isomer-card-description">(Photos are available till 28 February 2026)</div>
 <div class="isomer-card-link">View photos here</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1EKsfSHP7zdg7Z_2SkbAE10FpNlq2YXEq?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Zootopia" src="/images/Screenshot_2025_12_05_at_6_20_05_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025.12.06 - SG60 Year End Movie Gathering</div><div class="isomer-card-description">(Photos are available till 31 March 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
 </div>
 <hr>
 <h1></h1>
