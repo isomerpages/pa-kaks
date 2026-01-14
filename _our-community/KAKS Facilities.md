@@ -7,8 +7,13 @@ description: Discover the facilities available at Kreta Ayer Kim Seng, designed
 ---
 <h4><strong>Kreta Ayer CC Facilities</strong></h4>
 <p>Kreta Ayer People's Theatre</p>
+<p>Kreta Ayer People’s Theatre, built in 1969 is a historic cultural venue
+in Chinatown</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAPT/kreta_ayer_peoples_theatre_seat_area_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAPT/kreta_ayer_peoples_theatre_seat_area_2.jpg">
 </div>
 <p></p>
