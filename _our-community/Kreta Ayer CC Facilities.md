@@ -94,6 +94,7 @@ theatre with 1,102 seats.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -175,10 +176,19 @@ theatre with 1,102 seats.</p>
 <p>$60 per hour</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <h4><a href="Kreta Ayer People's Theatre Enquiry" rel="noopener nofollow" target="_blank">Kreta Ayer People's Theatre Enquiry</a></h4>
+<p></p>
+<p></p>
 <hr>
 <p><strong><u>Multi-Purpose Hall</u></strong>
 </p>
@@ -187,6 +197,15 @@ workshops, celebrations and recreational activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/MPH_4.jpg">
 </div>
+<p><strong>Exhibition Hall</strong>
+</p>
+<p>The Exhibition Hall at Kreta Ayer CC is a dedicated space for exhibitions,
+showcases and community displays.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/Exhibtion_Hall_Opened.jpg">
+</div>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -197,16 +216,21 @@ workshops, celebrations and recreational activities.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Facilities</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Off Peak Hours</p>
+<p>Monday to Friday</p>
+<p>(10am - 5pm)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Peak Hours</p>
+<p>Monday to Friday</p>
+<p>(5pm - 10pm)</p>
+<p>Sat &amp; Sun (10am - 10pm)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Remarks</p>
 </th>
 </tr>
 <tr>
