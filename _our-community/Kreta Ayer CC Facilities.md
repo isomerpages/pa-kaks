@@ -178,3 +178,6 @@ theatre with 1,102 seats.</p>
 </tbody>
 </table>
 <p></p>
+<h4>Submit Booking Request</h4>
+<p></p>
+<p></p>
