@@ -6,7 +6,8 @@ description: Discover the facilities available at Kreta Ayer Kim Seng, designed
   to support community activities and resident needs.
 ---
 <h4><strong>Kreta Ayer CC Facilities</strong></h4>
-<p>Kreta Ayer People's Theatre</p>
+<p><strong><u>Kreta Ayer People's Theatre</u></strong>
+</p>
 <p>Kreta Ayer People’s Theatre, built in 1969 is a historic cultural venue
 in Chinatown dedicated to promoting the arts with a strong focus on Chinese
 opera and community service. Established to provide a permanent performance
@@ -26,8 +27,15 @@ theatre with 1,102 seats.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<p><strong>Kreta Ayer People's Theatre (KAPT) Rental Rate</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="3">
-<p></p>
+<p><strong>Half Day: </strong>
+</p>
 </th>
 </tr>
 <tr>
