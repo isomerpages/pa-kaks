@@ -35,7 +35,9 @@ theatre with 1,102 seats.</p>
 <tr>
 <th rowspan="1" colspan="3">
 <p>Half Day: Any 6 consecutive hours booking between 9am to 11pm
-<br>(including Rehearsal, Setup and Tear Down)</p>
+<br>
+<br>
+</p>
 </th>
 </tr>
 <tr>
@@ -77,6 +79,45 @@ theatre with 1,102 seats.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$950 per hour</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Full Day: Any 12 consecutive hours booking between 9am to 11pm
+<br><strong>(including Rehearsal, Setup and Tear Down)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rates (SGD, excluding of GST)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday to Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$7,200</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Additional hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
