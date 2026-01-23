@@ -43,15 +43,20 @@ theatre with 1,102 seats.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rates (SGD, excluding of GST)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Monday to Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$4,200</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Additional hour</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
