@@ -133,10 +133,10 @@ theatre with 1,102 seats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Additional hour$</p>
+<p>Additional hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>800 per hour</p>
+<p>$800 per hour</p>
 </td>
 </tr>
 </tbody>
