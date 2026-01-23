@@ -50,7 +50,8 @@ theatre with 1,102 seats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Monday to Thursday</p>
+<p><strong>Monday to Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$4,200</p>
@@ -66,7 +67,7 @@ theatre with 1,102 seats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Friday to Sunday
+<p><strong>Friday to Sunday </strong>
 <br>Including Eve of Public Holidays &amp; Public Holidays</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,7 +107,8 @@ theatre with 1,102 seats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday to Thursday</p>
+<p><strong>Monday to Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$7,200</p>
@@ -117,9 +119,26 @@ theatre with 1,102 seats.</p>
 <p>Additional hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$600 per hour</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Friday to Sunday</strong>
+<br>Including Eve of Public Holidays &amp; Public Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$9,600</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Additional hour$</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>800 per hour</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>600 per hour</p>
