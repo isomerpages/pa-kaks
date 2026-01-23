@@ -180,7 +180,64 @@ theatre with 1,102 seats.</p>
 <p></p>
 <h4><a href="Kreta Ayer People's Theatre Enquiry" rel="noopener nofollow" target="_blank">Kreta Ayer People's Theatre Enquiry</a></h4>
 <hr>
-<p>Multi-Purpose Hall</p>
+<p><strong><u>Multi-Purpose Hall</u></strong>
+</p>
+<p>Multi-Purpose Hall is a versatile space suitable for community events,
+workshops, celebrations and recreational activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/MPH_4.jpg">
+</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><a href="https://www.onepa.gov.sg/facilities/multi-purpose-hall-enquiry" rel="noopener nofollow" target="_blank">Multi-Purpose Hall Enquiry</a></h4>
 <p></p>
