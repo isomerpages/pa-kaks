@@ -59,6 +59,23 @@ theatre with 1,102 seats.</p>
 <p>Additional hour</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>$700 per hour</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Friday to Sunday
+<br>Including Eve of Public Holidays &amp; Public Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$5,700</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
