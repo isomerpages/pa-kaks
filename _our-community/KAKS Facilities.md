@@ -19,6 +19,7 @@ theatre with 1,102 seats.</p>
 </div>
 <p><a href="https://kretaayer-kimseng.pa.gov.sg/kreta-ayer-cc-facilities/" rel="noopener nofollow" target="_blank">Kreta Ayer CC</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAPT/kreta_ayer_peoples_theatre_seat_area_2.jpg">
 </div>
