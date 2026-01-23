@@ -178,6 +178,9 @@ theatre with 1,102 seats.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Submit Booking Request</h4>
+<h4><a href="Kreta Ayer People's Theatre Enquiry" rel="noopener nofollow" target="_blank">Kreta Ayer People's Theatre Enquiry</a></h4>
+<hr>
+<p>Multi-Purpose Hall</p>
 <p></p>
+<h4><a href="https://www.onepa.gov.sg/facilities/multi-purpose-hall-enquiry" rel="noopener nofollow" target="_blank">Multi-Purpose Hall Enquiry</a></h4>
 <p></p>
