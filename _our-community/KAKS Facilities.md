@@ -6,6 +6,7 @@ description: Discover the facilities available at Kreta Ayer Kim Seng, designed
   to support community activities and resident needs.
 ---
 <h4><strong>Kreta Ayer CC Facilities</strong></h4>
+<p></p>
 <p><strong><u>Kreta Ayer People's Theatre</u></strong>
 </p>
 <p>Kreta Ayer People’s Theatre, built in 1969 is a historic cultural venue
@@ -78,6 +79,17 @@ theatre with 1,102 seats.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$950 per hour</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -157,7 +169,7 @@ theatre with 1,102 seats.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Holding Room
-<br>minimum 2 hours booking from 9am to 9pm</p>
+<br>Minimum 2 hours booking from 9am to 9pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$60 per hour</p>
