@@ -35,9 +35,7 @@ theatre with 1,102 seats.</p>
 <tr>
 <th rowspan="1" colspan="3">
 <p>Half Day: Any 6 consecutive hours booking between 9am to 11pm
-<br>
-<br>
-</p>
+<br>(including Rehearsal, Setup and Tear Down)</p>
 </th>
 </tr>
 <tr>
@@ -141,4 +139,30 @@ theatre with 1,102 seats.</p>
 </tr>
 </tbody>
 </table>
-<p>600 per hour</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Box Office Rental (without ticket seller)
+<br>minimum 5 hours booking between 9am to 8pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$10 per hour</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Holding Room
+<br>minimum 2 hours booking from 9am to 9pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$60 per hour</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
