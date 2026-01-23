@@ -34,15 +34,12 @@ theatre with 1,102 seats.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>Half Day: </strong>
-</p>
+<p>Half Day: Any 6 consecutive hours booking between 9am to 11pm
+<br>(including Rehearsal, Setup and Tear Down)</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
