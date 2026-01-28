@@ -153,8 +153,9 @@ theatre with 1,102 seats.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -167,6 +168,9 @@ theatre with 1,102 seats.</p>
 <td rowspan="1" colspan="1">
 <p>$10 per hour</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -176,8 +180,14 @@ theatre with 1,102 seats.</p>
 <td rowspan="1" colspan="1">
 <p>$60 per hour</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
