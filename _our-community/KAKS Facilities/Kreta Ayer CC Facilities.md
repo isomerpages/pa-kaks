@@ -198,6 +198,7 @@ workshops, celebrations and recreational activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/MPH_4.jpg">
 </div>
+<hr>
 <p><strong>Exhibition Hall</strong>
 </p>
 <p>The Exhibition Hall at Kreta Ayer CC is a dedicated space for exhibitions,
