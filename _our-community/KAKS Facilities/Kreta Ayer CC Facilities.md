@@ -218,7 +218,7 @@ and breakout sessions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR_1_b.jpg">
 </div>
 <hr>
-<p></p>
+<h4><strong>Rate Card</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
