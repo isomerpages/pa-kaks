@@ -170,8 +170,6 @@ theatre with 1,102 seats.</p>
 </tr>
 </tbody>
 </table>
-<h4><a href="Kreta Ayer People's Theatre Enquiry" rel="noopener nofollow" target="_blank">Kreta Ayer People's Theatre Enquiry</a></h4>
-<p></p>
 <p></p>
 <hr>
 <p><strong><u>Multi-Purpose Hall</u></strong>
@@ -483,4 +481,5 @@ Club Management Committee.</p>
 <p>Note: Applicant shall be responsible for any auxiliary equipment and services
 required (e.g. sound system, stage lights, catering).</p>
 <p>Rates are subjected to prevailing Good &amp; Services Tax (GST).</p>
+<h4><a href="Kreta Ayer People's Theatre Enquiry" rel="noopener nofollow" target="_blank">Booking Enquiry</a></h4>
 <p></p>
