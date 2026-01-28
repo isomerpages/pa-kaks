@@ -30,8 +30,7 @@ theatre with 1,102 seats.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Kreta Ayer People's Theatre (KAPT) Rental Rate</strong>
-</p>
+<h4><strong>Kreta Ayer People's Theatre (KAPT) Rental Rate</strong></h4>
 </td>
 </tr>
 <tr>
