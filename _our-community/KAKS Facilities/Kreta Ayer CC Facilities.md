@@ -207,6 +207,7 @@ showcases and community displays.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/Exhibtion_Hall_Opened.jpg">
 </div>
 <hr>
+<hr>
 <p><strong><u>Pre-Function Room (Room 1, Room 2 and Room 3)</u></strong>
 <br>The is a flexible space suitable for small workshops, discussion groups
 and breakout sessions.</p>
@@ -216,7 +217,8 @@ and breakout sessions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR_1_b.jpg">
 </div>
-<h4><a href="https://www.onepa.gov.sg/facilities/multi-purpose-hall-enquiry" rel="noopener nofollow" target="_blank">Multi-Purpose Hall Enquiry</a></h4>
+<hr>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -230,15 +232,10 @@ and breakout sessions.</p>
 <p>Facilities</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Off Peak Hours</p>
-<p>Monday to Friday</p>
-<p>(10am - 5pm)</p>
+<p>Off Peak Hours (Monday to Friday, 10am - 5pm)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Peak Hours</p>
-<p>Monday to Friday</p>
-<p>(5pm - 10pm)</p>
-<p>Sat &amp; Sun (10am - 10pm)</p>
+<p>Peak Hours (Monday to Friday, 5pm - 10pm. Sat &amp; Sun, 10am - 10pm)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Remarks</p>
@@ -246,16 +243,16 @@ and breakout sessions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Multi-Purpose Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$112 per hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$140 per hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Minimum 2 hours</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +260,232 @@ and breakout sessions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>$1,215</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,495 (Full day - weekend)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full day: 10am - 10pm (12 hours)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$187
+<br>$280</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Extension Charges</u>
+<br>After 10pm - 12midnight
+<br>Per hour from 12am onwards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exhibition Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$70 per hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$93 per hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minimum 2 hours</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$748 (Full day - weekday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$935 (Full day - weekend)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full day: 10am - 10pm (12 hours)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$117
+<br>$175</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Extension Charges</p>
+<p>After 10pm - 12midnight</p>
+<p>Per hour from 12am onwards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pre-Function Room (rates per room for Room 1, Room 2 and Room 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$37 per hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$56 per hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minimum 2 hours</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$374 (Full day - weekend)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$561 (Full day - weekend)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full day: 10am - 10pm (12 hours)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$70
+<br>$105</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Extension Charges
+<br>After 10pm - 12midnight
+<br>Per hour from 12am onwards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Logistics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Rate (per piece)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Logistics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Rate (per piece)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$0.75</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tables (size: 4ft x 2ft)
+<br>Limited to 20 pcs; subjected to availability</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.80</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Cleaning Fees</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Rate without food consume</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Rate with food consume (smoking and consumption of liquor are not allowed in CC premises)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Multi-Purpose Hall and Exhibition Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$93</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$187</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Other facilities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$75</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$93</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Facility Deposit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Rate</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Multi-Purpose Hall and Exhibition Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$500</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Refundable after rental date
+<br>(subjected to non-damage of facility)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Other facilities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$100</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -274,5 +496,9 @@ and breakout sessions.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Payment mode: Credit/Debit Card or Bank Transfer to Kreta Ayer Community
+Club Management Committee.</p>
+<p>Note: Applicant shall be responsible for any auxiliary equipment and services
+required (e.g. sound system, stage lights, catering).</p>
+<p>Rates are subjected to prevailing Good &amp; Services Tax (GST).</p>
 <p></p>
