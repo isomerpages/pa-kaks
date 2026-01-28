@@ -210,7 +210,12 @@ showcases and community displays.</p>
 <p><strong><u>Pre-Function Room (Room 1, Room 2 and Room 3)</u></strong>
 <br>The is a flexible space suitable for small workshops, discussion groups
 and breakout sessions.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR_1_3_g.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR_1_b.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -269,4 +274,5 @@ and breakout sessions.</p>
 </tbody>
 </table>
 <h4><a href="https://www.onepa.gov.sg/facilities/multi-purpose-hall-enquiry" rel="noopener nofollow" target="_blank">Multi-Purpose Hall Enquiry</a></h4>
+<p></p>
 <p></p>
