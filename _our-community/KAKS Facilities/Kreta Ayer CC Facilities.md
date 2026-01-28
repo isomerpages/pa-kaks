@@ -199,18 +199,18 @@ workshops, celebrations and recreational activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/MPH_4.jpg">
 </div>
 <hr>
-<p><strong>Exhibition Hall</strong>
+<p><strong><u>Exhibition Hall</u></strong>
 </p>
 <p>The Exhibition Hall at Kreta Ayer CC is a dedicated space for exhibitions,
 showcases and community displays.</p>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/Exhibtion_Hall_Opened.jpg">
 </div>
-<p></p>
-<p><strong>Pre-Function Room (Room 1, Room 2 and Room 3)</strong>
+<hr>
+<p><strong><u>Pre-Function Room (Room 1, Room 2 and Room 3)</u></strong>
 <br>The is a flexible space suitable for small workshops, discussion groups
 and breakout sessions.</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
