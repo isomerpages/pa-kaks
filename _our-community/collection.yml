@@ -2,9 +2,9 @@ collections:
   our-community:
     output: true
     order:
-      - KAKS Facilities/Kreta Ayer CC Facilities.md
-      - KAKS Facilities/.keep
       - About Kreta Ayer Kim Seng.md
       - Newsletter.md
       - Community Photos.md
+      - KAKS Facilities/.keep
+      - KAKS Facilities/Kreta Ayer CC Facilities.md
       - KAKS Facilities.md
