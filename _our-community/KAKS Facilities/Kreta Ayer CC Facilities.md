@@ -151,15 +151,6 @@ theatre with 1,102 seats.</p>
 <p>$800 per hour</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Box Office Rental (without ticket seller)
@@ -167,9 +158,6 @@ theatre with 1,102 seats.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$10 per hour</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -179,20 +167,6 @@ theatre with 1,102 seats.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$60 per hour</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
