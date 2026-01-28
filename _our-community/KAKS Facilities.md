@@ -16,8 +16,8 @@ description: Discover the facilities available at Kreta Ayer Kim Seng, designed
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Kim Seng CC</div>
-<div class="isomer-card-description">Discover the facilities available at Kim Seng CC, designed to support
-community activities and resident needs</div>
+<div class="isomer-card-description">The facilities at Kim Seng CC provide welcoming spaces where residents
+can gather, learn, stay active and build stronger community connections.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
 </a>
