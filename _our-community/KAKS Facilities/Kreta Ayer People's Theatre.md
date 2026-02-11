@@ -25,8 +25,5 @@ theatre with 940 seats.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAPT/Kreta_Ayer_People_s_Theatre__KAPT__Rental_Rate.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png">
-</div>
+</div><a class="isomer-image-wrapper" href="go.gov.sg"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <p></p>
