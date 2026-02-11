@@ -13,7 +13,7 @@ third_nav_title: KAKS Facilities
 in Chinatown dedicated to promoting the arts with a strong focus on Chinese
 opera and community service. Established to provide a permanent performance
 space for the community, it has evolved into a fully equipped, air-conditioned
-theatre with 1,102 seats.</p>
+theatre with 940 seats.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
