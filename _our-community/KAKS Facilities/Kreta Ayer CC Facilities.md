@@ -20,8 +20,9 @@ up to 250 pax.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png">
 </div>
 <hr>
 <p><strong><u>Exhibition Hall</u></strong>
