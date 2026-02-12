@@ -36,8 +36,9 @@ showcases and community displays, accommodating approximately 180 pax.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/3.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png">
 </div>
 <hr>
 <p><strong><u>Pre-Function Rooms (Room 1, Room 2 and Room 3)</u></strong>
@@ -53,8 +54,9 @@ and breakout sessions for up to 30 pax per room.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/4.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png">
 </div>
 <hr>
 <h4></h4>
