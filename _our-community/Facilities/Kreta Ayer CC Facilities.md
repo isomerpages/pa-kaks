@@ -17,13 +17,11 @@ up to 250 pax.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/MPH_4.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/2.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KACC_Rate_MPH.png">
 </div>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/14Q7yBVNvR6TrMh4X4Ys_kXh6wpNusAtS/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <hr>
 <p><strong><u>Exhibition Hall</u></strong>
 </p>
@@ -33,36 +31,25 @@ showcases and community displays, accommodating approximately 180 pax.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/Exhibtion_Hall_Opened.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KACC_Rate___EHR.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png">
-</div>
+</div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/14Q7yBVNvR6TrMh4X4Ys_kXh6wpNusAtS/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <hr>
 <p><strong><u>Pre-Function Rooms (Room 1, Room 2 and Room 3)</u></strong>
 <br>The is a flexible space suitable for small workshops, discussion groups
 and breakout sessions for up to 30 pax per room.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR_1_3_g.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR_1_b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/4.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png">
-</div>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR_rate.png">
+</div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/14Q7yBVNvR6TrMh4X4Ys_kXh6wpNusAtS/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <hr>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/6.png">
-</div>
 <p>Payment mode: Credit/Debit Card or Bank Transfer to Kreta Ayer Community
 Club Management Committee.</p>
 <p>Note: Applicant shall be responsible for any auxiliary equipment and services
