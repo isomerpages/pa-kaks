@@ -21,7 +21,7 @@ up to 250 pax.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KACC_Rate_MPH.png">
 </div>
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/14Q7yBVNvR6TrMh4X4Ys_kXh6wpNusAtS/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17Dqxkw0exCWBgSUHcDpOj1mmZvjoATfa/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <hr>
 <p><strong><u>Exhibition Hall</u></strong>
 </p>
@@ -33,7 +33,7 @@ showcases and community displays, accommodating approximately 180 pax.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KACC_Rate___EHR.png">
-</div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/14Q7yBVNvR6TrMh4X4Ys_kXh6wpNusAtS/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
+</div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17Dqxkw0exCWBgSUHcDpOj1mmZvjoATfa/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <hr>
 <p><strong><u>Pre-Function Rooms (Room 1, Room 2 and Room 3)</u></strong>
 <br>The is a flexible space suitable for small workshops, discussion groups
@@ -49,7 +49,7 @@ and breakout sessions for up to 30 pax per room.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR.png">
-</div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/14Q7yBVNvR6TrMh4X4Ys_kXh6wpNusAtS/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
+</div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17Dqxkw0exCWBgSUHcDpOj1mmZvjoATfa/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <hr>
 <p>Payment mode: Credit/Debit Card or Bank Transfer to Kreta Ayer Community
 Club Management Committee.</p>
