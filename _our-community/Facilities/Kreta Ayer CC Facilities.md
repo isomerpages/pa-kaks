@@ -55,5 +55,3 @@ Club Management Committee.</p>
 <p>Note: Applicant shall be responsible for any auxiliary equipment and services
 required (e.g. sound system, stage lights, catering).</p>
 <p>Rates are subjected to prevailing Good &amp; Services Tax (GST).</p>
-<h4></h4>
-<p></p>
