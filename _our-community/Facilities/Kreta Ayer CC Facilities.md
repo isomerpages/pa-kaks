@@ -33,10 +33,10 @@ showcases and community displays, accommodating approximately 180 pax.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/Exhibtion_Hall_Opened.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/3.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KACC_Rate___EHR.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png">
 </div>
