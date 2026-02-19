@@ -8,8 +8,7 @@ third_nav_title: Facilities
 ---
 <h4><strong>Kreta Ayer CC Facilities</strong></h4>
 <p></p>
-<p><strong><u>Multi-Purpose Hall</u></strong>
-</p>
+<h4><strong><u>Multi-Purpose Hall</u></strong></h4>
 <p>Multi-Purpose Hall is a versatile space suitable for community events,
 workshops, celebrations and recreational activities, with a capacity of
 up to 250 pax.</p>
@@ -19,12 +18,11 @@ up to 250 pax.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KACC_Rate_MPH.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KACC___MPH.png">
 </div>
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17Dqxkw0exCWBgSUHcDpOj1mmZvjoATfa/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <hr>
-<p><strong><u>Exhibition Hall</u></strong>
-</p>
+<h4><strong><u>Exhibition Hall</u></strong></h4>
 <p>The Exhibition Hall at Kreta Ayer CC is a dedicated space for exhibitions,
 showcases and community displays, accommodating approximately 180 pax.</p>
 <div class="isomer-image-wrapper">
@@ -32,11 +30,11 @@ showcases and community displays, accommodating approximately 180 pax.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KACC_Rate___EHR.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/4.png">
 </div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17Dqxkw0exCWBgSUHcDpOj1mmZvjoATfa/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <hr>
-<p><strong><u>Pre-Function Rooms (Room 1, Room 2 and Room 3)</u></strong>
-<br>The is a flexible space suitable for small workshops, discussion groups
+<h4><strong><u>Pre-Function Rooms (Room 1, Room 2 and Room 3)</u></strong></h4>
+<p>The is a flexible space suitable for small workshops, discussion groups
 and breakout sessions for up to 30 pax per room.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -45,7 +43,6 @@ and breakout sessions for up to 30 pax per room.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR_2.png">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR.png">
