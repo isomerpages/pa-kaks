@@ -13,11 +13,9 @@ third_nav_title: Facilities
 <p>The Multi-Purpose Hall is a versatile space suitable for community events,
 workshops, meetings and recreational activities.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/Multipurpose_Hall_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/Multipurpose_Hall_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/PHOTO_2026_02_13_09_47_26.jpg">
 </div>
 <hr>
 <p></p>
