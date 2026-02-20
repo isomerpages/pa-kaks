@@ -9,9 +9,9 @@ third_nav_title: Facilities
 <h4><strong>Kreta Ayer CC Facilities</strong></h4>
 <p></p>
 <h4><strong><u>Multi-Purpose Hall</u></strong></h4>
-<p>Multi-Purpose Hall is a versatile space suitable for community events,
-workshops, celebrations and recreational activities, with a capacity of
-up to 250 pax.</p>
+<p><strong>Multi-Purpose Hall</strong> is a versatile space suitable for community
+events, workshops, celebrations and recreational activities, with a capacity
+of up to 250 pax.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/MPH_4.jpg">
 </div>
@@ -23,8 +23,8 @@ up to 250 pax.</p>
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17Dqxkw0exCWBgSUHcDpOj1mmZvjoATfa/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <hr>
 <h4><strong><u>Exhibition Hall</u></strong></h4>
-<p>The Exhibition Hall is a dedicated space for exhibitions, showcases and
-community displays, accommodating approximately 180 pax.</p>
+<p><strong>Exhibition Hall</strong> is a dedicated space for exhibitions,
+showcases and community displays, accommodating approximately 180 pax.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/Exhibtion_Hall_Opened.jpg">
 </div>
