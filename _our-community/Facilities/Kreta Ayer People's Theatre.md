@@ -26,7 +26,13 @@ into a fully equipped, air-conditioned theatre with 940 seats.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAPT/KAPT.png">
 </div>
 <p></p>
-<p>Pics to come</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAPT/Box_Office.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAPT/Holding_Room.png">
+</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAPT/KAPT_Other_Fees.png">
