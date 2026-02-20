@@ -23,8 +23,8 @@ up to 250 pax.</p>
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17Dqxkw0exCWBgSUHcDpOj1mmZvjoATfa/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <hr>
 <h4><strong><u>Exhibition Hall</u></strong></h4>
-<p>The Exhibition Hall at Kreta Ayer CC is a dedicated space for exhibitions,
-showcases and community displays, accommodating approximately 180 pax.</p>
+<p>The Exhibition Hall is a dedicated space for exhibitions, showcases and
+community displays, accommodating approximately 180 pax.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/Exhibtion_Hall_Opened.jpg">
 </div>
