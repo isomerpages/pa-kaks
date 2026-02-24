@@ -16,7 +16,9 @@ workshops, meetings and recreational activities with a capacity of up to
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/PHOTO_2026_02_13_09_47_26.jpg">
 </div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/KSCC___MPH__3_.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/KSCC___MPH.jpg">
 </div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1MNebYdsI55d9Kw-QUOkb3CP-EekiLsyd/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
