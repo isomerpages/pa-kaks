@@ -9,10 +9,10 @@ description: Kreta Ayer People's Theatre is a historic cultural venue located in
 third_nav_title: Facilities
 ---
 <h3><strong>Kreta Ayer People's Theatre</strong></h3>
-<p>Kreta Ayer People’s Theatre, built in 1969 is a historic cultural venue
-in Chinatown dedicated to promoting the arts and culture. Established to
-provide a performance space for the community, it has modernised into a
-fully equipped, air-conditioned theatre with 940 seats.</p>
+<p>Kreta Ayer People’s Theatre, built in 1969, is a historic cultural venue
+in Chinatown that promotes arts and culture. Established to provide a performance
+space for the community, it has modernised into a fully equipped, air-conditioned
+theatre with 940 seats.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
