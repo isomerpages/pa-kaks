@@ -25,8 +25,8 @@ up to 250 pax.</p>
 <p>Please email the completed form to pa_kretaayercc@pa.gov.sg</p>
 <hr>
 <h4><strong><u>Exhibition Hall</u></strong></h4>
-<p><strong>Exhibition Hall</strong> is a dedicated space for exhibitions,
-showcases and community displays, accommodating approximately 180 pax.</p>
+<p>Exhibition Hall is a dedicated space for exhibitions, showcases and community
+displays, accommodating approximately 180 pax.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/Exhibtion_Hall_Opened.jpg">
 </div>
