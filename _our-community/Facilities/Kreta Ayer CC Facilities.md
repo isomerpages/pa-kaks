@@ -19,7 +19,9 @@ of up to 250 pax.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KACC___MPH__1_.png">
 </div>
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17Dqxkw0exCWBgSUHcDpOj1mmZvjoATfa/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KACC___MPH.jpg">
+</div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17Dqxkw0exCWBgSUHcDpOj1mmZvjoATfa/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
 <p>Please email the completed form to pa_kretaayercc@pa.gov.sg</p>
 <hr>
 <h4><strong><u>Exhibition Hall</u></strong></h4>
@@ -29,6 +31,9 @@ showcases and community displays, accommodating approximately 180 pax.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/Exhibtion_Hall_Opened.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/4.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KAKS_EH_Rate.png">
 </div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17Dqxkw0exCWBgSUHcDpOj1mmZvjoATfa/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
@@ -42,9 +47,15 @@ and breakout sessions for up to 30 pax per room.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/1.png">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR_2.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR__1_.png">
 </div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17Dqxkw0exCWBgSUHcDpOj1mmZvjoATfa/view?usp=sharing"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/KAPT/Enquiry_Button.png"></a>
