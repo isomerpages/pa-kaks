@@ -24,7 +24,8 @@ workshops, meetings and recreational activities with a capacity of up to
 </p>
 <hr>
 <p></p>
-<p>Payment mode: Credit/Debit Card, Bank Transfer or Cheque to KIM SENG CCMC</p>
+<p>Payment mode: Credit/Debit Card, Bank Transfer or Cheque to Kim Seng Community
+Club Management Committee.</p>
 <p>Note: Applicant shall follow the prevailing Safe Management Measures (SMM),
 be responsible for any auxiliary equipment and services required (e.g.
 sound system, stage lights, catering).</p>
