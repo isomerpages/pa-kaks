@@ -19,7 +19,7 @@ workshops, meetings and recreational activities with a capacity of up to
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/KSCC___MPH__1_.jpg">
 </div>
-<h4>For booking enquiry, please email to PA_KimSengCC@pa.gov.sg.</h4>
+<h4>For booking enquiry, please email PA_KimSengCC@pa.gov.sg.</h4>
 <p></p>
 <p>Payment mode: Credit/Debit Card, Bank Transfer or Cheque to KIM SENG CCMC</p>
 <p>Note: Applicant shall follow the prevailing Safe Management Measures (SMM),
