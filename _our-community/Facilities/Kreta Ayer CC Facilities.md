@@ -9,9 +9,9 @@ third_nav_title: Facilities
 <h4><strong>Kreta Ayer CC Facilities</strong></h4>
 <p></p>
 <h4><strong><u>Multi-Purpose Hall</u></strong></h4>
-<p><strong>Multi-Purpose Hall</strong> is a versatile space suitable for community
-events, workshops, celebrations and recreational activities, with a capacity
-of up to 250 pax.</p>
+<p>Multi-Purpose Hall is a versatile space suitable for community events,
+workshops, celebrations and recreational activities, with a capacity of
+up to 250 pax.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/MPH_4.jpg">
 </div>
