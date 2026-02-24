@@ -10,14 +10,21 @@ third_nav_title: Facilities
 <p></p>
 <h4><strong><u>Multi-Purpose Hall</u></strong></h4>
 <p>The Multi-Purpose Hall is a versatile space suitable for community events,
-workshops, meetings and recreational activities.</p>
+workshops, meetings and recreational activities with a capacity of up to
+200 pax.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/PHOTO_2026_02_13_09_47_26.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/KSCC___MPH__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/KSCC___MPH__1_.jpg">
 </div>
+<h4>For booking enquiry, please email to PA_KimSengCC@pa.gov.sg.</h4>
+<p></p>
+<p>Payment mode: Credit/Debit Card, Bank Transfer or Cheque to KIM SENG CCMC</p>
+<p>Note: Applicant shall follow the prevailing Safe Management Measures (SMM),
+be responsible for any auxiliary equipment and services required (e.g.
+sound system, stage lights, catering).</p>
+<p>Rates are subjected to prevailing Good &amp; Services Tax (GST).</p>
 <hr>
 <p></p>
