@@ -22,6 +22,7 @@ theatre with 940 seats.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAPT/kreta_ayer_peoples_theatre_seat_area_2_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAPT/KAPT.png">
 </div>
