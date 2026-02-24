@@ -40,8 +40,8 @@ displays, accommodating approximately 180 pax.</p>
 <p>Please email the completed form to pa_kretaayercc@pa.gov.sg</p>
 <hr>
 <h4><strong><u>Pre-Function Rooms (Room 1, Room 2 and Room 3)</u></strong></h4>
-<p>The is a flexible space suitable for small workshops, discussion groups
-and breakout sessions for up to 30 pax per room.</p>
+<p>The Pre-Function Rooms are a flexible space suitable for small workshops,
+discussion groups and breakout sessions for up to 30 pax per room.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/1.png">
