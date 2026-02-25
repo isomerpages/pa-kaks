@@ -62,7 +62,7 @@ discussion groups and breakout sessions for up to 30 pax per room.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/KACC___PFR.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KACC/PFR.jpg">
