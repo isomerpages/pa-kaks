@@ -2,7 +2,8 @@
 title: Newsletter
 permalink: /newsletter/
 variant: tiptap
-description: ""
+description: Stay updated with the latest news, events and initiatives from
+  Kreta Ayer Kim Seng through our community newsletter.
 ---
 <h4><strong>Hari Raya Edition 2024</strong></h4>
 <table style="minWidth: 25px">

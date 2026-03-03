@@ -2,7 +2,8 @@
 title: About Kreta Ayer Kim Seng
 permalink: /about-kreta-ayer-kim-seng/
 variant: tiptap
-description: ""
+description: Learn about Kreta Ayer Kim Seng’s history, mission and community
+  efforts in supporting residents and strengthening neighbourhood ties.
 ---
 <h2><strong>Welcome to Kreta Ayer-Kim Seng&nbsp;</strong></h2>
 <p>Kreta Ayer-Kim Seng is a vibrant community in Singapore known for its

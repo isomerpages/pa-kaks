@@ -2,7 +2,8 @@
 title: Community Photos
 permalink: /community-photos/
 variant: tiptap
-description: ""
+description: Browse photos capturing community moments, events and activities
+  that bring residents together at Kreta Ayer Kim Seng.
 ---
 <h1><strong>Get your digital photos right here</strong></h1>
 <p>(Note that there might be a brief processing time before the photos are
