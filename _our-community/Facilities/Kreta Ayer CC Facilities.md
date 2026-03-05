@@ -80,6 +80,6 @@ discussion groups and breakout sessions for up to 30 pax per room.</p>
 <hr>
 <p>Payment mode: Credit/Debit Card or Bank Transfer to Kreta Ayer Community
 Club Management Committee.</p>
-<p>Note: Applicant shall be responsible for any auxiliary equipment and services
-required (e.g. sound system, stage lights, catering).</p>
+<p>Note: Applicant shall be responsible for any Audio-Visual equipment and
+services required (e.g. sound system, stage lights, catering).</p>
 <p>Rates are subjected to prevailing Good &amp; Services Tax (GST).</p>
