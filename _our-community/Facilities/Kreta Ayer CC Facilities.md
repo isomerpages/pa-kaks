@@ -59,8 +59,15 @@ discussion groups and breakout sessions for up to 30 pax per room.</p>
 <p>Please email the completed form to <a href="mailto:pa_kretaayercc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_kretaayercc@pa.gov.sg</a>
 </p>
 <hr>
-<p>Payment mode: Credit/Debit Card or Bank Transfer to Kreta Ayer Community
-Club Management Committee.</p>
-<p>Note: Applicant shall be responsible for any Audio-Visual equipment and
-services required (e.g. sound system, stage lights, catering).</p>
-<p>Rates are subjected to prevailing Good &amp; Services Tax (GST).</p>
+<p><strong><sup>Payment mode: </sup></strong><sup>Rates are subjected to prevailing Goods &amp; Services Tax (GST).</sup>
+<br><sup>1) Credit/Debit Card payment over Kreta Ayer Community Club Counter</sup>
+<br><sup>2) Bank transfer to Kreta Ayer Community Club Management Committee UOB Current (Corporate) 903-341-756-6</sup>
+<br><sup>3) Cheque issued to 'Kreta Ayer Community Club Management Committee'</sup>
+<br><sup>4) PayNow Corporate UEN Number S64PB0005F&nbsp;</sup>
+</p>
+<p></p>
+<p><strong><sup>Important Notes:</sup></strong>
+<br><sup>Applicant/Organiser shall be responsible for all additional event requirements and services (including logistics, AV system, stage lighting, catering etc). &nbsp;</sup>
+<br>
+<br>
+</p>
