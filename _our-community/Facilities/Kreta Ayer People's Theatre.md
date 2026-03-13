@@ -38,6 +38,6 @@ theatre with 940 seats.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAPT/KAPT_Other_Fees_1.png">
-</div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1_neYj6buBXawZuEWYld2ahk3diDiai7I/view?usp=sharing"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Booking_Button.png"></a>
+</div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1yDq8WHY2pTui4ssGjFPXXAtOFUTk0_WH/view?usp=sharing"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Booking_Button.png"></a>
 <p>Please email the completed form to <a href="mailto:pa_kretaayercc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pa_kretaayercc@pa.gov.sg</u></a>
 </p>
