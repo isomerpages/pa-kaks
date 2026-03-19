@@ -32,7 +32,7 @@ their availability.)</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1sKTgfd_q5wB7St2R7OgUrjsEjrqzbtGR?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.01.10 - ClimatePlus @ Gain City" src="/images/20260110_031_ClimatePlus_Outing___Gain_City.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.01.10 - ClimatePlus @ Gain City</div><div class="isomer-card-description">(Photos are available till 30 June 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1sKTgfd_q5wB7St2R7OgUrjsEjrqzbtGR?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.01.10 - ClimatePlus @ Gain City" src="/images/Screenshot_2026_03_19_at_2_41_34_PM.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.01.10 - ClimatePlus @ Gain City</div><div class="isomer-card-description">(Photos are available till 30 June 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1W62CU-ZwUjAgXf0YonEHOYHAqRxzgJyv?usp=sharing" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
