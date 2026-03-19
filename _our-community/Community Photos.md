@@ -104,7 +104,7 @@ their availability.)</p>
 <div class="isomer-card-description">(Photos are available till 30 June 2026)</div>
 <div class="isomer-card-link">View photos here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1tELsngeHb8qU5rEoASoTjx5PBkGJgTAP?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.02.22 - CNY Celebration @ Riviere" src="/images/Screenshot_2026_03_19_at_2_25_35_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.02.22 - CNY Celebration @ RiviereThis is a title for your card</div><div class="isomer-card-description">(Photos are available till 30 June 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1tELsngeHb8qU5rEoASoTjx5PBkGJgTAP?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.02.22 - CNY Celebration @ Riviere" src="/images/Screenshot_2026_03_19_at_2_25_35_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.02.22 - CNY Celebration @ Riviere</div><div class="isomer-card-description">(Photos are available till 30 June 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1ZFNI_GjWeQu2iyDT9DOi8Q-1RrP6Qs5N?usp=sharing" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
