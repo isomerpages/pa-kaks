@@ -105,18 +105,18 @@ their availability.)</p>
 <div class="isomer-card-link">View photos here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1rY5WpubwYasabWMnJfN11GTwpcYvqM58?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.01.30 - CNY Light Up and Opening Ceremony 2026" src="/images/Screenshot_2026_03_19_at_1_59_53_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.01.30 - CNY Light Up and Opening Ceremony 2026</div><div class="isomer-card-description">(Photos are available till 30 June 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1GXTXr3iQuqhNwQAwVv94sHHFu83or7AN?usp=sharing" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/13mlMFsHIi_sho4CtjQxCy1hu4lPj8c1e?usp=sharing" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2026.01.17 - Value Plus @ Kreta Ayer Square" src="/images/Screenshot_2026_03_19_at_1_52_01_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="2026.01.24 - JoyPlus CNY" src="/images/Screenshot_2026_03_19_at_1_55_32_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2026.01.17 - Value Plus @ Kreta Ayer Square</div>
+<div class="isomer-card-title">2026.01.24 - JoyPlus CNY</div>
 <div class="isomer-card-description">(Photos are available till 30 June 2026)</div>
 <div class="isomer-card-link">View photos here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/13mlMFsHIi_sho4CtjQxCy1hu4lPj8c1e?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.01.24 - JoyPlus CNY" src="/images/Screenshot_2026_03_19_at_1_55_32_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.01.24 - JoyPlus CNY</div><div class="isomer-card-description">(Photos are available till 30 June 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1GXTXr3iQuqhNwQAwVv94sHHFu83or7AN?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.01.17 - Value Plus @ Kreta Ayer Square" src="/images/Screenshot_2026_03_19_at_1_52_01_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.01.17 - Value Plus @ Kreta Ayer Square</div><div class="isomer-card-description">(Photos are available till 30 June 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1W62CU-ZwUjAgXf0YonEHOYHAqRxzgJyv?usp=sharing" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
