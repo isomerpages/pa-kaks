@@ -35,7 +35,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.hdb.gov.sg/cs/infoweb/contact-us" rel="noopener noreferrer nofollow" target="_blank">Housing Development Board Branch Office</a>
+<p><a href="https://www.hdb.gov.sg/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank">Housing Development Board Branch Office</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
