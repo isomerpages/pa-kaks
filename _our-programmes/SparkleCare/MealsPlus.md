@@ -13,7 +13,7 @@ the support of over 50 partner merchants. Our monthly food top-up card
 empowers residents by offering them choice and dignity in their food selection.</p>
 <h4>Learn More About MealsPlus</h4>
 <div class="iframe-wrapper">
-<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yp1Mg29Z4Gk?si=hOJpGFgxfWT6guqW"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yp1Mg29Z4Gk?si=hOJpGFgxfWT6guqW"></iframe>
 </div>
 <table style="minWidth: 125px">
 <colgroup>
@@ -25,15 +25,15 @@ empowers residents by offering them choice and dignity in their food selection.<
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sparklecare"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sparkle_care.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sparklecare"><img style="width: 100%" height="auto" width="100%" alt="<button>SparkleCare</button>" src="/images/sparkle_care.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/catchplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Catch_Button_Icon.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/catchplus"><img style="width: 100%" height="auto" width="100%" alt="<button>CatchPlus</button>" src="/images/Catch_Button_Icon.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/joyplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/joy_button_icon.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/joyplus"><img style="width: 100%" height="auto" width="100%" alt="<button>JoyPlus</button>" src="/images/joy_button_icon.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/loveplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/love_button_ivon.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/loveplus"><img style="width: 100%" height="auto" width="100%" alt="<button>LovePlus</button>" src="/images/love_button_ivon.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/valueplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/valueplus"><img style="width: 100%" height="auto" width="100%" alt="<button>ValuePlus</button>" src="/images/Untitled_design__2_.png"></a>
 </td>
 </tr>
 </tbody>
