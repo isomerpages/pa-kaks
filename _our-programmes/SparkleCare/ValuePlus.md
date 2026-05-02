@@ -19,7 +19,7 @@ in the process, the programme strengthens bonds and uplifts households
 through practical help.</p>
 <h4>Learn More About ValuePlus</h4>
 <div class="iframe-wrapper">
-<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jDlAHOcP5Yw?si=M4Yco3JY6GUaSkHh"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jDlAHOcP5Yw?si=M4Yco3JY6GUaSkHh"></iframe>
 </div>
 <table style="minWidth: 125px">
 <colgroup>
@@ -44,31 +44,5 @@ through practical help.</p>
 </tr>
 </tbody>
 </table>
-<h4>Past ValuePlus Sessions</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/20250524valueplus" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025.05.24 - ValuePlus" src="/images/IMG_8902.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025.05.24 - ValuePlus</div><div class="isomer-card-description">(Photos are available till 30 June 2025)</div><div class="isomer-card-link">View photos here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/20250420valueplus" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025.04.20 - ValuePlus" src="/images/ESR65721.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">2025.04.20 - ValuePlus</div>
-<div class="isomer-card-description">(Photos are available till 30 June 2025)</div>
-<div class="isomer-card-link">View photos here</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/20250330valueplus" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025.03.20 - ValuePlus" src="/images/ValuePlus_2025__383_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025.03.20 - ValuePlus</div><div class="isomer-card-description">(Photos are available till 30 June 2025)</div><div class="isomer-card-link">View photos here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/20250223valueplus" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025.02.23 - ValuePlus" src="/images/BRR68761.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">2025.02.23 - ValuePlus</div>
-<div class="isomer-card-description">(Photos are available till 30 June 2025)</div>
-<div class="isomer-card-link">View photos here</div>
-</div>
-</a>
-</div>
+<h4></h4>
 <p></p>
