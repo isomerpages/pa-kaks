@@ -13,7 +13,7 @@ children aged 7-16 from low-income families. Supporting over 250 students,
 this programme provides a nurturing environment for both learning and play.</p>
 <h4>Learn More About CatchPlus</h4>
 <div class="iframe-wrapper">
-<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z_77SsL9w7w?si=PZRDdwXpunYiIJmL"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z_77SsL9w7w?si=PZRDdwXpunYiIJmL"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 125px">
@@ -26,15 +26,15 @@ this programme provides a nurturing environment for both learning and play.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sparklecare"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sparkle_care.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sparklecare"><img style="width: 100%" height="auto" width="100%" alt="<button>SparkleCare</button>" src="/images/sparkle_care.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/joyplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/joy_button_icon.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/joyplus"><img style="width: 100%" height="auto" width="100%" alt="<button>JoyPlus</button>" src="/images/joy_button_icon.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/loveplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/love_button_ivon.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/loveplus"><img style="width: 100%" height="auto" width="100%" alt="<button>LovePlus</button>" src="/images/love_button_ivon.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mealsplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/meals_button_icon.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mealsplus"><img style="width: 100%" height="auto" width="100%" alt="<button>MealsPlus</button>" src="/images/meals_button_icon.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/valueplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/valueplus"><img style="width: 100%" height="auto" width="100%" alt="<button>ValuePlus</button>" src="/images/Untitled_design__2_.png"></a>
 </td>
 </tr>
 </tbody>
