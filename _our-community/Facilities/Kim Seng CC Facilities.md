@@ -18,11 +18,7 @@ workshops, meetings and recreational activities with a capacity of up to
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/KSCC___MPH_1.png">
-</div>
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1MNebYdsI55d9Kw-QUOkb3CP-EekiLsyd/view?usp=sharing"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Booking_Button.png"></a>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCC/KSCC___MPH.jpg">
-</div>
+</div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1MNebYdsI55d9Kw-QUOkb3CP-EekiLsyd/view?usp=sharing"><img style="width: 40%;" height="auto" width="100%" alt="<button>Booking</button>" src="/images/Booking_Button.png"></a>
 <p>Please email the completed form to <a href="mailto:pa_kimseng@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_kimseng@pa.gov.sg</a>
 </p>
 <hr>
