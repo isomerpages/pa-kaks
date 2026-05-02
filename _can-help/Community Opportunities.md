@@ -31,9 +31,9 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/volunteer"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_A_VOLUNTEER.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/volunteer"><img style="width: 100%" height="auto" width="100%" alt="<button>Volunteer</button>" src="/images/AS_A_VOLUNTEER.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/donate"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_A_DONOR.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/donate"><img style="width: 100%" height="auto" width="100%" alt="<button>Donor</button>" src="/images/AS_A_DONOR.png"></a>
 </td>
 </tr>
 </tbody>
@@ -46,7 +46,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQC-UPNFym6rPz144zoQILREOSXSzvT6V8kgKCyytiiOgvkEVuIi_1mEFTIwZpojxp8GsB8x-EgKfl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQC-UPNFym6rPz144zoQILREOSXSzvT6V8kgKCyytiiOgvkEVuIi_1mEFTIwZpojxp8GsB8x-EgKfl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 </td>
 </tr>
