@@ -15,7 +15,7 @@ CatchPlus. Each initiative is designed to address specific needs and create
 a meaningful impact within the community.</p>
 <h4>Learn More About SparkleCare</h4>
 <div class="iframe-wrapper">
-<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Iq_TgfMxWl0?si=oFn94Chz4VLAkKcO"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Iq_TgfMxWl0?si=oFn94Chz4VLAkKcO"></iframe>
 </div>
 <table style="minWidth: 125px">
 <colgroup>
@@ -27,15 +27,15 @@ a meaningful impact within the community.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/joyplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/joy_button_icon.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/joyplus"><img style="width: 100%" height="auto" width="100%" alt="<button>JoyPlus</button>" src="/images/joy_button_icon.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/catchplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Catch_Button_Icon.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/catchplus"><img style="width: 100%" height="auto" width="100%" alt="<button>CatchPlus</button>" src="/images/Catch_Button_Icon.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/loveplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/love_button_ivon.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/loveplus"><img style="width: 100%" height="auto" width="100%" alt="<button>LovePlus</button>" src="/images/love_button_ivon.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mealsplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/meals_button_icon.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mealsplus"><img style="width: 100%" height="auto" width="100%" alt="<button>MealsPlus</button>" src="/images/meals_button_icon.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/valueplus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/valueplus"><img style="width: 100%" height="auto" width="100%" alt="<button>ValuePlus</button>" src="/images/Untitled_design__2_.png"></a>
 </td>
 </tr>
 </tbody>
