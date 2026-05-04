@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -14,24 +16,24 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="6">
 <h4><strong>For Specific Causes</strong></h4>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Specific_Cause.png">
 </div>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Specific_Cause__2_.png">
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="6">
 <p>Meet like-minded individuals and volunteer as a group towards a common
 community goal. The Community Volunteer Scheme allows you to participate
 in cause-based events and programmes that can also benefit from your professional
@@ -52,20 +54,19 @@ their legacy. These skill sets are provided by dedicated volunteers.
 underprivileged youth, participating in environmental clean-up initiatives,
 or organising festive celebrations for the less privileged. Your involvement
 can change lives and build a stronger community.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
 <p><strong>Join us now!</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png">
-</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p></p><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 25%;" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png">
+</div>
+</td>
+<td rowspan="1" colspan="3">
+<p></p><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
 </td>
 </tr>
 </tbody>
