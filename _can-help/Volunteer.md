@@ -54,7 +54,7 @@ their legacy. These skill sets are provided by dedicated volunteers.
 underprivileged youth, participating in environmental clean-up initiatives,
 or organising festive celebrations for the less privileged. Your involvement
 can change lives and build a stronger community.</p>
-<p><strong>Join us now!</strong>
+<p><strong>Join us via PA's Community App Now!</strong>
 </p>
 </td>
 </tr>
