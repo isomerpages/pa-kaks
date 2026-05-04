@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Kreta Ayer Kim Seng.md
-      - Newsletter.md
       - Community Photos.md
       - Facilities/.keep
       - Facilities/Kreta Ayer CC Facilities.md
