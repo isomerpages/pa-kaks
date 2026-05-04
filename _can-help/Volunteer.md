@@ -118,10 +118,7 @@ with the shopping journey, each playing an important role.</p>
 <tr>
 <td rowspan="1" colspan="4">
 <p><strong>Join us now!</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png">
-</div>
+</p><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png"></a>
 </td>
 </tr>
 <tr>
@@ -171,10 +168,7 @@ it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
 <tr>
 <td rowspan="1" colspan="4">
 <p><strong>Join us now!</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png">
-</div>
+</p><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png"></a>
 </td>
 </tr>
 <tr>
