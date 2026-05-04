@@ -59,10 +59,7 @@ can change lives and build a stronger community.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png">
-</div>
+<td rowspan="1" colspan="3"><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png"></a>
 </td>
 <td rowspan="1" colspan="3"><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
 </td>
@@ -112,17 +109,14 @@ tourists to enjoy the vibrant atmosphere with us.</p>
 less privileged families with children under 19 to stock up on everyday
 essentials. Volunteers help to maintain stock in our free market or assist
 with the shopping journey, each playing an important role.</p>
+<p><strong>Join us via PA's Community App Now!</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p><strong>Join us now!</strong>
-</p><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png"></a>
+<td rowspan="1" colspan="3"><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png"></a>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p></p><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
 </td>
 </tr>
 </tbody>
@@ -162,17 +156,14 @@ find more about our current events.
 <br>
 <br>You may e-mail the form to <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a>or submit
 it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
+<p><strong>Join us via PA's Community App Now!</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p><strong>Join us now!</strong>
-</p><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png"></a>
+<td rowspan="1" colspan="3"><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png"></a>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p></p><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
 </td>
 </tr>
 </tbody>
