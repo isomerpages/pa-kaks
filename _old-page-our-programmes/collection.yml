@@ -2,7 +2,6 @@ collections:
   old-page-our-programmes:
     output: true
     order:
-      - Chinatown AAC/.keep
       - SparkleCare/.keep
       - SparkleCare/SparkleCare.md
       - SparkleCare/CatchPlus.md
