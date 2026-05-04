@@ -4,6 +4,7 @@ permalink: /volunteer/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -54,22 +55,17 @@ can change lives and build a stronger community.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/kakscvregistration"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
+<td rowspan="1" colspan="2">
+<p>Join us via iSO</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+<td rowspan="1" colspan="2"><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/300x60_Get_started.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Join us via Android</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+<td rowspan="1" colspan="2"><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/300x60_Get_started.png"></a>
 </td>
 </tr>
 </tbody>
@@ -120,22 +116,17 @@ with the shopping journey, each playing an important role.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/kakscvregistration"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
+<td rowspan="1" colspan="2">
+<p>Join us via iSO</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+<td rowspan="1" colspan="2"><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/300x60_Get_started.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Join us via Android</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+<td rowspan="1" colspan="2"><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/300x60_Get_started.png"></a>
 </td>
 </tr>
 </tbody>
@@ -178,22 +169,17 @@ it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1BWMhxfEebM5XZESplSTRhB6aENLYuVG3/view?usp=sharing"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
+<td rowspan="1" colspan="2">
+<p>Join us via iSO</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+<td rowspan="1" colspan="2"><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/300x60_Get_started.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Join us via Android</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+<td rowspan="1" colspan="2"><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/300x60_Get_started.png"></a>
 </td>
 </tr>
 </tbody>
