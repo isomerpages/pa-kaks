@@ -60,13 +60,11 @@ can change lives and build a stronger community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png">
 </div>
 </td>
-<td rowspan="1" colspan="3">
-<p></p><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
+<td rowspan="1" colspan="3"><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
 </td>
 </tr>
 </tbody>
