@@ -4,8 +4,11 @@ permalink: /volunteer/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 100px">
+<p></p>
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -13,24 +16,24 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="6">
 <h4><strong>For Specific Causes</strong></h4>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Specific_Cause.png">
 </div>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Specific_Cause__2_.png">
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="6">
 <p>Meet like-minded individuals and volunteer as a group towards a common
 community goal. The Community Volunteer Scheme allows you to participate
 in cause-based events and programmes that can also benefit from your professional
@@ -51,25 +54,14 @@ their legacy. These skill sets are provided by dedicated volunteers.
 underprivileged youth, participating in environmental clean-up initiatives,
 or organising festive celebrations for the less privileged. Your involvement
 can change lives and build a stronger community.</p>
+<p><strong>Join us via PA's Community App Now!</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/kakscvregistration"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
+<td rowspan="1" colspan="3"><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+<td rowspan="1" colspan="3"><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
 </td>
 </tr>
 </tbody>
@@ -117,25 +109,14 @@ tourists to enjoy the vibrant atmosphere with us.</p>
 less privileged families with children under 19 to stock up on everyday
 essentials. Volunteers help to maintain stock in our free market or assist
 with the shopping journey, each playing an important role.</p>
+<p><strong>Join us via PA's Community App Now!</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/kakscvregistration"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
+<td rowspan="1" colspan="3"><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
 </td>
 </tr>
 </tbody>
@@ -175,25 +156,14 @@ find more about our current events.
 <br>
 <br>You may e-mail the form to <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a>or submit
 it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
+<p><strong>Join us via PA's Community App Now!</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1BWMhxfEebM5XZESplSTRhB6aENLYuVG3/view?usp=sharing"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/300x60_Get_started.png"></a>
+<td rowspan="1" colspan="3"><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_space.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
 </td>
 </tr>
 </tbody>
