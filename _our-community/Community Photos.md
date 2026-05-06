@@ -45,28 +45,40 @@ their availability.)</p>
 <div class="isomer-card-link">View photos here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1OHYm4MzPE4qwdFj4ShUcsxBbKGx74v8b?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.03.29 - Chinatown Challenge 3X3 Basketball Competition" src="/images/DSC03611.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.03.29 - Chinatown Challenge 3X3 Basketball Competition</div><div class="isomer-card-description">(Photos are available till 31 July 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1SEwnrnzZqYeruy3qFIg7T5m1JKgdrq8F?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.03.22 - Edusave Award @ Kreta Ayer CC" src="/images/IMG067.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.03.22 - Edusave Award @ Kreta Ayer CC</div><div class="isomer-card-description">(Photos are available till 31 July 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1O6-CRnmJzzMW0KhkqCJ3UlC-cKOD3Bbp?usp=sharing" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/tny-2026" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2026.03.14 - Edusave Award @ Kim Seng CC" src="/images/Screenshot_2026_03_19_at_2_39_05_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2026.04.18 - Tamil New Year 2026" src="/images/KSCC_NYC__296_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2026.03.14 - Edusave Award @ Kim Seng CC</div>
-<div class="isomer-card-description">(Photos are available till 30 June 2026)</div>
+<div class="isomer-card-title">2026.04.18 - Tamil New Year 2026</div>
+<div class="isomer-card-description">(Photos are available till 31 August 2026)</div>
 <div class="isomer-card-link">View photos here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1T2SeYiE0pslYEhjME5x1vZPcD-tnu7IG?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.03.07 - JoyPlus Hari Raya Edition" src="/images/Screenshot_2026_03_19_at_2_31_11_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.03.07 - JoyPlus Hari Raya Edition</div><div class="isomer-card-description">(Photos are available till 30 June 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1YrKreneA5OMa9MgyyKmXMcBJjbHZCSjl?usp=sharing" class="isomer-card">
+</a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1YrKreneA5OMa9MgyyKmXMcBJjbHZCSjl?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.03.01 - Buka Puasa @ 51 Havelock Road" src="/images/Screenshot_2026_03_19_at_2_29_25_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.03.01 - Buka Puasa @ 51 Havelock Road</div><div class="isomer-card-description">(Photos are available till 30 June 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1SEwnrnzZqYeruy3qFIg7T5m1JKgdrq8F?usp=sharing" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2026.03.01 - Buka Puasa @ 51 Havelock Road" src="/images/Screenshot_2026_03_19_at_2_29_25_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="2026.03.22 - Edusave Award @ Kreta Ayer CC" src="/images/IMG067.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2026.03.01 - Buka Puasa @ 51 Havelock Road</div>
+<div class="isomer-card-title">2026.03.22 - Edusave Award @ Kreta Ayer CC</div>
+<div class="isomer-card-description">(Photos are available till 31 July 2026)</div>
+<div class="isomer-card-link">View photos here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1O6-CRnmJzzMW0KhkqCJ3UlC-cKOD3Bbp?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.03.14 - Edusave Award @ Kim Seng CC" src="/images/Screenshot_2026_03_19_at_2_39_05_PM.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026.03.14 - Edusave Award @ Kim Seng CC</div><div class="isomer-card-description">(Photos are available till 30 June 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1T2SeYiE0pslYEhjME5x1vZPcD-tnu7IG?usp=sharing" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026.03.07 - JoyPlus Hari Raya Edition" src="/images/Screenshot_2026_03_19_at_2_31_11_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">2026.03.07 - JoyPlus Hari Raya Edition</div>
 <div class="isomer-card-description">(Photos are available till 30 June 2026)</div>
 <div class="isomer-card-link">View photos here</div>
 </div>
