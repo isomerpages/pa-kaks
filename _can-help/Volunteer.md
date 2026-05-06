@@ -154,16 +154,18 @@ raise awareness about community issues, understand government policies,
 gather feedback and support the needy. Check out our <a href="https://www.facebook.com/KAKSCommunity/" rel="noopener noreferrer nofollow" target="_blank">social media page</a> to
 find more about our current events.
 <br>
-<br>You may e-mail the form to <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a>or submit
+<br>You may visit <a href="https://grl.pa.gov.sg/grlpa/" rel="noopener nofollow" target="_blank">GRL@PA</a>,
+e-mail the form to <a href="mailto:PA_KRETAAYERCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_KRETAAYERCC@pa.gov.sg</a> or submit
 it at our CC service counter from 10am - 6pm (Mon - Sun, excluding PH).</p>
-<p><strong>Join us via PA's Community App Now!</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3"><a class="isomer-image-wrapper" href="http://go.gov.sg/commapp"><img style="width: 100%;" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png"></a>
+<td rowspan="1" colspan="3">
+<p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://go.gov.sg/pacommapp"><img style="width: 100%;" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
