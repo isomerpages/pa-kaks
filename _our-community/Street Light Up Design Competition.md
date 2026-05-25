@@ -109,8 +109,6 @@ one representative should submit the entry on behalf of the group.</p>
 </p>
 </li>
 </ul>
-<p><em><sub>All intellectual property rights in submitted designs shall vest in Chinatown Festivals.</sub></em>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><sub>主题灯饰整体正背面设计提案</sub>
@@ -129,6 +127,7 @@ one representative should submit the entry on behalf of the group.</p>
 </p>
 </li>
 </ul>
-<p><sub>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</sub>
+<p><em><sub>All intellectual property rights in submitted designs shall vest in Chinatown Festivals.</sub></em>
+<br><sub>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</sub>
 </p>
 <p></p>
