@@ -5,8 +5,9 @@ variant: tiptap
 description: Submit your design for the Kreta Ayer-Kim Seng Chinese New Year
   2027 Street Light-Up Competition and illuminate Chinatown this festive season!
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Street Light Up Design Competition" src="/images/Web_Banner__1920_x_1080_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web_Banner__1920_x_1080_px___1_.png">
 </div>
 <h4><strong>Think you’ve got what it takes to transform Chinatown into the ultimate Chinese New Year hotspot?</strong></h4>
 <p>Submit your design for the Chinatown Chinese New Year 2027 Centrepiece
@@ -89,7 +90,9 @@ and Upper Cross Street.</p>
 <p></p>
 <p>Individual and group submissions are accepted. For group submissions,
 one representative should submit the entry on behalf of the group.</p>
-<p>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</p>
+<p>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</p><a class="isomer-image-wrapper" href="go.gov.sg/cfccny27designcompetition"><img style="width: 30%;" height="auto" width="100%" alt="Street Light Up Design Competition - Submit" src="/images/Web_Banner__1920_x_1080_px___2_.png"></a>
+<hr>
+<p></p>
 <p><em><sub>Terms &amp; Conditions / </sub></em><strong><sub>提交要求</sub></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -110,17 +113,22 @@ one representative should submit the entry on behalf of the group.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>主题灯饰整体正背面设计提案</p>
+<p><sub>主题灯饰整体正背面设计提案</sub>
+</p>
 </li>
 <li>
-<p>主题灯饰整体日景与夜景效果图</p>
+<p><sub>主题灯饰整体日景与夜景效果图</sub>
+</p>
 </li>
 <li>
-<p>设计主题标语</p>
+<p><sub>设计主题标语</sub>
+</p>
 </li>
 <li>
-<p>设计理念说明 (不超过500字)</p>
+<p><sub>设计理念说明 (不超过500字)</sub>
+</p>
 </li>
 </ul>
-<p>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</p>
+<p><sub>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</sub>
+</p>
 <p></p>
