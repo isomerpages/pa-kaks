@@ -5,16 +5,15 @@ variant: tiptap
 description: Submit your design for the Kreta Ayer-Kim Seng Chinese New Year
   2027 Street Light-Up Competition and illuminate Chinatown this festive season!
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web_Banner__1920_x_1080_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Street Light Up Design Competition" src="/images/Web_Banner__1920_x_1080_px_.png">
 </div>
-<p><strong>Think you’ve got what it takes to transform Chinatown into the ultimate Chinese New Year hotspot?</strong>
-</p>
+<h4><strong>Think you’ve got what it takes to transform Chinatown into the ultimate Chinese New Year hotspot?</strong></h4>
 <p>Submit your design for the Chinatown Chinese New Year 2027 Centrepiece
 and reimagine the festive spirit through bold creativity and modern interpretations
 of tradition. Your design could become the highlight of the season!</p>
-<p><strong>Design Requirement</strong>
+<p>你有信心把牛车水打造成最具魅力的新春热点吗？呈交您的《2027年牛车水新春主题灯饰》设计，以创新巧思融合现代美学与传统元素，为牛车水新春庆典增添璀璨风采。让您的创意点亮牛车水，成为万众瞩目的新春焦点！</p>
+<p><strong>Design Requirement / 设计需求</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -29,8 +28,17 @@ creativity, innovation and festive appeal.</p>
 <p>The centrepiece will be located at the junction of Eu Tong Sen Street
 and Upper Cross Street.</p>
 </li>
+<li>
+<p>主题灯饰设计必须体现羊年为主题及新春节庆氛围。</p>
+</li>
+<li>
+<p>作品应体现牛车水的独特风貌，融合现代创意与传统节庆魅力。</p>
+</li>
+<li>
+<p>主题灯饰将设于余东旋街与克罗士街上段的交界处。</p>
+</li>
 </ul>
-<p><strong>Design Specifications</strong>
+<p><strong>Design Specifications / 设计规格</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,28 +47,50 @@ and Upper Cross Street.</p>
 <li>
 <p>Designs should be suitable for outdoor installation and illumination.</p>
 </li>
+<li>
+<p>主灯饰设计尺寸不得超过13米高及6.5米宽。</p>
+</li>
+<li>
+<p>主题灯饰应适用于户外装置，并适合作为户外灯光展示。</p>
+</li>
 </ul>
-<p><strong>Submission Requirements</strong>
+<p><strong>Submission Requirements / 提交要求</strong>
 </p>
 <p>Participants are required to submit via formsg by 19-6-2026, Friday:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Design proposal with Front and Back view of the Centrepiece</p>
+<p>Design proposal with Front and Back view of the Centrepiece.</p>
 </li>
 <li>
-<p>Artist Impressions of Day and Night Views</p>
+<p>Artist Impressions of Day and Night Views.</p>
 </li>
 <li>
-<p>Design slogan/theme statement</p>
+<p>Design slogan/theme statement.</p>
 </li>
 <li>
-<p>A write up of not more than 500 words on the design concept</p>
+<p>A write up of not more than 500 words on the design concept.</p>
+</li>
+</ul>
+<p>参赛者须于截止日期前通过 FormSG 提交以下资料：</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>主题灯饰整体正背面设计提案</p>
+</li>
+<li>
+<p>主题灯饰整体日景与夜景效果图</p>
+</li>
+<li>
+<p>设计主题标语</p>
+</li>
+<li>
+<p>设计理念说明 (不超过500字)</p>
 </li>
 </ul>
 <p></p>
 <p>Individual and group submissions are accepted. For group submissions,
 one representative should submit the entry on behalf of the group.</p>
-<p><em><sub>Terms &amp; Conditions</sub></em>
+<p>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</p>
+<p><em><sub>Terms &amp; Conditions / </sub></em><strong><sub>提交要求</sub></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -75,11 +105,22 @@ one representative should submit the entry on behalf of the group.</p>
 <p><em><sub>Chinatown Festivals reserves the right to modify and adapt the submitted designs for the final implementation of the street light-up.</sub></em>
 </p>
 </li>
-<li>
+</ul>
 <p><em><sub>All intellectual property rights in submitted designs shall vest in Chinatown Festivals.</sub></em>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>主题灯饰整体正背面设计提案</p>
+</li>
+<li>
+<p>主题灯饰整体日景与夜景效果图</p>
+</li>
+<li>
+<p>设计主题标语</p>
+</li>
+<li>
+<p>设计理念说明 (不超过500字)</p>
 </li>
 </ul>
-<hr>
-<p></p>
+<p>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</p>
 <p></p>
