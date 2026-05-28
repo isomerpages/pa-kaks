@@ -112,19 +112,19 @@ one representative should submit the entry on behalf of the group.</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><sub>主题灯饰整体正背面设计提案</sub>
+<p><em>资料不完整的作品将不予受理。</em>
 </p>
 </li>
 <li>
-<p><sub>主题灯饰整体日景与夜景效果图</sub>
+<p><em>所提交的设计作品或将用于宣传及推广用途。</em>
 </p>
 </li>
 <li>
-<p><sub>设计主题标语</sub>
+<p><em>牛车水节庆筹委会保留对所提交设计进行修改与调整的权利，以用于最终落实的街道灯饰布置。</em>
 </p>
 </li>
 <li>
-<p><sub>设计理念说明 (不超过500字)</sub>
+<p><em>所有提交作品的知识产权将归牛车水节庆工作组所有。</em>
 </p>
 </li>
 </ul>
