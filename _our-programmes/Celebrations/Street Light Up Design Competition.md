@@ -112,19 +112,19 @@ one representative should submit the entry on behalf of the group.</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>资料不完整的作品将不予受理。</em>
+<p><em><sub>资料不完整的作品将不予受理。</sub></em>
 </p>
 </li>
 <li>
-<p><em>所提交的设计作品或将用于宣传及推广用途。</em>
+<p><em><sub>所提交的设计作品或将用于宣传及推广用途。</sub></em>
 </p>
 </li>
 <li>
-<p><em>牛车水节庆筹委会保留对所提交设计进行修改与调整的权利，以用于最终落实的街道灯饰布置。</em>
+<p><em><sub>牛车水节庆筹委会保留对所提交设计进行修改与调整的权利，以用于最终落实的街道灯饰布置。</sub></em>
 </p>
 </li>
 <li>
-<p><em>所有提交作品的知识产权将归牛车水节庆工作组所有。</em>
+<p><em><sub>所有提交作品的知识产权将归牛车水节庆工作组所有。</sub></em>
 </p>
 </li>
 </ul>
