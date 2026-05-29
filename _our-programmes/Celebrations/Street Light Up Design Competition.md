@@ -90,7 +90,7 @@ one representative should submit the entry on behalf of the group.</p>
 <p>设计理念说明 (不超过500字)</p>
 </li>
 </ul>
-<p>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</p><a class="isomer-image-wrapper" href="go.gov.sg/cfccny27designcompetition"><img style="width: 30%;" height="auto" width="100%" alt="Street Light Up Design Competition - Submit" src="/images/Web_Banner__1920_x_1080_px___2_.png"></a>
+<p>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</p><a class="isomer-image-wrapper" href="https://form.gov.sg/69fc306257637285a5b0412c"><img style="width: 40%;" height="auto" width="100%" alt="Street Light Up Design Competition - Submit" src="/images/Web_Banner__1920_x_1080_px___2_.png"></a>
 <hr>
 <p></p>
 <p><em><sub>Terms &amp; Conditions / </sub></em><strong><sub>提交要求</sub></strong>
