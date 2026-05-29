@@ -123,12 +123,8 @@ one representative should submit the entry on behalf of the group.</p>
 <p><em><sub>牛车水节庆筹委会保留对所提交设计进行修改与调整的权利，以用于最终落实的街道灯饰布置。</sub></em>
 </p>
 </li>
-<li>
-<p><em><sub>所有提交作品的知识产权将归牛车水节庆工作组所有。</sub></em>
-</p>
-</li>
 </ul>
 <p><em><sub>All intellectual property rights in submitted designs shall vest in Chinatown Festivals.</sub></em>
-<br><sub>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</sub>
+<br><em><sub>所有提交作品的知识产权将归牛车水节庆工作组所有。</sub></em>
 </p>
 <p></p>
