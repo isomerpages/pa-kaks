@@ -72,6 +72,10 @@ and Upper Cross Street.</p>
 <li>
 <p>A write up of not more than 500 words on the design concept.</p>
 </li>
+<li>
+<p>Individual and group submissions are accepted. For group submissions,
+one representative should submit the entry on behalf of the group.</p>
+</li>
 </ul>
 <p>参赛者须于截止日期前通过 FormSG 提交以下资料：</p>
 <ul data-tight="true" class="tight">
@@ -87,11 +91,10 @@ and Upper Cross Street.</p>
 <li>
 <p>设计理念说明 (不超过500字)</p>
 </li>
-</ul>
-<p></p>
-<p>Individual and group submissions are accepted. For group submissions,
-one representative should submit the entry on behalf of the group.</p>
-<p>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</p><a class="isomer-image-wrapper" href="go.gov.sg/cfccny27designcompetition"><img style="width: 30%;" height="auto" width="100%" alt="Street Light Up Design Competition - Submit" src="/images/Web_Banner__1920_x_1080_px___2_.png"></a>
+<li>
+<p>接受个人及团体报名参赛。团体参赛须由一名代表提交作品。</p>
+</li>
+</ul><a class="isomer-image-wrapper" href="go.gov.sg/cfccny27designcompetition"><img style="width: 30%;" height="auto" width="100%" alt="Street Light Up Design Competition - Submit" src="/images/Web_Banner__1920_x_1080_px___2_.png"></a>
 <hr>
 <p></p>
 <p><em><sub>Terms &amp; Conditions / </sub></em><strong><sub>提交要求</sub></strong>
@@ -109,6 +112,10 @@ one representative should submit the entry on behalf of the group.</p>
 <p><em><sub>Chinatown Festivals reserves the right to modify and adapt the submitted designs for the final implementation of the street light-up.</sub></em>
 </p>
 </li>
+<li>
+<p><em><sub>All intellectual property rights in submitted designs shall vest in Chinatown Festivals.</sub></em>
+</p>
+</li>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
@@ -123,8 +130,9 @@ one representative should submit the entry on behalf of the group.</p>
 <p><em><sub>牛车水节庆筹委会保留对所提交设计进行修改与调整的权利，以用于最终落实的街道灯饰布置。</sub></em>
 </p>
 </li>
-</ul>
-<p><em><sub>All intellectual property rights in submitted designs shall vest in Chinatown Festivals.</sub></em>
-<br><em><sub>所有提交作品的知识产权将归牛车水节庆工作组所有。</sub></em>
+<li>
+<p><em><sub>所有提交作品的知识产权将归牛车水节庆工作组所有。</sub></em>
 </p>
+</li>
+</ul>
 <p></p>
