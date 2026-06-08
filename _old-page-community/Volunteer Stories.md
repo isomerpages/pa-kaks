@@ -5,7 +5,11 @@ variant: tiptap
 description: Learn more about the Kreta Ayer-Kim Seng Community - from our
   volunteers to other active members of the KAKS Community Centre
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -27,8 +31,31 @@ description: Learn more about the Kreta Ayer-Kim Seng Community - from our
 <p>The heart of our community beats with the dedication of volunteers. Your
 time and skills can make a profound impact on the lives of our residents.
 Scan the QR code to sign up as a volunteer and become a part of the Kreta
-Ayer-Kim Seng family. Scan our QR Code below to sign up or <a href="https://www.onepa.gov.sg/events/calling-for-volunteers-community-volunteering-kreta-ayer-kim-seng-20440726" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
+Ayer-Kim Seng family.</p>
+<p><strong>Join us via PA's Community App Now!</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CV_Registration_.png">
+<img style="width: 100%" height="auto" width="100%" alt="iso-commportal" src="/images/iSO_CommPortal.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Android-CommPortal" src="/images/Android_CommPortal.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
