@@ -179,7 +179,7 @@ their availability.)</p>
 <div class="isomer-card-description">(Photos are available till 31 August 2026)</div>
 <div class="isomer-card-link">View photos here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1U-NiNiF5mI2Px5KstrBkBCSOH2mhVJMj?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parents' Day Celebration" src="/images/IMG_0_113.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents' Day Celebration</div><div class="isomer-card-description">(Photos are available till 30 September 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1U-NiNiF5mI2Px5KstrBkBCSOH2mhVJMj?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026.06.13 - Parents' Day Celebration" src="/images/IMG_0_113.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents' Day Celebration</div><div class="isomer-card-description">(Photos are available till 30 September 2026)</div><div class="isomer-card-link">View photos here</div></div></a>
 </div>
 <hr>
 <h1></h1>
