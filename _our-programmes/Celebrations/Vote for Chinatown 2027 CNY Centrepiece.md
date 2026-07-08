@@ -7,7 +7,7 @@ description: Submit your design for the Kreta Ayer-Kim Seng Chinese New Year
 third_nav_title: Celebrations
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Vote CNY 2027" src="/images/CNY_2027_Web__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="CFC CNY 2027 Vote" src="/images/CFC_Vote_CNY_2027.png">
 </div>
 <h4>Design 1: <strong>Blooming Fortune金羊献宝，富贵花开 </strong>by Ng Toh Chuan</h4>
 <div class="isomer-image-wrapper">
