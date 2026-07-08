@@ -72,3 +72,6 @@ the goat embodies gentleness, peace, and resilience. This design conveys
 our wish for 2027: a year of peace, prosperity, fruitfulness, and blessings
 for the New Year.</p><a class="isomer-image-wrapper" href="http://go.gov.sg/votecny2027"><img style="width: 20%;" height="auto" width="100%" alt="Vote now" src="/images/Vote_Button.png"></a>
 <p></p>
+<p><sub>Terms and conditions:<br>- Selected materials may be used, reproduced, published or displayed by Chinatown Festivals for publicity, promotional, exhibition and related purposes without further notice or compensation;<br>- Chinatown Festivals reserves the right to modify, adapt and implement submitted designs for the final street light-up installation;<br>- All intellectual property rights in submitted designs shall vest in Chinatown Festivals</sub>
+</p>
+<p></p>
