@@ -8,7 +8,7 @@ third_nav_title: Celebrations
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Vote 2027 CNY" src="/images/Vote_Header.png">
+<img style="width: 100%" height="auto" width="100%" alt="VOte CNY 2027" src="/images/Vote_Header.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2027 CNY Prize" src="/images/Screenshot_2026_07_08_at_3_42_07_PM.png">
