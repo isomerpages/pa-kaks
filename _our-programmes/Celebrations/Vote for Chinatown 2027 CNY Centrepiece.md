@@ -6,15 +6,8 @@ description: Submit your design for the Kreta Ayer-Kim Seng Chinese New Year
   2027 Street Light-Up Competition and illuminate Chinatown this festive season!
 third_nav_title: Celebrations
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VOte CNY 2027" src="/images/Vote_Header.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2027 CNY Prize" src="/images/Screenshot_2026_07_08_at_3_42_07_PM.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="votenow" src="/images/Screenshot_2026_07_08_at_3_58_13_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Vote CNY 2027" src="/images/CNY_2027_Web__1_.png">
 </div>
 <h4>Design 1: <strong>Blooming Fortune金羊献宝，富贵花开 </strong>by Ng Toh Chuan</h4>
 <div class="isomer-image-wrapper">
